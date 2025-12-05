@@ -1,0 +1,100 @@
+{
+  "model_config": {
+    "model_name": "google/gemma-3-1b-it",
+    "use_cache": false,
+    "trust_remote_code": true,
+    "torch_dtype": "bfloat16",
+    "attn_implementation": "eager"
+  },
+  "quantization_config": {
+    "load_in_4bit": true,
+    "bnb_4bit_compute_dtype": "bfloat16",
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true
+  },
+  "qlora_config": {
+    "r": 64,
+    "lora_alpha": 128,
+    "lora_dropout": 0.05,
+    "bias": "none",
+    "task_type": "CAUSAL_LM",
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj",
+      "lm_head"
+    ],
+    "modules_to_save": ["embed_tokens"]
+  },
+  "dataset_config": {
+    "train_file": "data/train.jsonl",
+    "eval_file": "data/eval.jsonl",
+    "max_length": 1024,
+    "packing": false
+  },
+  "training_args": {
+    "output_dir": "./outputs/gemma3-1b-unsiq-optimal",
+    "overwrite_output_dir": true,
+    "num_train_epochs": 3,
+    "per_device_train_batch_size": 2,
+    "per_device_eval_batch_size": 4,
+    "gradient_accumulation_steps": 8,
+    "gradient_checkpointing": true,
+    "gradient_checkpointing_kwargs": {"use_reentrant": false},
+    "optim": "paged_adamw_8bit",
+    "learning_rate": 2e-4,
+    "weight_decay": 0.01,
+    "max_grad_norm": 0.3,
+    "lr_scheduler_type": "cosine",
+    "warmup_ratio": 0.03,
+    "warmup_steps": 100,
+    "eval_strategy": "steps",
+    "eval_steps": 50,
+    "save_strategy": "steps",
+    "save_steps": 50,
+    "save_total_limit": null,
+    "load_best_model_at_end": true,
+    "metric_for_best_model": "eval_loss",
+    "greater_is_better": false,
+    "logging_strategy": "steps",
+    "logging_steps": 10,
+    "logging_first_step": true,
+    "report_to": ["tensorboard"],
+    "bf16": true,
+    "bf16_full_eval": true,
+    "dataloader_num_workers": 4,
+    "dataloader_pin_memory": true,
+    "group_by_length": true,
+    "ddp_find_unused_parameters": false,
+    "seed": 42,
+    "data_seed": 42
+  },
+  "generation_config": {
+    "max_new_tokens": 512,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.1,
+    "do_sample": true
+  },
+  "notes": {
+    "config_optimized_for": "Gemma 3 1B - Best Quality",
+    "hardware": "NVIDIA A100 40GB+",
+    "effective_batch_size": 16,
+    "total_checkpoints": "unlimited (save all)",
+    "recommendations": [
+      "Higher LoRA rank (64) for maximum model capacity",
+      "Learning rate 2e-4 optimal for Gemma 3 per official docs",
+      "Max length 1024 tokens (can go up to 32K if needed)",
+      "Warmup ratio 0.03 recommended by Google",
+      "Target lm_head for better output generation",
+      "Save embed_tokens for vocabulary adaptation",
+      "3 epochs balanced for quality without overfitting",
+      "Eval every 50 steps to monitor closely"
+    ]
+  }
+}
