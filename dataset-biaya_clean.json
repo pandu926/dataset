@@ -1,0 +1,442 @@
+[
+  {
+    "instruction": "Berapa total biaya kuliah penuh untuk S1 Pendidikan Agama Islam di UNSIQ?",
+    "response": "Total biaya kuliah untuk 8 semester adalah Rp29.595.000, dihitung dari: Sem 1: Rp6.425.000 Sem 2: Rp5.405.000 Sem 3-6: 4 × Rp3.755.000 = Rp15.020.000 Sem 7: Rp2.945.000 Sem 8: Rp1.595.000 Biaya ini mencakup seluruh komponen (SPP, atribut, matrikulasi, muawanah). Angka menurun tiap semester mencerminkan kebijakan UNSIQ untuk meringankan beban akhir studi-saat mahasiswa fokus pada skripsi dan persiapan wisuda."
+  },
+  {
+    "instruction": "Mengapa biaya semester 1 Pendidikan Agama Islam lebih tinggi dari semester berikutnya?",
+    "response": "Karena semester 1 mencakup biaya awal non-rekuren: atribut (seragam, jas), matrikulasi, dan dana pengembangan kampus-yang hanya dibayar sekali. Komponen ini tidak muncul di semester selanjutnya, sehingga biaya turun signifikan mulai semester 2. Ini adalah praktik umum di PTS, yang memisahkan biaya investasi awal dari biaya operasional semesteran (SPP)."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk S1 Pendidikan Agama Islam?",
+    "response": "Rata-rata biaya per semester adalah Rp3.699.375 (total Rp29.595.000 ÷ 8 semester). Namun, ini hanya angka matematis-kenyataannya, beban terberat ada di awal (Rp6,4 juta), lalu menurun drastis hingga akhir (Rp1,6 juta). Mahasiswa disarankan menyiapkan dana besar di semester 1, lalu menikmati keringanan di masa akhir. Ini mendukung prinsip keadilan finansial: bayar lebih saat mampu, bayar ringan saat butuh fokus akademik."
+  },
+  {
+    "instruction": "Apa manfaat penurunan biaya di semester akhir?",
+    "response": "Penurunan biaya di semester 7-8 (menjadi Rp2,9 juta dan Rp1,6 juta) membantu mahasiswa fokus pada skripsi tanpa tekanan finansial berat. Di masa ini, pendapatan sering tidak stabil karena magang atau persiapan kerja. UNSIQ sengaja merancang struktur ini sebagai bentuk dukungan sosial-mengurangi risiko mahasiswa menunda wisuda hanya karena kendala biaya, sekaligus mendorong kelulusan tepat waktu."
+  },
+  {
+    "instruction": "Bagaimana skema pembayaran S1 PAI cocok dengan program KIP-Kuliah?",
+    "response": "Sangat cocok. KIP-Kuliah menanggung biaya kuliah hingga Rp12 juta/semester, jauh di atas biaya tertinggi PAI (Rp6,4 juta). Artinya, penerima KIP-Kuliah tidak perlu membayar apa pun untuk SPP, bahkan di semester 1. Selisih dana bisa digunakan untuk biaya hidup melalui tunjangan bulanan KIP-Kuliah. Ini menjadikan PAI sebagai prodi ideal bagi calon penerima KIP-Kuliah yang ingin studi tanpa beban finansial."
+  },
+  {
+    "instruction": "Apakah biaya semester 3-6 tetap sama? Mengapa demikian?",
+    "response": "Ya, biaya semester 3-6 stabil di Rp3.755.000 karena hanya mencakup SPP rutin dan dana kemahasiswaan, tanpa komponen tambahan. UNSIQ sengaja menjaga stabilitas biaya di masa inti perkuliahan (semester 3-6) agar mahasiswa bisa merencanakan anggaran jangka panjang tanpa kejutan finansial. Ini mencerminkan transparansi dan prediktivitas dalam kebijakan keuangan kampus."
+  },
+  {
+    "instruction": "Jika mahasiswa PAI mengajukan beasiswa Tahfidz 30 Juz, berapa biaya yang harus dibayar?",
+    "response": "Beasiswa Tahfidz 30 Juz memberikan bebas infaq pengembangan dan 50% potongan SPP. Namun, karena struktur biaya UNSIQ tidak memisahkan SPP dan infaq secara eksplisit dalam tabel, potongan diterapkan pada total biaya semester. Misalnya, di semester 2: 50% × Rp5.405.000 = Rp2.702.500. Di semester 1, potongan hanya berlaku pada komponen SPP (bukan atribut), sehingga penghematan tidak penuh 50%."
+  },
+  {
+    "instruction": "Apa risiko jika mahasiswa tidak mampu bayar semester 1?",
+    "response": "Jika tidak mampu bayar semester 1 sebelum tenggat, mahasiswa tidak bisa mengikuti kuliah dan dianggap mengundurkan diri. Tidak ada penjadwalan ulang otomatis. Solusi: ajukan KIP-Kuliah sebelum 31 Oktober 2025 atau manfaatkan beasiswa masuk (Tahfidz, Alumni, Mitra). UNSIQ tidak menawarkan cicilan untuk semester 1-karena biaya ini mencakup komponen tetap yang harus dibayar lunas untuk aktivasi status mahasiswa."
+  },
+  {
+    "instruction": "Mengapa semester 8 jauh lebih murah (Rp1.595.000)?",
+    "response": "Karena semester 8 umumnya hanya digunakan untuk bimbingan skripsi dan ujian akhir, bukan kuliah reguler. Beban akademik minimal, sehingga biaya hanya mencakup administrasi kelulusan dan dana wisuda. UNSIQ sengaja menekan biaya akhir untuk mendorong mahasiswa segera menyelesaikan studi, bukan menunda karena beban finansial-sejalan dengan target kelulusan tepat waktu dan peningkatan IPK institusi."
+  },
+  {
+    "instruction": "Bagaimana perbandingan biaya PAI dengan rata-rata PTS di Jawa Tengah?",
+    "response": "Biaya PAI UNSIQ kompetitif dan lebih transparan. Banyak PTS di Jawa Tengah memasang biaya S1 antara Rp5-8 juta/semester tanpa penurunan, total bisa mencapai Rp40-60 juta. UNSIQ menawarkan total Rp29,6 juta dengan penurunan progresif-lebih murah dan adil. Apalagi, PAI UNSIQ berakreditasi Unggul, memberikan nilai tambah akademik yang tidak dimiliki PTS berakreditasi B/C."
+  },
+  {
+    "instruction": "Apakah biaya kuliah PAI bisa dibayar per SKS?",
+    "response": "Tidak, karena UNSIQ menerapkan sistem paket per semester, bukan per SKS. Biaya tetap sama meski mahasiswa mengambil 15 SKS atau 24 SKS. Ini mendorong mahasiswa mengambil beban studi maksimal tanpa khawatir biaya membengkak-mempercepat kelulusan. Namun, jika cuti semester, biaya tetap harus dibayar (kecuali cuti resmi dengan surat), karena status akademik tetap aktif. 🔹 Pendidikan Bahasa Arab (S1) - 11 Dataset"
+  },
+  {
+    "instruction": "Berapa total biaya kuliah untuk S1 Pendidikan Bahasa Arab?",
+    "response": "Total biaya untuk 8 semester adalah Rp23.125.000, dihitung dari: Sem 1: Rp5.170.000 Sem 2: Rp4.275.000 Sem 3-6: 4 × Rp2.995.000 = Rp11.980.000 Sem 7: Rp2.320.000 Sem 8: Rp1.195.000 Ini Rp6,5 juta lebih murah daripada PAI, mencerminkan perbedaan beban operasional atau kebijakan fakultas. Prodi ini tetap berakreditasi Unggul, menjadikannya pilihan hemat bagi calon yang ingin studi bahasa Arab dengan mutu tinggi."
+  },
+  {
+    "instruction": "Mengapa biaya Pendidikan Bahasa Arab lebih rendah daripada PAI?",
+    "response": "Perbedaan biaya mungkin disebabkan oleh komponen atribut, kebutuhan laboratorium, atau kebijakan internal fakultas. PAI mungkin memiliki lebih banyak kegiatan lapangan atau pelatihan khusus yang memerlukan dana tambahan. Namun, keduanya sama-sama berakreditasi Unggul, sehingga kualitas akademik tetap terjamin-hanya struktur biayanya yang disesuaikan dengan kebutuhan operasional masing-masing prodi."
+  },
+  {
+    "instruction": "Berapa penghematan jika memilih Pendidikan Bahasa Arab daripada PAI?",
+    "response": "Memilih Pendidikan Bahasa Arab menghemat Rp6.470.000 selama 8 semester (Rp29.595.000 - Rp23.125.000). Penghematan terbesar terjadi di semester 1 (Rp1,255 juta) dan semester 8 (Rp400 ribu). Ini signifikan bagi keluarga berpendapatan terbatas. Namun, calon harus mempertimbangkan minat dan prospek karier-karena kedua prodi memiliki jalur profesi yang berbeda meski sama-sama di bidang kependidikan Islam."
+  },
+  {
+    "instruction": "Apakah Pendidikan Bahasa Arab memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena prodi ini berakreditasi Unggul (setara A), yang memenuhi syarat utama KIP-Kuliah. Biaya tertingginya (Rp5,17 juta) jauh di bawah batas maksimal KIP-Kuliah (Rp12 juta/semester), sehingga 100% biaya kuliah ditanggung pemerintah. Calon hanya perlu mendaftar KIP-Kuliah antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ sebagai PT pilihan saat pendaftaran."
+  },
+  {
+    "instruction": "Bagaimana struktur biaya Bahasa Arab mendukung aksesibilitas pendidikan?",
+    "response": "Struktur biaya yang menurun progresif-dari Rp5,17 juta ke Rp1,195 juta-membuat prodi ini sangat terjangkau. Biaya akhir yang rendah memungkinkan lulusan dari keluarga kurang mampu tetap menyelesaikan studi tanpa terhambat biaya wisuda. Ini selaras dengan misi UNSIQ sebagai kampus berbasis pesantren yang inklusif, sekaligus menjawab tujuan SDGs dalam pemerataan akses pendidikan tinggi berkualitas."
+  },
+  {
+    "instruction": "Apa implikasi biaya rendah di semester 8 untuk mahasiswa Bahasa Arab?",
+    "response": "Biaya semester 8 hanya Rp1.195.000, menjadikannya salah satu yang termurah di UNSIQ. Ini mendorong mahasiswa tidak menunda wisuda, karena beban finansial minimal. Bagi yang bekerja paruh waktu, dana ini mudah dikumpulkan dalam 1-2 bulan. UNSIQ sengaja merancang demikian untuk meningkatkan angka kelulusan tepat waktu dan mengurangi \"mahasiswa abadi\"-masalah umum di banyak PTS."
+  },
+  {
+    "instruction": "Jika terjadi kenaikan biaya, apakah angka ini masih berlaku?",
+    "response": "Angka ini berlaku untuk angkatan yang masuk tahun 2025, sesuai ketentuan saat pendaftaran. UNSIQ menerapkan biaya tetap per angkatan, artinya mahasiswa tidak terkena kenaikan selama masa studi normal (8 semester). Ini memberikan kepastian finansial jangka panjang-berbeda dengan kampus yang menaikkan biaya tiap tahun. Jika studi melebihi 8 semester, biaya mengikuti tarif berlaku saat itu."
+  },
+  {
+    "instruction": "Bagaimana biaya Bahasa Arab dibandingkan prodi humaniora lain di UNSIQ?",
+    "response": "Pendidikan Bahasa Arab adalah salah satu prodi humaniora termurah di UNSIQ. Misalnya, PIAUD atau PGMI memiliki biaya awal lebih tinggi karena kebutuhan praktikum anak usia dini. Bahasa Arab lebih teoretis, sehingga biaya operasional lebih rendah. Namun, semua prodi Tarbiyah berakreditasi Unggul, menunjukkan bahwa efisiensi biaya tidak mengorbankan mutu-melainkan hasil pengelolaan keuangan yang prudent."
+  },
+  {
+    "instruction": "Apakah mahasiswa Bahasa Arab bisa mengajukan cicilan?",
+    "response": "Ya, UNSIQ menyediakan opsi cicilan per semester untuk biaya kuliah-namun bukan per bulan. Mahasiswa harus melunasi seluruh biaya semester sebelum tenggat KRS. Tidak ada bunga, tetapi keterlambatan berisiko blokir KRS. Untuk semester 1, cicilan biasanya tidak tersedia karena komponen atribut harus dibayar lunas. Mahasiswa disarankan berkonsultasi dengan bagian keuangan jika mengalami kendala."
+  },
+  {
+    "instruction": "Apa keuntungan finansial memilih Bahasa Arab bagi penerima beasiswa mitra?",
+    "response": "Penerima beasiswa mitra (misal: santri, ustadz) hanya perlu membayar Rp1,595 juta/semester-tetapi untuk Bahasa Arab, biaya semester 8 (Rp1,195 juta) bahkan lebih rendah dari kuota beasiswa. Artinya, di semester akhir, mereka tidak perlu membayar apa pun, karena beasiswa sudah menutup seluruh biaya. Ini memberi keleluasaan finansial ekstra di masa transisi menuju dunia kerja."
+  },
+  {
+    "instruction": "Bagaimana perencanaan keuangan ideal untuk calon mahasiswa Bahasa Arab?",
+    "response": "Calon sebaiknya menyiapkan Rp9,445 juta untuk dua semester pertama (Rp5,17 juta + Rp4,275 juta), lalu Rp3 juta per semester untuk semester 3-6, dan Rp3,5 juta untuk dua semester terakhir. Total awal sekitar Rp26 juta untuk 8 semester-sudah termasuk buffer. Jika mengajukan KIP-Kuliah atau beasiswa, cukup siapkan dana darurat saja. Perencanaan ini mencegah stres finansial dan memastikan kelancaran studi hingga wisuda."
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 PGMI di UNSIQ?",
+    "response": "Total biaya adalah Rp28.770.000, dihitung sebagai: Semester 1: Rp5.495.000 Semester 2: Rp4.615.000 Semester 3-6: 4 × Rp3.215.000 = Rp12.860.000 Semester 7: Rp2.495.000 Semester 8: Rp1.295.000 Jumlah: Rp5.495.000 + Rp4.615.000 + Rp12.860.000 + Rp2.495.000 + Rp1.295.000 = Rp28.770.000. Biaya ini berlaku untuk angkatan 2025 dan mencakup seluruh komponen akademik dan non-akademik selama masa studi normal."
+  },
+  {
+    "instruction": "Mengapa biaya semester 1 PGMI (Rp5.495.000) lebih tinggi dari semester berikutnya?",
+    "response": "Karena semester 1 mencakup biaya non-rekuren seperti atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali saat masuk. Mulai semester 2, biaya turun menjadi Rp4.615.000, dan stabil di Rp3.215.000 pada semester 3-6. Ini adalah struktur umum di PTS: beban terberat di awal, lalu ringan di akhir untuk mendukung kelancaran skripsi dan wisuda."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 pada PGMI?",
+    "response": "Penghematan mencapai Rp4.200.000, yaitu selisih antara biaya semester 1 (Rp5.495.000) dan semester 8 (Rp1.295.000). Ini mencerminkan kebijakan UNSIQ untuk meringankan beban finansial mahasiswa di masa akhir studi-saat fokus pada penyelesaian skripsi dan persiapan memasuki dunia kerja. Penurunan ini juga mendorong kelulusan tepat waktu tanpa penundaan akibat kendala biaya."
+  },
+  {
+    "instruction": "Apakah PGMI memenuhi syarat KIP-Kuliah berdasarkan biaya dan akreditasi?",
+    "response": "Ya, karena PGMI berakreditasi Unggul dan biaya tertingginya (Rp5.495.000) jauh di bawah batas maksimal KIP-Kuliah (Rp12.000.000 per semester). Penerima KIP-Kuliah tidak perlu membayar apa pun untuk biaya kuliah selama 8 semester. Calon cukup mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ sebagai perguruan tinggi tujuan saat mendaftar jalur seleksi."
+  },
+  {
+    "instruction": "Berapa biaya rata-rata per semester untuk PGMI?",
+    "response": "Rata-rata biaya per semester adalah Rp3.596.250, dihitung dari total biaya Rp28.770.000 dibagi 8 semester. Namun, distribusinya tidak merata: 64% dari total biaya (Rp18.470.000) dibayar dalam 4 semester pertama, sementara 36% (Rp10.300.000) dibayar dalam 4 semester terakhir. Ini menunjukkan pentingnya perencanaan keuangan jangka pendek di awal studi."
+  },
+  {
+    "instruction": "Jika mahasiswa PGMI cuti selama 1 semester, apakah tetap harus bayar?",
+    "response": "Jika cuti tidak melalui prosedur resmi (surat cuti diterima), status akademik tetap aktif dan biaya semester tersebut tetap harus dibayar. Namun, jika cuti resmi disetujui, mahasiswa tidak dikenai biaya SPP, tetapi tetap wajib membayar dana kemahasiswaan minimal (jika ada). UNSIQ tidak secara eksplisit menyebutkan biaya cuti dalam tabel, tetapi kebijakan umumnya mengikuti prinsip: tidak kuliah = tidak bayar SPP penuh."
+  },
+  {
+    "instruction": "Bagaimana skema biaya PGMI mendukung calon guru MI dari keluarga kurang mampu?",
+    "response": "Dengan total biaya Rp28.770.000 dan penurunan drastis di semester akhir (hingga Rp1.295.000), PGMI sangat terjangkau. Ditambah akreditasi Unggul, lulusannya mudah diterima sebagai guru P3K di madrasah-yang menawarkan gaji tetap. Kombinasi biaya rendah, kualitas tinggi, dan prospek kerja jelas menjadikan PGMI sebagai investasi pendidikan yang sangat rasional bagi keluarga berpendapatan terbatas."
+  },
+  {
+    "instruction": "Apa implikasi biaya semester 8 PGMI sebesar Rp1.295.000?",
+    "response": "Biaya ini sangat rendah karena hanya mencakup administrasi kelulusan, wisuda, dan dana kemahasiswaan terakhir-bukan kuliah reguler. Mahasiswa umumnya hanya mengikuti bimbingan skripsi dan ujian akhir. UNSIQ sengaja menetapkan angka ini untuk memastikan bahwa tidak ada mahasiswa yang gagal wisuda karena alasan finansial, sejalan dengan komitmen kampus pada akses pendidikan yang adil dan inklusif."
+  },
+  {
+    "instruction": "Berapa total biaya untuk 4 semester pertama PGMI?",
+    "response": "Total biaya 4 semester pertama adalah Rp18.420.000, dihitung dari: Sem 1: Rp5.495.000 Sem 2: Rp4.615.000 Sem 3: Rp3.215.000 Sem 4: Rp3.215.000 Jumlah: Rp5.495.000 + Rp4.615.000 + Rp3.215.000 + Rp3.215.000 = Rp18.420.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan menyiapkan dana ini sejak awal atau mengamankan beasiswa/KIP-Kuliah sebelum semester pertama."
+  },
+  {
+    "instruction": "Jika mahasiswa PGMI mengajukan beasiswa mitra (bayar Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "response": "Tidak. Karena biaya semester 8 PGMI hanya Rp1.295.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp300.000 yang tidak digunakan. Ini menunjukkan bahwa beasiswa mitra lebih dari cukup untuk menutup biaya PGMI hingga lulus-menjadikannya pilihan ideal bagi santri, ustadz, atau kader desa."
+  },
+  {
+    "instruction": "Apakah biaya PGMI bisa dibayar per SKS?",
+    "response": "Tidak, karena UNSIQ menerapkan sistem paket per semester, bukan per SKS. Biaya tetap Rp3.215.000 di semester 3-6 meski mahasiswa mengambil 18 SKS atau 24 SKS. Ini mendorong mahasiswa mengambil beban studi maksimal tanpa khawatir biaya tambahan-mempercepat kelulusan. Namun, jika mengambil cuti, biaya semester tersebut tetap wajib dibayar kecuali cuti resmi disetujui. 🔹 Pendidikan Islam Anak Usia Dini (PIAUD) S1 - 11 Dataset"
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 PIAUD di UNSIQ?",
+    "response": "Total biaya adalah Rp23.795.000, dihitung sebagai: Semester 1: Rp4.745.000 Semester 2: Rp3.825.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.745.000 + Rp3.825.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.795.000. Ini adalah salah satu prodi S1 termurah di UNSIQ dengan akreditasi Unggul, menjadikannya pilihan sangat efisien bagi calon pendidik usia dini."
+  },
+  {
+    "instruction": "Mengapa biaya PIAUD lebih rendah daripada PGMI?",
+    "response": "PIAUD memiliki total biaya Rp23.795.000, sedangkan PGMI Rp28.770.000-selisih Rp4.975.000. Perbedaan ini mungkin karena kebutuhan praktikum dan fasilitas yang berbeda. PGMI memerlukan simulasi mengajar kelas MI lengkap, sementara PIAUD lebih fokus pada ruang bermain dan observasi-yang biaya operasionalnya lebih rendah. Namun, keduanya sama-sama berakreditasi Unggul, menjamin kualitas akademik setara."
+  },
+  {
+    "instruction": "Berapa biaya semester 8 PIAUD, dan apa maknanya?",
+    "response": "Biaya semester 8 PIAUD hanya Rp995.000-paling rendah di antara semua prodi S1 yang disebutkan. Ini mencerminkan komitmen UNSIQ untuk menghilangkan hambatan finansial di masa akhir studi. Dengan biaya kurang dari Rp1 juta, mahasiswa dari keluarga kurang mampu sekalipun dapat menyelesaikan studi dan wisuda tanpa utang-menjawab tujuan SDGs dalam pemerataan pendidikan tinggi."
+  },
+  {
+    "instruction": "Apakah PIAUD memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Unggul dan biaya tertingginya (Rp4.745.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Pendaftaran KIP-Kuliah dibuka dari 4 Februari hingga 31 Oktober 2025 di kip-kuliah.kemdikbud.go.id, dan calon harus memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+  },
+  {
+    "instruction": "Berapa total biaya untuk 4 semester pertama PIAUD?",
+    "response": "Total biaya 4 semester pertama adalah Rp15.920.000, dihitung dari: Sem 1: Rp4.745.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.745.000 + Rp3.825.000 + Rp2.675.000 + Rp2.675.000 = Rp15.920.000. Ini menjadi beban terbesar, sehingga calon disarankan mengamankan sumber dana (KIP-Kuliah, beasiswa, atau tabungan) sebelum memulai studi."
+  },
+  {
+    "instruction": "Apa keuntungan finansial memilih PIAUD bagi penerima beasiswa mitra?",
+    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester, tetapi biaya PIAUD di semester 7 hanya Rp2.045.000 dan semester 8 Rp995.000. Artinya, di semester 8, beasiswa menutup seluruh biaya dan bahkan ada sisa. Di semester 7, selisihnya hanya Rp450.000-sangat terjangkau. Ini menjadikan PIAUD sebagai prodi paling hemat dalam skema beasiswa mitra UNSIQ."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 PIAUD?",
+    "response": "Penghematan mencapai Rp3.750.000, yaitu selisih antara biaya semester 1 (Rp4.745.000) dan semester 8 (Rp995.000). Penurunan ini sangat signifikan-hampir 80%-dan dirancang untuk mendukung mahasiswa yang umumnya harus menyelesaikan Praktik Pengalaman Lapangan (PPL) dan skripsi di semester akhir, dengan pendapatan terbatas. UNSIQ memastikan beban finansial tidak menghambat kelulusan."
+  },
+  {
+    "instruction": "Bagaimana perbandingan biaya PIAUD dengan prodi keguruan lain di UNSIQ?",
+    "response": "PIAUD adalah prodi keguruan termurah di UNSIQ: PIAUD: total Rp23.795.000 PGMI: total Rp28.770.000 PAI: total Rp29.595.000 Bahasa Arab: total Rp23.125.000 Meski sedikit lebih mahal dari Bahasa Arab, PIAUD menawarkan prospek kerja sangat luas di lembaga PAUD/RA-yang sedang tumbuh pesat. Dengan akreditasi Unggul, investasi ini sangat rasional."
+  },
+  {
+    "instruction": "Apakah biaya PIAUD bisa berubah selama masa studi?",
+    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan yang masuk tahun 2025. UNSIQ menerapkan prinsip \"biaya kuncian per angkatan\", sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-berbeda dengan kampus yang menaikkan biaya tiap tahun."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk PIAUD?",
+    "response": "Rata-rata biaya per semester adalah Rp2.974.375, dihitung dari total Rp23.795.000 ÷ 8. Namun, 67% dari total biaya (Rp15.920.000) dibayar dalam 4 semester pertama, sedangkan 33% (Rp7.875.000) dibayar dalam 4 semester terakhir. Ini menunjukkan pentingnya persiapan dana awal yang kuat, terutama untuk keluarga yang tidak mengakses beasiswa."
+  },
+  {
+    "instruction": "Jika calon mendaftar KIP-Kuliah pada September 2025, apakah masih bisa masuk UNSIQ?",
+    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga berlangsung hingga 31 Oktober 2025. Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS di UNSIQ-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi KIP-Kuliah sebelum batas waktu, biaya kuliah penuh akan ditanggung pemerintah, termasuk biaya semester 1 PIAUD sebesar Rp4.745.000."
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Pendidikan Fisika di UNSIQ?",
+    "response": "Total biaya adalah Rp28.770.000, dihitung sebagai: Semester 1: Rp5.415.000 Semester 2: Rp4.615.000 Semester 3-6: 4 × Rp3.215.000 = Rp12.860.000 Semester 7: Rp2.495.000 Semester 8: Rp1.295.000 Jumlah: Rp5.415.000 + Rp4.615.000 + Rp12.860.000 + Rp2.495.000 + Rp1.295.000 = Rp28.770.000. Angka ini identik dengan PGMI, menunjukkan keseragaman kebijakan biaya di Fakultas Tarbiyah untuk prodi berakreditasi Unggul."
+  },
+  {
+    "instruction": "Mengapa biaya semester 1 Pendidikan Fisika lebih tinggi?",
+    "response": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp5.415.000, turun menjadi Rp4.615.000 di semester 2, lalu stabil di Rp3.215.000 mulai semester 3-6. Struktur ini membantu kampus menutup biaya investasi awal, sekaligus memberi kejelasan finansial jangka panjang bagi mahasiswa."
+  },
+  {
+    "instruction": "Apakah Pendidikan Fisika memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Unggul dan biaya tertingginya (Rp5.415.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025, dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Pendidikan Fisika?",
+    "response": "Penghematan mencapai Rp4.120.000, yaitu selisih antara biaya semester 1 (Rp5.415.000) dan semester 8 (Rp1.295.000). Penurunan drastis ini dirancang untuk meringankan beban mahasiswa di masa akhir studi-saat fokus pada penelitian fisika pendidikan, skripsi, dan persiapan mengikuti seleksi guru P3K."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama Pendidikan Fisika?",
+    "response": "Total biaya 4 semester pertama adalah Rp18.320.000, dihitung dari: Sem 1: Rp5.415.000 Sem 2: Rp4.615.000 Sem 3: Rp3.215.000 Sem 4: Rp3.215.000 Jumlah: Rp5.415.000 + Rp4.615.000 + Rp3.215.000 + Rp3.215.000 = Rp18.320.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
+  },
+  {
+    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.295.000?",
+    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon guru yang ingin segera mengikuti seleksi CPNS/P3K setelah lulus."
+  },
+  {
+    "instruction": "Bagaimana skema biaya Pendidikan Fisika mendukung calon guru sains?",
+    "response": "Dengan total biaya Rp28.770.000 dan akreditasi Unggul, prodi ini menawarkan nilai investasi tinggi: lulusan siap menjadi guru fisika profesional di sekolah umum atau madrasah. Biaya terjangkau, ditambah akses KIP-Kuliah, menjadikannya pilihan ideal bagi lulusan IPA yang ingin berkontribusi pada peningkatan literasi sains di Indonesia-tanpa terbebani utang pendidikan."
+  },
+  {
+    "instruction": "Jika mahasiswa Pendidikan Fisika mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih bayar di semester 7-8?",
+    "response": "Di semester 7 (biaya Rp2.495.000), mahasiswa tetap bayar selisih Rp900.000. Namun, di semester 8 (biaya Rp1.295.000), tidak perlu bayar apa pun, karena beasiswa mitra (Rp1.595.000) lebih tinggi dari biaya aktual. Ini memberi keringanan signifikan di masa akhir studi, sejalan dengan misi beasiswa untuk mendukung kelulusan tepat waktu."
+  },
+  {
+    "instruction": "Apakah biaya Pendidikan Fisika bisa berubah selama studi?",
+    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan-berbeda dengan institusi yang menaikkan biaya tiap tahun."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk Pendidikan Fisika?",
+    "response": "Rata-rata biaya per semester adalah Rp3.596.250, dihitung dari total Rp28.770.000 ÷ 8. Namun, distribusinya tidak merata: 64% biaya (Rp18.320.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
+  },
+  {
+    "instruction": "Apakah Pendidikan Fisika bisa dibayar per SKS?",
+    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp3.215.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan tanpa khawatir biaya tambahan-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Komunikasi dan Penyiaran Islam (KPI) S1 - 11 Dataset"
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 KPI di UNSIQ?",
+    "response": "Total biaya adalah Rp23.315.000, dihitung sebagai: Semester 1: Rp4.235.000 Semester 2: Rp3.375.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.315.000. Ini adalah salah satu prodi S1 termurah di UNSIQ dengan prospek karier di media Islam."
+  },
+  {
+    "instruction": "Mengapa biaya KPI lebih rendah daripada Pendidikan Fisika?",
+    "response": "KPI memiliki total biaya Rp23.315.000, sedangkan Pendidikan Fisika Rp28.770.000-selisih Rp5.455.000. Perbedaan ini mencerminkan kebutuhan operasional yang berbeda: Fisika memerlukan laboratorium dan peralatan eksperimen, sementara KPI lebih berbasis studio media dan komunikasi-yang biaya pemeliharaannya lebih rendah. Namun, keduanya sama-sama mendukung visi pendidikan Islam transformatif."
+  },
+  {
+    "instruction": "Apakah KPI memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, meski berakreditasi B, KIP-Kuliah masih memungkinkan penerimaan dengan pertimbangan khusus-terutama karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertinggi KPI (Rp4.235.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000). Calon disarankan mengajukan KIP-Kuliah dan menyertakan surat rekomendasi dari sekolah untuk memperkuat permohonan."
+  },
+  {
+    "instruction": "Berapa biaya semester 8 KPI, dan apa maknanya?",
+    "response": "Biaya semester 8 KPI hanya Rp995.000-sama dengan PIAUD, dan paling rendah di antara semua prodi S1 yang disebutkan. Ini menunjukkan komitmen UNSIQ untuk menghilangkan hambatan finansial di akhir studi, saat mahasiswa sedang menyelesaikan produksi media akhir atau skripsi-yang sering kali membutuhkan dana ekstra untuk peralatan atau publikasi."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama KPI?",
+    "response": "Total biaya 4 semester pertama adalah Rp13.860.000, dihitung dari: Sem 1: Rp4.235.000 Sem 2: Rp3.375.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp2.675.000 + Rp2.675.000 = Rp13.860.000. Ini jauh lebih ringan dibanding prodi eksakta, menjadikan KPI pilihan ideal bagi lulusan IPS yang ingin berkarier di dunia media Islam."
+  },
+  {
+    "instruction": "Apa keuntungan finansial KPI bagi penerima beasiswa mitra?",
+    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk KPI: Semester 7: biaya Rp2.045.000 → selisih bayar Rp450.000 Semester 8: biaya Rp995.000 → tidak bayar apa pun (beasiswa lebih besar) Ini menjadikan KPI salah satu prodi paling hemat dalam skema beasiswa mitra, terutama karena biaya akhirnya sangat rendah-mendukung kelulusan tanpa beban."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 KPI?",
+    "response": "Penghematan mencapai Rp3.240.000, yaitu selisih antara biaya semester 1 (Rp4.235.000) dan semester 8 (Rp995.000). Penurunan hampir 77% ini dirancang untuk mendukung mahasiswa yang di semester akhir aktif membuat konten media, mengikuti magang di radio/TV, atau mengembangkan startup media-dengan pendapatan yang belum stabil."
+  },
+  {
+    "instruction": "Bagaimana KPI mendukung karier di era digital?",
+    "response": "Dengan total biaya hanya Rp23.315.000, lulusan KPI bisa segera berwirausaha di bidang media digital-seperti podcast Islam, YouTube edukasi, atau manajemen media sosial masjid-tanpa terbebani utang. Prodi ini menggabungkan keterampilan komunikasi modern dan nilai Islam, menjadikan lulusannya sangat relevan di era informasi yang membutuhkan konten dakwah berkualitas."
+  },
+  {
+    "instruction": "Apakah biaya KPI termasuk praktikum media?",
+    "response": "Ya, biaya semester 3-6 (Rp2.675.000) sudah mencakup penggunaan studio radio, peralatan kamera, dan software penyuntingan di lingkungan kampus. UNSIQ memiliki Radio UNSIQ dan fasilitas produksi media yang memungkinkan mahasiswa belajar secara langsung-tanpa biaya tambahan. Ini memberikan keunggulan kompetitif dalam portofolio saat melamar kerja di lembaga media."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk KPI?",
+    "response": "Rata-rata biaya per semester adalah Rp2.914.375, dihitung dari total Rp23.315.000 ÷ 8. Namun, 60% biaya (Rp13.860.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan yang realistis-terutama bagi calon yang berasal dari keluarga menengah ke bawah dan ingin menghindari pinjaman pendidikan."
+  },
+  {
+    "instruction": "Jika calon mendaftar Mandiri PTS pada Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
+    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025. Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi KIP-Kuliah sebelum batas waktu, seluruh biaya KPI (termasuk semester 1 Rp4.235.000) akan ditanggung pemerintah."
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Ilmu Al-Qur'an dan Tafsir di UNSIQ?",
+    "response": "Total biaya adalah Rp29.120.000, dihitung sebagai: Semester 1: Rp5.615.000 Semester 2: Rp4.615.000 Semester 3-6: 4 × Rp3.215.000 = Rp12.860.000 Semester 7: Rp2.495.000 Semester 8: Rp1.295.000 Jumlah: Rp5.615.000 + Rp4.615.000 + Rp12.860.000 + Rp2.495.000 + Rp1.295.000 = Rp29.120.000. Ini adalah prodi S1 termahal di antara semua yang disebutkan, mencerminkan intensitas pembinaan keilmuan Al-Qur'an yang mendalam."
+  },
+  {
+    "instruction": "Mengapa biaya semester 1 Ilmu Al-Qur'an dan Tafsir paling tinggi?",
+    "response": "Karena semester 1 mencakup biaya investasi awal: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp5.615.000, tertinggi di antara semua prodi S1 yang disebutkan. Ini wajar karena prodi ini memerlukan akses ke perpustakaan kitab kuning, pelatihan tajwid intensif, dan pendampingan hafalan-yang membutuhkan alokasi sumber daya khusus sejak awal."
+  },
+  {
+    "instruction": "Apakah Ilmu Al-Qur'an dan Tafsir memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp5.615.000) masih jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025, dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 pada prodi ini?",
+    "response": "Penghematan mencapai Rp4.320.000, yaitu selisih antara biaya semester 1 (Rp5.615.000) dan semester 8 (Rp1.295.000). Penurunan ini sangat signifikan-hampir 77%-dan dirancang untuk mendukung mahasiswa yang di semester akhir sedang menyusun tafsir tematik, skripsi, atau persiapan menjadi dosen/mufassir, dengan pendapatan yang belum stabil."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama Ilmu Al-Qur'an dan Tafsir?",
+    "response": "Total biaya 4 semester pertama adalah Rp18.700.000, dihitung dari: Sem 1: Rp5.615.000 Sem 2: Rp4.615.000 Sem 3: Rp3.215.000 Sem 4: Rp3.215.000 Jumlah: Rp5.615.000 + Rp4.615.000 + Rp3.215.000 + Rp3.215.000 = Rp18.700.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa Tahfidz sebelum memulai studi."
+  },
+  {
+    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.295.000?",
+    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon akademisi atau peneliti Al-Qur'an yang ingin segera melanjutkan studi S2 atau mengikuti program beasiswa internasional."
+  },
+  {
+    "instruction": "Bagaimana skema biaya ini mendukung calon peneliti Al-Qur'an?",
+    "response": "Dengan total biaya Rp29.120.000 dan akreditasi Baik Sekali, prodi ini menawarkan fondasi akademik kuat untuk studi lanjut di Timur Tengah atau Eropa. Biaya terjangkau (jika dibandingkan pesantren internasional), ditambah akses KIP-Kuliah, menjadikannya pilihan strategis bagi santri berprestasi yang ingin menjadi mufassir modern tanpa terbebani utang pendidikan."
+  },
+  {
+    "instruction": "Jika mahasiswa mengajukan beasiswa Tahfidz 30 Juz (50% potongan SPP), berapa biaya semester 2?",
+    "response": "Biaya semester 2 adalah Rp4.615.000. Jika diberikan potongan 50%, maka mahasiswa hanya membayar Rp2.307.500. Namun, perlu dicatat bahwa potongan hanya berlaku pada komponen SPP-bukan atribut atau dana pengembangan. Karena semester 2 tidak mengandung komponen awal, potongan 50% berlaku penuh pada seluruh biaya semester tersebut."
+  },
+  {
+    "instruction": "Apakah biaya Ilmu Al-Qur'an dan Tafsir bisa berubah selama studi?",
+    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang bagi calon yang ingin fokus pada penghafalan dan penelitian Al-Qur'an tanpa distraksi finansial."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk prodi ini?",
+    "response": "Rata-rata biaya per semester adalah Rp3.640.000, dihitung dari total Rp29.120.000 ÷ 8. Namun, 64% biaya (Rp18.700.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai-terutama karena ini adalah prodi dengan biaya awal tertinggi."
+  },
+  {
+    "instruction": "Apakah prodi ini bisa dibayar per SKS?",
+    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp3.215.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penyelesaian riset tafsir-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Hukum Ekonomi Syariah (HES) S1 - 11 Dataset"
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Hukum Ekonomi Syariah di UNSIQ?",
+    "response": "Total biaya adalah Rp23.315.000, dihitung sebagai: Semester 1: Rp4.825.000 Semester 2: Rp3.825.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.825.000 + Rp3.825.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.315.000. Ini menjadikan HES salah satu prodi ekonomi syariah termurah berakreditasi Baik Sekali di Jawa Tengah."
+  },
+  {
+    "instruction": "Mengapa biaya HES lebih rendah daripada Ilmu Al-Qur'an dan Tafsir?",
+    "response": "HES memiliki total biaya Rp23.315.000, sedangkan Ilmu Al-Qur'an dan Tafsir Rp29.120.000-selisih Rp5.805.000. Perbedaan ini mencerminkan kebutuhan operasional yang berbeda: Ilmu Al-Qur'an memerlukan pembinaan hafalan intensif dan akses kitab kuning, sementara HES lebih berbasis kelas dan studi kasus-yang biaya operasionalnya lebih rendah. Namun, keduanya sama-sama strategis dalam ekosistem ekonomi Islam."
+  },
+  {
+    "instruction": "Apakah HES memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp4.825.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon cukup mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
+  },
+  {
+    "instruction": "Berapa biaya semester 8 HES, dan apa maknanya?",
+    "response": "Biaya semester 8 HES hanya Rp995.000-sama dengan PIAUD dan KPI, dan paling rendah di antara semua prodi S1 yang disebutkan. Ini menunjukkan komitmen UNSIQ untuk menghilangkan hambatan finansial di akhir studi, saat mahasiswa sedang menyelesaikan magang di bank syariah atau menyusun skripsi tentang fatwa DSN-MUI-dengan pendapatan yang belum stabil."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama HES?",
+    "response": "Total biaya 4 semester pertama adalah Rp16.950.000, dihitung dari: Sem 1: Rp4.825.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.825.000 + Rp3.825.000 + Rp2.675.000 + Rp2.675.000 = Rp16.950.000. Ini jauh lebih ringan daripada prodi keislaman murni, menjadikan HES pilihan ideal bagi lulusan IPA/IPS yang ingin berkarier di sektor keuangan syariah."
+  },
+  {
+    "instruction": "Apa keuntungan finansial HES bagi penerima beasiswa mitra?",
+    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk HES: Semester 7: biaya Rp2.045.000 → selisih bayar Rp450.000 Semester 8: biaya Rp995.000 → tidak bayar apa pun Ini menjadikan HES salah satu prodi paling hemat dalam skema beasiswa mitra-terutama karena prospek kerjanya sangat luas di bank syariah, BMT, dan lembaga zakat."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 HES?",
+    "response": "Penghematan mencapai Rp3.830.000, yaitu selisih antara biaya semester 1 (Rp4.825.000) dan semester 8 (Rp995.000). Penurunan hampir 79% ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang magang di lembaga keuangan syariah-yang sering kali tidak bergaji penuh-sehingga tetap mampu menyelesaikan studi tanpa tekanan finansial."
+  },
+  {
+    "instruction": "Bagaimana HES mendukung karier di industri keuangan syariah?",
+    "response": "Dengan total biaya hanya Rp23.315.000 dan akreditasi Baik Sekali, lulusan HES sangat diminati di BSI, BMT, LAZ, dan lembaga wakaf. Biaya terjangkau memungkinkan lulusan segera berkontribusi tanpa utang-bahkan bisa langsung mengikuti sertifikasi AAiSy (Ahli Audit Syariah Indonesia). Ini menjadikan HES sebagai investasi pendidikan dengan ROI (Return on Investment) sangat tinggi di sektor ekonomi syariah yang sedang tumbuh pesat."
+  },
+  {
+    "instruction": "Apakah biaya HES termasuk pelatihan sertifikasi syariah?",
+    "response": "Tidak secara eksplisit, tetapi biaya semester 3-6 (Rp2.675.000) sudah mencakup materi persiapan sertifikasi seperti akad syariah, fatwa DSN-MUI, dan audit syariah. UNSIQ juga menyediakan pelatihan intensif gratis bagi mahasiswa yang akan mengikuti ujian AAiSy atau sertifikasi BSI-sebagai bagian dari pengabdian fakultas kepada industri. Ini memberikan keunggulan kompetitif tanpa biaya tambahan."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk HES?",
+    "response": "Rata-rata biaya per semester adalah Rp2.914.375, dihitung dari total Rp23.315.000 ÷ 8. Namun, 73% biaya (Rp16.950.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan yang realistis-terutama bagi calon yang berasal dari keluarga menengah ke bawah dan ingin menghindari pinjaman pendidikan."
+  },
+  {
+    "instruction": "Jika calon mendaftar Seleksi Mandiri PTS pada 15 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
+    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi KIP-Kuliah sebelum 31 Oktober, seluruh biaya HES (termasuk semester 1 Rp4.825.000) akan ditanggung pemerintah."
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Hukum Keluarga Islam di UNSIQ?",
+    "response": "Total biaya adalah Rp24.800.000, dihitung sebagai: Semester 1: Rp5.020.000 Semester 2: Rp4.275.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp5.020.000 + Rp4.275.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp24.800.000. Prodi ini berakreditasi Unggul, menjadikannya investasi sangat bernilai bagi calon praktisi hukum keluarga Islam."
+  },
+  {
+    "instruction": "Mengapa biaya semester 1 Hukum Keluarga Islam lebih tinggi?",
+    "response": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp5.020.000, turun menjadi Rp4.275.000 di semester 2, lalu stabil di Rp2.995.000 mulai semester 3-6. Struktur ini membantu kampus menutup biaya awal, sekaligus memberi kepastian finansial jangka panjang bagi mahasiswa."
+  },
+  {
+    "instruction": "Apakah Hukum Keluarga Islam memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Unggul dan biaya tertingginya (Rp5.020.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025, dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Hukum Keluarga Islam?",
+    "response": "Penghematan mencapai Rp3.825.000, yaitu selisih antara biaya semester 1 (Rp5.020.000) dan semester 8 (Rp1.195.000). Penurunan ini dirancang untuk meringankan beban mahasiswa di masa akhir studi-saat fokus pada penelitian tentang perceraian, waris, atau konseling keluarga, serta persiapan seleksi CPNS di pengadilan agama."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama Hukum Keluarga Islam?",
+    "response": "Total biaya 4 semester pertama adalah Rp17.260.000, dihitung dari: Sem 1: Rp5.020.000 Sem 2: Rp4.275.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp5.020.000 + Rp4.275.000 + Rp2.995.000 + Rp2.995.000 = Rp17.260.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
+  },
+  {
+    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
+    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon hakim agama atau konselor keluarga yang ingin segera mengikuti seleksi ASN setelah lulus."
+  },
+  {
+    "instruction": "Bagaimana skema biaya ini mendukung calon praktisi hukum keluarga?",
+    "response": "Dengan total biaya Rp24.800.000 dan akreditasi Unggul, prodi ini menawarkan fondasi akademik kuat untuk karier di pengadilan agama, KUA, atau lembaga konseling keluarga. Biaya terjangkau, ditambah akses KIP-Kuliah, menjadikannya pilihan ideal bagi lulusan yang ingin menyelesaikan studi tanpa utang-dan segera berkontribusi pada penyelesaian problematika keluarga di masyarakat."
+  },
+  {
+    "instruction": "Jika mahasiswa mengajukan beasiswa mitra (bayar Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "response": "Tidak. Karena biaya semester 8 Hukum Keluarga Islam hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp400.000 yang tidak digunakan-menjadikan semester akhir benar-benar bebas biaya."
+  },
+  {
+    "instruction": "Apakah biaya Hukum Keluarga Islam bisa berubah selama studi?",
+    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-berbeda dengan institusi yang menaikkan biaya tiap tahun."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk prodi ini?",
+    "response": "Rata-rata biaya per semester adalah Rp3.100.000, dihitung dari total Rp24.800.000 ÷ 8. Namun, 70% biaya (Rp17.260.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
+  },
+  {
+    "instruction": "Apakah prodi ini bisa dibayar per SKS?",
+    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.995.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi hukum keluarga-sesuai semangat MBKM. 🔹 Perbankan Syariah S1 - 11 Dataset"
+  },
+  {
+    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Perbankan Syariah di UNSIQ?",
+    "response": "Total biaya adalah Rp23.315.000, dihitung sebagai: Semester 1: Rp4.755.000 Semester 2: Rp3.825.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.315.000. Ini adalah prodi ekonomi syariah termurah berakreditasi Baik Sekali di UNSIQ."
+  },
+  {
+    "instruction": "Mengapa biaya Perbankan Syariah lebih rendah daripada Hukum Keluarga Islam?",
+    "response": "Perbankan Syariah memiliki total biaya Rp23.315.000, sedangkan Hukum Keluarga Islam Rp24.800.000-selisih Rp1.485.000. Perbedaan ini mencerminkan kebutuhan operasional yang berbeda: Hukum Keluarga memerlukan simulasi persidangan dan pelatihan mediasi, sementara Perbankan Syariah lebih berbasis kelas dan studi kasus keuangan-yang biaya operasionalnya lebih rendah."
+  },
+  {
+    "instruction": "Apakah Perbankan Syariah memenuhi syarat KIP-Kuliah?",
+    "response": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp4.755.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon cukup mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
+  },
+  {
+    "instruction": "Berapa biaya semester 8 Perbankan Syariah, dan apa maknanya?",
+    "response": "Biaya semester 8 hanya Rp995.000-sama dengan PIAUD, KPI, dan HES, serta paling rendah di antara semua prodi S1 yang disebutkan. Ini menunjukkan komitmen UNSIQ untuk menghilangkan hambatan finansial di akhir studi, saat mahasiswa sedang magang di BSI atau BMT-yang sering kali tidak bergaji penuh."
+  },
+  {
+    "instruction": "Berapa total biaya 4 semester pertama Perbankan Syariah?",
+    "response": "Total biaya 4 semester pertama adalah Rp16.950.000, dihitung dari: Sem 1: Rp4.755.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp2.675.000 + Rp2.675.000 = Rp16.950.000. Ini jauh lebih ringan daripada prodi hukum, menjadikan Perbankan Syariah pilihan ideal bagi lulusan IPS yang ingin berkarier di sektor keuangan syariah."
+  },
+  {
+    "instruction": "Apa keuntungan finansial Perbankan Syariah bagi penerima beasiswa mitra?",
+    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk Perbankan Syariah: Semester 7: biaya Rp2.045.000 → selisih bayar Rp450.000 Semester 8: biaya Rp995.000 → tidak bayar apa pun Ini menjadikan prodi ini sangat hemat di semester akhir, mendukung kelulusan tepat waktu tanpa tekanan finansial-terutama penting bagi calon yang ingin segera bekerja di bank syariah setelah lulus."
+  },
+  {
+    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Perbankan Syariah?",
+    "response": "Penghematan mencapai Rp3.760.000, yaitu selisih antara biaya semester 1 (Rp4.755.000) dan semester 8 (Rp995.000). Penurunan hampir 79% ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang menyelesaikan magang atau skripsi tentang produk syariah-dengan pendapatan yang belum stabil."
+  },
+  {
+    "instruction": "Bagaimana Perbankan Syariah mendukung karier di industri keuangan?",
+    "response": "Dengan total biaya hanya Rp23.315.000 dan akreditasi Baik Sekali, lulusan sangat diminati di BSI, BMT, dan lembaga keuangan mikro syariah. Biaya terjangkau memungkinkan lulusan segera berkontribusi tanpa utang-bahkan bisa langsung mengikuti sertifikasi profesi seperti Ahli Syariah Mikro. Ini menjadikan prodi ini sebagai investasi dengan ROI sangat tinggi di sektor ekonomi syariah yang sedang tumbuh pesat."
+  },
+  {
+    "instruction": "Apakah biaya Perbankan Syariah termasuk pelatihan sertifikasi?",
+    "response": "Tidak secara langsung, tetapi biaya semester mencakup materi persiapan sertifikasi, seperti akad syariah, manajemen risiko, dan fatwa DSN-MUI. UNSIQ juga menyelenggarakan pelatihan gratis bagi mahasiswa yang akan mengikuti ujian sertifikasi profesi-sebagai bagian dari kerja sama dengan lembaga keuangan mitra. Ini memberikan keunggulan kompetitif tanpa biaya tambahan."
+  },
+  {
+    "instruction": "Berapa rata-rata biaya per semester untuk Perbankan Syariah?",
+    "response": "Rata-rata biaya per semester adalah Rp2.914.375, dihitung dari total Rp23.315.000 ÷ 8. Namun, 73% biaya (Rp16.950.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan realistis-terutama bagi calon dari keluarga menengah ke bawah yang ingin menghindari pinjaman pendidikan."
+  },
+  {
+    "instruction": "Jika calon mendaftar Seleksi Mandiri PTS pada 20 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
+    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi KIP-Kuliah sebelum 31 Oktober, seluruh biaya Perbankan Syariah (termasuk semester 1 Rp4.755.000) akan ditanggung pemerintah."
+  }
+]
