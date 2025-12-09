@@ -2,8 +2,8 @@ import json
 import re
 import uuid
 
-INPUT_FILE = "dataset_biaya.json"       # file asal
-OUTPUT_FILE = "data/biaya.jsonl"    # hasil JSONL
+INPUT_FILE = "clean/snk.json"       # file asal
+OUTPUT_FILE = "data/snk_v2.jsonl"    # hasil JSONL
 
 # ================================
 # 1. Baca raw file & hapus komentar // ...
@@ -44,7 +44,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
                 "format_type": "original",
                 "q_tokens": count_words(q),
                 "a_tokens": count_words(a),
-                "category": "biaya",
+                "category": "syarat_n_ketentuan",
                 "verified": False
             }
         }

@@ -1,0 +1,962 @@
+[
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Apa status akreditasi institusi UNSIQ?",
+    "A": "Terakreditasi “Unggul” oleh BAN-PT sejak 2020."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Apa status akreditasi institusi UNSIQ secara keseluruhan?",
+    "A": "UNSIQ resmi terakreditasi “Unggul” oleh BAN-PT, predikat tertinggi untuk seluruh sistem perguruan tinggi."
+  },
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Mengapa akreditasi Unggul penting bagi calon?",
+    "A": "Menjamin kualitas sistemik dan daya saing lulusan."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Mengapa akreditasi institusi “Unggul” penting bagi calon mahasiswa?",
+    "A": "Memberi jaminan kurikulum mutakhir, dosen berkualitas, dan lulusan lebih diminati di dunia kerja atau CPNS."
+  },
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apakah semua prodi otomatis Unggul?",
+    "A": "Tidak, akreditasi institusi dan prodi terpisah."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apakah semua program studi di UNSIQ otomatis berakreditasi Unggul?",
+    "A": "Tidak; setiap prodi punya akreditasi sendiri, meski dikelola dalam ekosistem institusi Unggul."
+  },
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Apa manfaat akreditasi Baik Sekali?",
+    "A": "Ijazah diakui penuh, lolos CPNS, dan mudah lanjut S2."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Apa manfaat akreditasi “Baik Sekali” bagi program studi?",
+    "A": "Prodi diakui penuh secara nasional, lulusan berhak ikut CPNS dan diterima di program S2."
+  },
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Bagaimana verifikasi akreditasi UNSIQ dan prodi?",
+    "A": "Cek di banpt.org.id atau sister.banpt.or.id."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Bagaimana calon mahasiswa memverifikasi akreditasi UNSIQ dan prodi?",
+    "A": "Melalui website resmi BAN-PT atau SISTER dengan mencari nama UNSIQ atau program studi."
+  },
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Prodi apa saja di Fakultas Bahasa UNSIQ?",
+    "A": "Sastra Inggris (B) dan Pendidikan Bahasa Inggris (Baik)."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa prodi yang tersedia di Fakultas Bahasa dan Sastra UNSIQ?",
+    "A": "S1 Sastra Inggris (akreditasi B) dan Pendidikan Bahasa Inggris (akreditasi Baik)."
+  },
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Apa prospek lulusan Sastra Inggris?",
+    "A": "Jadi penerjemah, penulis, editor, atau staf diplomatik."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Apa prospek lulusan S1 Sastra Inggris UNSIQ?",
+    "A": "Bisa jadi penerjemah, content writer, atau pengajar bahasa; kompetitif dengan sertifikasi TOEFL/IELTS."
+  },
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Mengapa Pendidikan Bahasa Inggris hanya Baik?",
+    "A": "Masih dalam proses peningkatan riset dan publikasi dosen."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Mengapa Pendidikan Bahasa Inggris hanya berakreditasi “Baik”?",
+    "A": "Sudah penuhi standar dasar, tetapi masih kembangkan riset; cukup untuk seleksi PPPK guru."
+  },
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Bisakah lulusan jadi guru negeri?",
+    "A": "Ya, asal ikut sertifikasi pendidik setelah lulus."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apakah lulusan Pendidikan Bahasa Inggris bisa jadi guru di sekolah negeri?",
+    "A": "Ya, akreditasi “Baik” memenuhi syarat minimal PPPK; lulusan juga unggul dalam pendekatan Islam."
+  },
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Bisakah lulusan Sastra Inggris lanjut S2 non-sastra?",
+    "A": "Bisa, ke Komunikasi, HI, atau Pendidikan."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Bisakah lulusan Sastra Inggris melanjutkan ke S2 di luar bidang sastra?",
+    "A": "Bisa ke bidang humaniora; untuk teknis perlu matrikulasi—didukung konseling akademik UNSIQ."
+  },
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Apa keunggulan prodi Bahasa di UNSIQ?",
+    "A": "Integrasi bahasa, nilai Islam, dan budaya lokal."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Apa keunggulan kompetitif prodi Bahasa di UNSIQ dibanding kampus lain?",
+    "A": "Menggabungkan sastra Inggris dengan etika Islam dan budaya pesantren—menghasilkan lulusan jembatan peradaban."
+  },
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Ekonomi UNSIQ?",
+    "A": "Akuntansi (B), Manajemen (Baik Sekali), Perbankan Syariah (Baik Sekali)."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Apa program studi yang ditawarkan di Fakultas Ekonomi UNSIQ?",
+    "A": "Tiga prodi: Akuntansi (B), Manajemen (Baik Sekali), dan Perbankan Syariah (Baik Sekali)."
+  },
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Mengapa Perbankan Syariah berakreditasi Baik Sekali?",
+    "A": "Sesuai kebutuhan industri dan didukung mitra syariah."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Mengapa Perbankan Syariah berakreditasi “Baik Sekali”?",
+    "A": "Kurikulum terkini, dosen bersertifikasi, dan kemitraan kuat dengan BSI dan BMT."
+  },
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Apa prospek lulusan S1 Manajemen?",
+    "A": "Jadi manajer, HRD, wirausaha, atau konsultan UMKM."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Apa prospek lulusan S1 Manajemen UNSIQ?",
+    "A": "Bisa jadi manajer, pengusaha, atau konsultan dengan keunggulan manajemen berbasis nilai Islam."
+  },
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Bisakah lulusan Akuntansi jadi akuntan publik?",
+    "A": "Ya, asal lulus ujian sertifikasi IAI."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Apakah lulusan Akuntansi bisa jadi akuntan publik?",
+    "A": "Ya; kurikulum memenuhi prasyarat USAP, dan UNSIQ sediakan pelatihan intensif sertifikasi."
+  },
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Bisakah lulusan Perbankan Syariah kerja di bank konvensional?",
+    "A": "Bisa, karena menguasai prinsip keuangan universal."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Bisakah lulusan Perbankan Syariah bekerja di bank konvensional?",
+    "A": "Bisa; mereka menguasai manajemen keuangan universal dan justru jadi nilai tambah di unit syariah."
+  },
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Mengapa tidak ada prodi Ekonomi Pembangunan?",
+    "A": "UNSIQ fokus pada prodi dengan daya serap tinggi."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Mengapa tidak ada prodi Ekonomi Pembangunan atau Keuangan di fakultas ini?",
+    "A": "UNSIQ pilih spesialisasi pada prodi relevan seperti Perbankan Syariah yang dibutuhkan UMKM dan pesantren."
+  },
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Ilmu Kesehatan?",
+    "A": "D3 Kebidanan, D3 Keperawatan, S1 Keperawatan, Profesi Ners."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Apa program studi yang tersedia di Fakultas Ilmu Kesehatan UNSIQ?",
+    "A": "D3 Kebidanan, D3 Keperawatan, S1 Keperawatan, dan Profesi Ners—semua akreditasi “Baik Sekali”."
+  },
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Apa keunggulan lulusan D3 Keperawatan?",
+    "A": "Siap kerja, sesuai SKKNI, dan berakhlak Islam."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Apa keunggulan lulusan D3 Keperawatan UNSIQ?",
+    "A": "Langsung siap kerja, akreditasi “Baik Sekali”, dan menerapkan pelayanan berbasis nilai Islam."
+  },
+  {
+    "no": 39,
+    "type": "medium",
+    "Q": "Bisakah lulusan D3 Kebidanan lanjut S1?",
+    "A": "Belum ada S1 Kebidanan, tapi bisa ke S1 Keperawatan."
+  },
+  {
+    "no": 40,
+    "type": "explanation",
+    "Q": "Apakah lulusan D3 Kebidanan bisa melanjutkan ke S1 Kebidanan?",
+    "A": "UNSIQ belum buka S1 Kebidanan, tapi lulusan bisa lanjut ke S1 Keperawatan atau PT lain."
+  },
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Mengapa semua prodi kesehatan Baik Sekali?",
+    "A": "Fasilitas klinis lengkap dan dosen bersertifikasi profesi."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Mengapa semua prodi kesehatan di UNSIQ berakreditasi “Baik Sekali”?",
+    "A": "Karena investasi pada lab simulasi, magang mitra, dan dosen yang aktif di lapangan."
+  },
+  {
+    "no": 43,
+    "type": "medium",
+    "Q": "Apa syarat jadi lulusan Profesi Ners?",
+    "A": "Lulus S1 Keperawatan, lalu ikut program profesi 1–2 semester."
+  },
+  {
+    "no": 44,
+    "type": "explanation",
+    "Q": "Apa syarat menjadi lulusan Profesi Ners?",
+    "A": "Harus lulus S1 Keperawatan dulu, lalu ikut magang intensif dan uji kompetensi nasional."
+  },
+  {
+    "no": 45,
+    "type": "medium",
+    "Q": "Bisakah lulusan S1 Keperawatan kerja di luar negeri?",
+    "A": "Ya, asal penuhi syarat bahasa dan lisensi negara tujuan."
+  },
+  {
+    "no": 46,
+    "type": "explanation",
+    "Q": "Apakah lulusan S1 Keperawatan bisa bekerja di luar negeri?",
+    "A": "Ya; ijazah “Baik Sekali” diakui internasional, terutama untuk Jepang, Jerman, dan Timur Tengah."
+  },
+  {
+    "no": 47,
+    "type": "medium",
+    "Q": "Apa beda D3 dan S1 Keperawatan?",
+    "A": "D3 fokus teknis, S1 tambah manajemen dan riset."
+  },
+  {
+    "no": 48,
+    "type": "explanation",
+    "Q": "Apa perbedaan antara D3 Keperawatan dan S1 Keperawatan di UNSIQ?",
+    "A": "D3 untuk keterampilan langsung, S1 untuk kepemimpinan dan riset—keduanya berakreditasi “Baik Sekali”."
+  },
+  {
+    "no": 49,
+    "type": "medium",
+    "Q": "Bisakah lulusan kesehatan jadi PNS?",
+    "A": "Sangat bisa, banyak yang lolos P3K."
+  },
+  {
+    "no": 50,
+    "type": "explanation",
+    "Q": "Apakah lulusan kesehatan UNSIQ bisa jadi PNS?",
+    "A": "Ya; akreditasi “Baik Sekali” memenuhi syarat, dan pengalaman magang di puskesmas jadi nilai plus."
+  },
+  {
+    "no": 51,
+    "type": "medium",
+    "Q": "Bagaimana prospek kerja lulusan kesehatan pasca-pandemi?",
+    "A": "Sangat cerah, karena permintaan tenaga kesehatan meningkat."
+  },
+  {
+    "no": 52,
+    "type": "explanation",
+    "Q": "Bagaimana prospek kerja lulusan kesehatan pasca-pandemi?",
+    "A": "Prospek cerah; pemerintah buka rekrutmen P3K, dan sektor swasta berkembang pesat pasca-krisis."
+  },
+  {
+    "no": 53,
+    "type": "medium",
+    "Q": "Ada beasiswa khusus untuk mahasiswa kesehatan?",
+    "A": "Ya, seperti Tahfidz, Mitra, KIP Kuliah, dan prestasi akademik."
+  },
+  {
+    "no": 54,
+    "type": "explanation",
+    "Q": "Apakah ada beasiswa khusus untuk mahasiswa kesehatan?",
+    "A": "Ada; termasuk Tahfidz, KIP Kuliah, dan beasiswa prestasi IPK >3,5 dari fakultas."
+  },
+  {
+    "no": 55,
+    "type": "medium",
+    "Q": "Apakah FIKES terima laki-laki di semua prodi?",
+    "A": "Ya, termasuk Kebidanan, sesuai regulasi Kemenkes."
+  },
+  {
+    "no": 56,
+    "type": "explanation",
+    "Q": "Apakah Fakultas Ilmu Kesehatan menerima laki-laki di semua prodi?",
+    "A": "Ya; semua prodi terbuka untuk laki-laki, asal penuhi syarat fisik dan lulus seleksi."
+  },
+  {
+    "no": 57,
+    "type": "medium",
+    "Q": "Bagaimana sistem magang di FIKES?",
+    "A": "Di RSUD dan puskesmas mitra dengan pembimbing ganda."
+  },
+  {
+    "no": 58,
+    "type": "explanation",
+    "Q": "Bagaimana sistem magang di Fakultas Ilmu Kesehatan?",
+    "A": "Magang di rumah sakit dan puskesmas mitra, diawasi pembimbing klinik dan dosen kampus secara bersamaan."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Apakah lulusan D3 bisa langsung kerja?",
+    "A": "Tidak; harus lulus UKN untuk dapat STR."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Apakah lulusan D3 bisa langsung kerja tanpa sertifikasi tambahan?",
+    "A": "Tidak; wajib lulus Uji Kompetensi Nasional untuk mendapat STR sebagai syarat praktek profesi."
+  },
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Tarbiyah UNSIQ?",
+    "A": "Lima prodi S1, semuanya berakreditasi Unggul."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Program studi apa saja yang tersedia di Fakultas Ilmu Tarbiyah dan Keguruan UNSIQ?",
+    "A": "Lima program S1: PAI, PBA, PGMI, PIAUD, dan Pendidikan Fisika—semuanya berakreditasi Unggul."
+  },
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Mengapa PAI UNSIQ berakreditasi Unggul?",
+    "A": "Integrasi kitab kuning, pedagogi modern, dan kemitraan Kemenag."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Mengapa Pendidikan Agama Islam (PAI) di UNSIQ berakreditasi Unggul?",
+    "A": "Menggabungkan tafsir, hadis, fiqh, dan pedagogi modern; didukung dosen S3 dan riset pendidikan Islam."
+  },
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Apa prospek lulusan Pendidikan Bahasa Arab?",
+    "A": "Jadi guru, penerjemah, atau staf kedutaan Arab."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Apa prospek kerja lulusan S1 Pendidikan Bahasa Arab?",
+    "A": "Bisa jadi guru, penerjemah teks keagamaan, atau staf lembaga Arab; ijazah Unggul mudah lolos CPNS."
+  },
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Mengapa Pendidikan Fisika di Fakultas Tarbiyah?",
+    "A": "Karena pendekatannya mengintegrasikan sains dan nilai Islam."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Mengapa Pendidikan Fisika masuk Fakultas Tarbiyah, bukan Fakultas Sains?",
+    "A": "Karena fokus pada integrasi fisika dengan ayat kauniyah dan pendidikan berbasis nilai Islam."
+  },
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Apa keunggulan kompetitif PGMI UNSIQ?",
+    "A": "Akreditasi Unggul dan lulusan siap mengajar di MI/SD."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa keunggulan kompetitif PGMI di UNSIQ?",
+    "A": "Berakreditasi Unggul, kurikulum integratif, dan lulusan banyak direkrut sekolah Islam terpadu."
+  },
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Siapa sasaran utama program PIAUD?",
+    "A": "Calon pendidik usia dini berbasis nilai Islam."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Siapa sasaran utama program PIAUD di UNSIQ?",
+    "A": "Calon guru TK/RA/PAUD yang ingin mengintegrasikan akhlak, ibadah, dan literasi Al-Qur’an sejak dini."
+  },
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Bisakah lulusan PIAUD jadi kepala sekolah?",
+    "A": "Ya, setelah ikut pelatihan sertifikasi LPPKS."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Apakah lulusan PIAUD bisa menjadi kepala sekolah TK/RA?",
+    "A": "Ya; akreditasi Unggul memenuhi syarat akademik untuk ikut pelatihan sertifikasi kepala sekolah."
+  },
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Bagaimana integrasi nilai Islam dalam Fisika?",
+    "A": "Dikaitkan dengan ayat kauniyah dan ilmuwan Muslim."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Bagaimana integrasi nilai Islam dalam Pendidikan Fisika?",
+    "A": "Setiap topik fisika dikaitkan dengan ayat kauniyah dan pemikiran ilmuwan Muslim klasik."
+  },
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Bisakah lulusan PAI ajar di sekolah negeri?",
+    "A": "Ya, boleh mengajar di SD/SMP/SMA negeri."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Apakah lulusan PAI bisa mengajar di sekolah negeri non-madrasah?",
+    "A": "Ya; lulusan PAI berakreditasi Unggul memenuhi syarat penuh untuk seleksi PPPK guru agama."
+  },
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Apa peluang studi lanjut lulusan PGMI?",
+    "A": "Bisa lanjut S2 Pendidikan Dasar atau Islam."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Apa peluang studi lanjut lulusan PGMI?",
+    "A": "Bisa ke S2 Pendidikan Dasar, Pendidikan Islam, atau prodi Timur Tengah tentang PAUD Islam."
+  },
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Mengapa Bahasa Arab penting dalam pendidikan Islam?",
+    "A": "Karena kunci memahami Al-Qur’an dan kitab kuning."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Mengapa Bahasa Arab penting dalam pendidikan Islam modern?",
+    "A": "Bahasa Arab adalah akses langsung ke sumber primer Islam; diajarkan dengan metode kontemporer di UNSIQ."
+  },
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Apakah PIAUD hanya untuk perempuan?",
+    "A": "Tidak; terbuka untuk laki-laki dan perempuan."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Apakah PIAUD hanya untuk perempuan?",
+    "A": "Tidak; laki-laki boleh mendaftar, karena kompetensi pedagogis lebih penting daripada gender."
+  },
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Bagaimana keterserapan kerja lulusan Tarbiyah?",
+    "A": "Sangat tinggi, terutama di Kemenag dan sekolah Islam."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Bagaimana keterserapan kerja lulusan Fakultas Tarbiyah?",
+    "A": "Tinggi; banyak direkrut sebelum wisuda, dan akreditasi Unggul mempermudah seleksi CPNS/P3K."
+  },
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Apakah Tarbiyah terima lulusan SMA IPA?",
+    "A": "Ya, terutama untuk Pendidikan Fisika."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Apakah prodi Tarbiyah UNSIQ menerima lulusan SMA IPA?",
+    "A": "Ya; lulusan IPA diminati untuk Pendidikan Fisika, dan IPS pun bisa asal punya minat kuat."
+  },
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Apa beda Pendidikan Fisika UNSIQ dan kampus umum?",
+    "A": "Mengajarkan fisika sebagai jalan memahami kekuasaan Allah."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Apa yang membedakan Pendidikan Fisika UNSIQ dari kampus umum?",
+    "A": "Fisika diajarkan sebagai bentuk ibadah melalui ayat kauniyah, bukan ilmu netral."
+  },
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Bisakah lulusan Bahasa Arab kerja di media Islam?",
+    "A": "Sangat bisa, jadi redaktur atau penyiar."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Bisakah lulusan Pendidikan Bahasa Arab bekerja di media Islam?",
+    "A": "Ya; banyak jadi redaktur, penerjemah Al-Qur’an digital, atau penyiar berbahasa Arab."
+  },
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Apakah ada pelatihan mengajar di prodi Tarbiyah?",
+    "A": "Ya, wajib ikut PPL di sekolah mitra."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Apakah ada pelatihan mengajar selama studi di prodi Tarbiyah?",
+    "A": "Ya; semua prodi wajibkan Praktik Pengalaman Lapangan (PPL) di sekolah mitra selama 1–2 semester."
+  },
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Mengapa semua prodi Tarbiyah berakreditasi Unggul?",
+    "A": "Karena jadi misi utama UNSIQ dengan dukungan S3 dan Kemenag."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Mengapa semua prodi Tarbiyah di UNSIQ berakreditasi Unggul?",
+    "A": "Karena UNSIQ fokus pada pencetak pendidik profesional dengan investasi besar pada dosen, riset, dan kurikulum."
+  },
+  {
+    "no": 39,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Komunikasi dan Sosial Politik?",
+    "A": "Ilmu Politik (Baik) dan KPI (B)."
+  },
+  {
+    "no": 40,
+    "type": "explanation",
+    "Q": "Apa program studi yang tersedia di Fakultas Komunikasi dan Sosial Politik?",
+    "A": "S1 Ilmu Politik (akreditasi Baik) dan Komunikasi Penyiaran Islam (KPI) (akreditasi B)."
+  },
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Apa prospek lulusan Ilmu Politik UNSIQ?",
+    "A": "Jadi staf legislatif, peneliti kebijakan, atau aparatur pemerintah."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Apa prospek kerja lulusan S1 Ilmu Politik UNSIQ?",
+    "A": "Bisa jadi staf DPR, peneliti, aktivis LSM, atau aparatur pemerintah dengan landasan etika Islam."
+  },
+  {
+    "no": 43,
+    "type": "medium",
+    "Q": "Mengapa Ilmu Politik hanya berakreditasi Baik?",
+    "A": "Masih tingkatkan publikasi dan dosen S3."
+  },
+  {
+    "no": 44,
+    "type": "explanation",
+    "Q": "Mengapa Ilmu Politik hanya berakreditasi “Baik”?",
+    "A": "Sudah penuhi standar dasar, tapi sedang proses peningkatan menuju “Baik Sekali” atau “Unggul”."
+  },
+  {
+    "no": 45,
+    "type": "medium",
+    "Q": "Apa yang dipelajari di KPI?",
+    "A": "Jurnalistik, produksi media, dan komunikasi dakwah berbasis Islam."
+  },
+  {
+    "no": 46,
+    "type": "explanation",
+    "Q": "Apa yang dipelajari di Komunikasi dan Penyiaran Islam (KPI)?",
+    "A": "Mahasiswa belajar jurnalistik, produksi media, dan dakwah digital—siap jadi content creator media Islam."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Bisakah lulusan KPI kerja di TV nasional?",
+    "A": "Ya, terutama di media Islam atau umum."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Apakah lulusan KPI bisa bekerja di TV atau radio nasional?",
+    "A": "Ya; banyak diterima di media Islam maupun umum karena keterampilan produksi konten yang kompetitif."
+  },
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Bagaimana integrasi Islam dalam Ilmu Politik?",
+    "A": "Dikaitkan dengan siyasah syar’iyyah, syura, dan keadilan sosial."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Bagaimana integrasi nilai Islam dalam Ilmu Politik?",
+    "A": "Menganalisis kebijakan publik melalui prinsip maslahah, adl, dan syura dalam kerangka etika Islam."
+  },
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apakah KPI dan Ilmu Politik terbuka untuk semua jurusan?",
+    "A": "Ya, terbuka untuk lulusan IPA, IPS, dan Bahasa."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apakah prodi KPI dan Ilmu Politik bisa menerima lulusan dari jurusan apa saja?",
+    "A": "Ya; tidak ada batasan jurusan, yang penting minat pada isu sosial, media, atau kebijakan."
+  },
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Syari’ah dan Hukum?",
+    "A": "Empat prodi S1: HK, HES, IAT, dan Ilmu Hukum."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Apa saja program studi di Fakultas Syari’ah dan Hukum UNSIQ?",
+    "A": "S1 Hukum Keluarga (Unggul), Hukum Ekonomi Syariah (Baik Sekali), Ilmu Al-Qur’an dan Tafsir (Baik Sekali), dan Ilmu Hukum (B)."
+  },
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Mengapa Hukum Keluarga berakreditasi Unggul?",
+    "A": "Integrasi fiqh, UU perkawinan, dan konseling keluarga modern."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Mengapa Hukum Keluarga (Ahwal Syakhshiyah) berakreditasi Unggul?",
+    "A": "Menggabungkan fiqh munakahat, hukum positif, dan konseling—lulusan sangat diminati di pengadilan agama dan KUA."
+  },
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Apa prospek lulusan Hukum Ekonomi Syariah?",
+    "A": "Jadi auditor syariah, staf BMT, atau pengelola zakat."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa prospek kerja lulusan Hukum Ekonomi Syari’ah?",
+    "A": "Bisa kerja di bank syariah, BMT, atau lembaga zakat; banyak yang ambil sertifikasi AAiSy."
+  },
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Apa keunikan prodi Ilmu Al-Qur’an dan Tafsir?",
+    "A": "Mengkaji tafsir dengan isu kontemporer dan teknologi digital."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Apa keunikan prodi Ilmu Al-Qur’an dan Tafsir di UNSIQ?",
+    "A": "Mengaitkan tafsir klasik dengan isu lingkungan, HAM, dan teknologi melalui pendekatan tematik modern."
+  },
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Mengapa Ilmu Hukum hanya berakreditasi B?",
+    "A": "Sedang tingkatkan dosen S3 dan publikasi ilmiah."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Mengapa Ilmu Hukum berakreditasi B, bukan lebih tinggi?",
+    "A": "Sudah penuhi standar dasar, tapi masih kembangkan riset dan kemitraan; didukung status institusi Unggul."
+  },
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Bisakah lulusan Hukum Keluarga kerja di PN?",
+    "A": "Tidak; hanya di pengadilan agama."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Bisakah lulusan Hukum Keluarga bekerja di pengadilan negeri?",
+    "A": "Tidak; mereka berkarier di pengadilan agama yang setara hukumnya dengan pengadilan negeri."
+  },
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Bisakah lulusan IAT jadi dosen?",
+    "A": "Ya, asal lanjut S2 dan S3."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Apakah lulusan Ilmu Al-Qur’an dan Tafsir bisa jadi dosen?",
+    "A": "Ya; banyak diterima di UIN/IAIN setelah lanjut S2, terutama karena akreditasi Baik Sekali."
+  },
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Apa prospek lulusan Ilmu Hukum di lingkungan Islam?",
+    "A": "Jadi penasihat hukum ormas atau pengelola wakaf."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Bagaimana prospek kerja lulusan Ilmu Hukum (konvensional) di lingkungan Islam?",
+    "A": "Bisa jadi staf legal pesantren atau pengelola wakaf yang paham hukum positif dan syariah."
+  },
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Apakah HES sama dengan Perbankan Syariah?",
+    "A": "Tidak; HES fokus pada hukum akad, bukan operasional bank."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Apakah Hukum Ekonomi Syari’ah sama dengan Perbankan Syariah?",
+    "A": "Tidak; HES pelajari hukum akad dan fatwa, sedangkan Perbankan Syariah fokus pada manajemen operasional."
+  },
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Apa peluang studi lanjut lulusan Hukum Keluarga?",
+    "A": "Bisa ke S2 Hukum Islam atau Gender Studies."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Apa peluang studi lanjut lulusan Hukum Keluarga?",
+    "A": "Sangat terbuka ke UIN, Al-Azhar, atau IIUM dalam spesialisasi Ahwal Syakhshiyah."
+  },
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Apakah IAT hanya untuk calon ustadz?",
+    "A": "Tidak; juga untuk peneliti, editor, atau content creator."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Apakah Ilmu Al-Qur’an dan Tafsir hanya untuk calon ustadz?",
+    "A": "Tidak; lulusan juga jadi peneliti, pengembang aplikasi tafsir, atau podcaster edukasi Al-Qur’an."
+  },
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Bagaimana kaitan Hukum Keluarga dan Konseling?",
+    "A": "Kurikulum integrasikan teknik mediasi dan komunikasi empatik."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Bagaimana kaitan antara Hukum Keluarga dan Konseling?",
+    "A": "Mahasiswa belajar mediasi dan manajemen konflik agar bisa jadi konselor keluarga bersertifikat."
+  },
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Apakah prodi Syari’ah terima lulusan IPA?",
+    "A": "Ya, terbuka untuk semua jurusan SMA/MA."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Apakah prodi Syari’ah menerima lulusan IPA?",
+    "A": "Ya; lulusan IPA justru unggul di IAT karena logika analitis membantu pahami struktur bahasa Arab."
+  },
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Prodi apa di Fakultas Teknik dan Ilmu Komputer?",
+    "A": "Lima program: Arsitektur (A), TI, MI, Teknik Mesin, Teknik Elektro."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Apa program studi yang tersedia di Fakultas Teknik dan Ilmu Komputer?",
+    "A": "Arsitektur (A), Teknik Informatika (Baik Sekali), Manajemen Informatika (Baik Sekali), Teknik Mesin (Baik), Teknik Elektro (Baik)."
+  },
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Mengapa Arsitektur berakreditasi A?",
+    "A": "Fasilitas lengkap, kurikulum integratif, dan kemitraan dengan biro arsitektur."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Mengapa Arsitektur berakreditasi A—satu-satunya di fakultas ini?",
+    "A": "Memenuhi standar tertinggi BAN-PT dengan integrasi arsitektur Islam, berkelanjutan, dan lokal."
+  },
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Apa beda Teknik Informatika dan Manajemen Informatika?",
+    "A": "TI fokus coding/AI, MI fokus pengelolaan sistem informasi."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Apa perbedaan Teknik Informatika dan Manajemen Informatika?",
+    "A": "Teknik Informatika (S1) untuk programmer/engineer, Manajemen Informatika (D3) untuk staf IT dan database."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Bisakah lulusan Teknik Sipil kerja di proyek pemerintah?",
+    "A": "Ya, asal punya sertifikasi SKA dari LPJK."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Apakah lulusan Teknik Sipil bisa bekerja di proyek pemerintah?",
+    "A": "Ya; prodi sesuai SNI dan KKNI, dan UNSIQ bekerja sama dengan Dinas PUPR untuk magang dan rekrutmen."
+  },
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Bagaimana integrasi Islam dalam Teknik Mesin?",
+    "A": "Mengembangkan teknologi tepat guna berbasis prinsip tidak merugikan."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Bagaimana integrasi nilai Islam dalam Teknik Mesin?",
+    "A": "Mahasiswa rancang teknologi untuk pesantren dengan etika rekayasa Islam dan prinsip la darar wa la dirar."
+  },
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Bisakah lulusan D3 MI lanjut ke S1?",
+    "A": "Ya, bisa ke S1 TI dengan transfer kredit hingga 50%."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apakah lulusan D3 Manajemen Informatika bisa lanjut ke S1?",
+    "A": "Ya; bisa lanjut ke S1 Teknik Informatika dengan konversi kredit, tempuh 4–6 semester lagi."
+  },
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Apa prospek kerja lulusan Arsitektur UNSIQ?",
+    "A": "Jadi arsitek, konsultan, atau spesialis desain masjid dan pesantren."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Apa prospek kerja lulusan Arsitektur UNSIQ?",
+    "A": "Bisa kerja di biro arsitektur, developer, atau pemerintah; banyak yang spesialis desain masjid berakreditasi A."
+  },
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Mengapa Teknik Informatika penting di era digital?",
+    "A": "Untuk kembangkan solusi digital berbasis nilai Islam."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Mengapa Teknik Informatika penting di era digital?",
+    "A": "Lulusan ciptakan aplikasi Al-Qur’an, sistem pesantren, atau platform zakat—menjadi coder berakhlak di era digital."
+  },
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Program S2 apa saja yang tersedia di UNSIQ?",
+    "A": "Magister Pendidikan Islam dan Magister Ilmu Al-Qur’an & Tafsir."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa program S2 yang tersedia di UNSIQ?",
+    "A": "Dua program: Magister Pendidikan Islam (akreditasi Baik Sekali) dan Magister Ilmu Al-Qur’an & Tafsir (akreditasi B)."
+  },
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Siapa sasaran Magister Pendidikan Islam?",
+    "A": "Guru, kepala sekolah, dan pengelola lembaga pendidikan Islam."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Siapa sasaran utama Magister Pendidikan Islam?",
+    "A": "Guru, kepala sekolah, dan pengelola pendidikan Islam yang ingin tingkatkan kompetensi akademik dan profesional."
+  },
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Bisakah lulusan S2 IAT jadi dosen?",
+    "A": "Ya, karena S2 syarat minimal jadi dosen tetap."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Apakah lulusan S2 Ilmu Al-Qur’an dan Tafsir bisa mengajar di perguruan tinggi?",
+    "A": "Ya; S2 adalah syarat wajib jadi dosen, dan lulusan banyak mengajar di STAI atau lembaga riset Al-Qur’an."
+  },
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa peluang beasiswa untuk mahasiswa S2?",
+    "A": "Bisa ajukan Alumni, Tahfidz 30 Juz, atau KIP Kuliah."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Bagaimana peluang beasiswa untuk mahasiswa S2 di UNSIQ?",
+    "A": "Bisa ajukan beasiswa Alumni, Tahfidz 30 Juz, atau KIP Kuliah—terutama untuk prodi berakreditasi Baik Sekali."
+  }
+]

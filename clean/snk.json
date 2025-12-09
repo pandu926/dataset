@@ -1,0 +1,1402 @@
+[
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Bagaimana proses pendaftaran D3/S1 di UNSIQ?",
+    "A": "Isi formulir, bayar, unggah dokumen, ikut placement test, lalu reservasi NIM."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Bagaimana alur pendaftaran calon mahasiswa baru jenjang D3 dan S1?",
+    "A": "Dimulai dari formulir online hingga reservasi NIM setelah lulus placement test dan bayar angsuran pertama."
+  },
+
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Mengapa simpan nomor pendaftaran dan PIN?",
+    "A": "Sebagai identitas digital untuk login, bayar, dan akses sistem."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Mengapa calon harus menyimpan nomor pendaftaran dan PIN?",
+    "A": "Karena digunakan untuk login, unggah dokumen, ujian, dan pembayaran—tanpa itu proses terhenti."
+  },
+
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apa akibat tidak ikut placement test tepat waktu?",
+    "A": "Proses seleksi hangus; harus daftar ulang di gelombang berikutnya."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apa dampak jika tidak ikuti placement test sebelum batas akhir?",
+    "A": "Tidak bisa lanjut ke pembayaran angsuran; status pendaftaran hangus meski dokumen lengkap."
+  },
+
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Bagaimana lulusan 2025 penuhi syarat tanpa SKL?",
+    "A": "Gunakan surat keterangan aktif dari sekolah sebagai pengganti sementara."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Bagaimana calon lulusan 2025 penuhi persyaratan jika SKL belum terbit?",
+    "A": "Dengan surat keterangan aktif dari sekolah, yang berlaku hingga SKL resmi diterbitkan."
+  },
+
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Mengapa bayar pakai nomor pendaftaran, bukan rekening?",
+    "A": "Agar pembayaran terhubung langsung ke akun pendaftar di sistem."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Mengapa pembayaran pendaftaran tidak menggunakan nomor rekening?",
+    "A": "Nomor pendaftaran menjamin alokasi dana akurat dan verifikasi otomatis tanpa kesalahan manual."
+  },
+
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Apa akibat tidak penuhi syarat tinggi badan kesehatan?",
+    "A": "Pendaftaran ditolak, meski dokumen dan nilai ujian lengkap."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa konsekuensi jika tidak memenuhi syarat tinggi badan minimal?",
+    "A": "Verifikasi ditolak karena persyaratan fisik mutlak untuk kompetensi profesi kesehatan."
+  },
+
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Bagaimana alur verifikasi dokumen setelah diunggah?",
+    "A": "Diperiksa maksimal 2x24 jam; jika salah, bisa diperbaiki."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Bagaimana proses verifikasi dokumen calon mahasiswa setelah pengunggahan?",
+    "A": "Tim verifikasi cek kelengkapan dan keabsahan dokumen dalam waktu maksimal dua hari."
+  },
+
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Mengapa S1 Keperawatan karyawan wajib lulus D3 dulu?",
+    "A": "Karena program ini lanjutan dari kompetensi dasar D3 Keperawatan."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Mengapa calon S1 Keperawatan kelas karyawan harus lulus D3 dulu?",
+    "A": "Kurikulum S1 karyawan asumsikan mahasiswa sudah menguasai dasar praktik dan teori keperawatan."
+  },
+
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa akibat tidak bayar angsuran pertama tepat waktu?",
+    "A": "Hak NIM hangus; dianggap mengundurkan diri otomatis."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika tidak bayar angsuran pertama sebelum batas akhir?",
+    "A": "Tidak bisa reservasi NIM dan dianggap batal, meski sudah lulus placement test."
+  },
+
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Mengapa surat sehat wajib untuk calon kesehatan?",
+    "A": "Untuk verifikasi tinggi badan, buta warna, dan kelayakan fisik profesi."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Mengapa surat keterangan sehat wajib bagi calon Fakultas Ilmu Kesehatan?",
+    "A": "Menjamin calon memenuhi standar fisik profesi, termasuk penglihatan warna dan postur tubuh."
+  },
+
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Bagaimana sistem atur biaya sesuai gelombang?",
+    "A": "Sistem otomatis sesuaikan biaya berdasarkan tanggal pendaftaran awal."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Bagaimana sistem pastikan calon bayar sesuai gelombang yang dipilih?",
+    "A": "Tanggal pendaftaran menentukan biaya otomatis; nomor pendaftaran mengunci jumlah yang harus dibayar."
+  },
+
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Mengapa angsuran pertama lebih kecil dari SPP penuh?",
+    "A": "Untuk ringankan beban awal dan dorong komitmen cepat."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Mengapa UNSIQ tetapkan angsuran pertama lebih kecil dari biaya kuliah penuh?",
+    "A": "Agar calon mudah mulai kuliah tanpa beban finansial besar di awal semester."
+  },
+
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Mengapa foto harus formal dan 250x350 pixel?",
+    "A": "Standar nasional untuk dokumen akademik dan keamanan identitas."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Mengapa format foto calon mahasiswa harus formal dan berukuran 250x350 pixel?",
+    "A": "Agar sesuai standar KTM nasional, mudah diidentifikasi, dan ringan di sistem digital."
+  },
+
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Bagaimana pastikan dokumen diunggah diterima sistem?",
+    "A": "Periksa format, ukuran, dan pratinjau setelah unggah."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan dokumen yang diunggah diterima tanpa kesalahan?",
+    "A": "Pastikan file JPG, ukuran sesuai, dan konten jelas; pantau status verifikasi dalam 2x24 jam."
+  },
+
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Mengapa gelombang 1 gratis, gelombang berikutnya bayar?",
+    "A": "Insentif untuk daftar lebih awal dan isi kuota cepat."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Mengapa gelombang 1 tidak dikenakan biaya pendaftaran?",
+    "A": "Sebagai dorongan agar calon mendaftar dini, memudahkan perencanaan akademik dan keuangan kampus."
+  },
+
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Apa beda proses pendaftaran antar gelombang?",
+    "A": "Waktu persiapan lebih pendek di gelombang akhir, risiko kuota penuh."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Apa yang membedakan proses pendaftaran gelombang 1, 2, dan 3?",
+    "A": "Gelombang awal memberi waktu luang; gelombang akhir lebih cepat dan berisiko kuota habis."
+  },
+
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Mengapa laki-laki kesehatan wajib tes buta warna?",
+    "A": "Karena risiko buta warna lebih tinggi dan berisiko profesi."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Mengapa calon laki-laki di Fakultas Ilmu Kesehatan wajib tes buta warna?",
+    "A": "Untuk memastikan kemampuan membedakan warna dalam praktik klinis, menghindari risiko kesalahan medis."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Bagaimana pastikan pembayaran Finpay/Bank Jateng tercatat?",
+    "A": "Simpan bukti bayar dan cek status di akun pendaftaran."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan pembayaran tercatat di sistem UNSIQ?",
+    "A": "Sistem terintegrasi otomatis; cek status dalam 24 jam dan hubungi admin jika belum muncul."
+  },
+
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Mengapa unggah scan KK asli, bukan fotokopi?",
+    "A": "Agar data jelas, asli, dan mudah diverifikasi oleh sistem."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Mengapa calon harus unggah scan Kartu Keluarga asli?",
+    "A": "Fotokopi berisiko kabur atau dimanipulasi; scan asli menjamin keaslian dan validitas data administratif."
+  },
+
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika lupa PIN/password?",
+    "A": "Gunakan fitur lupa password atau hubungi admin dengan nomor pendaftaran."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika lupa PIN atau password?",
+    "A": "Reset lewat email/HP terdaftar atau hubungi layanan administrasi dengan identitas dan nomor pendaftaran."
+  },
+
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Bagaimana manfaatkan gelombang 1 secara optimal?",
+    "A": "Daftar awal November, persiapkan dokumen, dan ikut test tanpa terburu-buru."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Bagaimana calon manfaatkan masa pendaftaran gelombang 1 secara optimal?",
+    "A": "Gunakan waktu luas hingga Desember untuk persiapan matang dan hindari tekanan akhir."
+  },
+
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Mengapa placement test boleh kapan saja?",
+    "A": "Untuk akomodasi jadwal calon yang beragam secara fleksibel."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Mengapa placement test boleh dilakukan kapan saja sebelum batas akhir?",
+    "A": "Memberi fleksibilitas jadwal, terutama bagi calon pekerja atau dari luar daerah."
+  },
+
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Apa dampak unggah ijazah belum legalisir?",
+    "A": "Bisa ditolak jika tidak jelas; legalisir wajib saat registrasi akhir."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa dampak jika calon unggah ijazah yang belum dilegalisir?",
+    "A": "Diterima sementara, tapi wajib lengkapi legalisasi sebelum wisuda atau risiko diskors."
+  },
+
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Bagaimana sistem cegah daftar ganda di gelombang?",
+    "A": "Sistem deteksi duplikasi berdasarkan NIK atau data pribadi unik."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Bagaimana sistem mencegah calon mendaftar di lebih dari satu gelombang?",
+    "A": "Setiap NIK hanya bisa daftar sekali; pendaftaran ulang otomatis ditolak oleh sistem."
+  },
+
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Mengapa muawanah masuk angsuran pertama?",
+    "A": "Agar mahasiswa langsung terintegrasi dalam kehidupan kampus sejak awal."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Mengapa dana muawanah dan kemahasiswaan termasuk dalam angsuran pertama?",
+    "A": "Mendorong partisipasi sejak awal dalam kegiatan non-akademik dan memperkuat nilai kebersamaan."
+  },
+
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa akibat lulus test tapi gagal verifikasi dokumen?",
+    "A": "Tidak bisa lanjut ke pembayaran, meski lulus ujian."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika lulus placement test tapi gagal verifikasi dokumen?",
+    "A": "Proses terhenti karena persyaratan administratif dan fisik bersifat mutlak, bukan opsional."
+  },
+
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Bagaimana calon luar daerah dapat surat sehat?",
+    "A": "Dari puskesmas atau klinik resmi di wilayahnya masing-masing."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Bagaimana calon luar daerah akses layanan kesehatan untuk surat sehat?",
+    "A": "Bisa dari fasilitas kesehatan resmi di daerahnya selama memenuhi standar pemeriksaan UNSIQ."
+  },
+
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Mengapa angsuran pertama hanya Rp745.000?",
+    "A": "Hanya untuk biaya non-akademik awal seperti atribut dan kemahasiswaan."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Mengapa pembayaran angsuran pertama hanya Rp745.000, bukan penuh?",
+    "A": "Karena mencakup biaya awal non-akademik; SPP dibayar setelah NIM diterima."
+  },
+
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Mengapa gelombang 3 berisiko lebih tinggi?",
+    "A": "Kuota hampir penuh dan waktu sangat ketat."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Apa yang membuat gelombang 3 berisiko lebih tinggi?",
+    "A": "Kuota terbatas, batas waktu mepet dengan awal kuliah, dan risiko teknis tinggi."
+  },
+
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Bagaimana pastikan surat aktif sekolah diterima?",
+    "A": "Harus berstempel basah, tanda tangan kepala sekolah, dan sebut kelulusan 2025."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan surat keterangan aktif diterima sebagai pengganti SKL?",
+    "A": "Surat harus resmi, menyebut kelulusan 2025, dan dilengkapi stempel serta tanda tangan sah."
+  },
+
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Mengapa tidak boleh bayar pakai rekening pribadi?",
+    "A": "Sistem tidak kenali identitas dari nomor rekening."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Mengapa calon tidak boleh menggunakan rekening pribadi untuk pembayaran?",
+    "A": "Nomor rekening tidak unik; hanya nomor pendaftaran yang terhubung langsung ke akun."
+  },
+
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika hasil test tidak sesuai?",
+    "A": "Placement test biasanya untuk penempatan, bukan seleksi gugur."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika hasil placement test tidak sesuai harapan?",
+    "A": "Tetap lanjutkan proses; hasil test biasanya menentukan level remedial, bukan kelulusan."
+  },
+
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Mengapa fakultas lain tidak perlu surat sehat?",
+    "A": "Karena tidak menuntut standar fisik seperti profesi kesehatan."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Mengapa calon fakultas selain Ilmu Kesehatan tidak perlu surat sehat?",
+    "A": "Persyaratan fisik hanya relevan untuk profesi yang memerlukan interaksi klinis langsung."
+  },
+
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Bagaimana sistem tangani dokumen lewat batas waktu?",
+    "A": "Dokumen otomatis ditolak jika diunggah setelah batas verifikasi."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Bagaimana sistem menangani calon yang unggah dokumen setelah batas verifikasi?",
+    "A": "Sistem tolak otomatis; tidak ada pengecualian kecuali ada pengumuman resmi dari kampus."
+  },
+
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Apa keuntungan daftar di gelombang 1?",
+    "A": "Gratis, waktu luas, dan kuota masih penuh."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Apa keuntungan mendaftar di gelombang 1 meski biaya lain terjangkau?",
+    "A": "Memberi kepastian, waktu persiapan panjang, dan peluang diterima lebih tinggi."
+  },
+
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Mengapa wajib pakai format JPG?",
+    "A": "Agar ukuran kecil, kompatibel, dan mudah diproses sistem."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Mengapa calon wajib menggunakan file JPG, bukan PDF atau format lain?",
+    "A": "JPG ringan, universal, dan memudahkan verifikasi otomatis serta pratinjau di sistem."
+  },
+
+  {
+    "no": 39,
+    "type": "medium",
+    "Q": "Apa yang terjadi setelah reservasi NIM?",
+    "A": "Resmi jadi mahasiswa dan dapat akses sistem akademik."
+  },
+  {
+    "no": 40,
+    "type": "explanation",
+    "Q": "Apa yang terjadi setelah calon berhasil reservasi NIM?",
+    "A": "Calon resmi jadi mahasiswa, dapat email kampus, dan wajib ikuti orientasi serta lunasi biaya."
+  },
+
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Mengapa S1 karyawan tidak terima lulusan SMA?",
+    "A": "Karena program ini lanjutan dari kompetensi dasar D3 Keperawatan."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Mengapa calon S1 Keperawatan kelas karyawan tidak boleh lulusan SMA langsung?",
+    "A": "Kurikulum asumsikan mahasiswa sudah punya pengalaman klinis dan keterampilan dasar dari D3."
+  },
+
+  {
+    "no": 43,
+    "type": "medium",
+    "Q": "Bagaimana pastikan surat sehat lengkap?",
+    "A": "Minta petugas cantumkan tinggi, berat, sehat, dan tes buta warna."
+  },
+  {
+    "no": 44,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan surat keterangan sehat mencakup semua komponen?",
+    "A": "Bawa panduan UNSIQ ke fasilitas kesehatan dan minta semua poin dicantumkan eksplisit."
+  },
+
+  {
+    "no": 45,
+    "type": "medium",
+    "Q": "Apa beda persyaratan Fakultas Kesehatan dengan lainnya?",
+    "A": "Ada syarat fisik: tinggi badan, buta warna, dan surat sehat lengkap."
+  },
+  {
+    "no": 46,
+    "type": "explanation",
+    "Q": "Apa yang membedakan persyaratan pendaftaran Fakultas Ilmu Kesehatan?",
+    "A": "Menambahkan persyaratan fisik ketat karena relevan dengan kompetensi profesi kesehatan."
+  },
+
+  {
+    "no": 47,
+    "type": "medium",
+    "Q": "Mengapa tunggu verifikasi sebelum ikut placement test?",
+    "A": "Agar hanya calon memenuhi syarat yang ikut ujian."
+  },
+  {
+    "no": 48,
+    "type": "explanation",
+    "Q": "Mengapa calon harus menunggu verifikasi sebelum mengikuti placement test?",
+    "A": "Mencegah pemborosan waktu bagi calon yang tidak memenuhi syarat administratif atau fisik."
+  },
+
+  {
+    "no": 49,
+    "type": "medium",
+    "Q": "Apa risiko bayar angsuran di hari terakhir?",
+    "A": "Gangguan teknis bisa buat pembayaran terlambat tercatat."
+  },
+  {
+    "no": 50,
+    "type": "explanation",
+    "Q": "Apa risiko jika menunda pembayaran angsuran pertama hingga hari terakhir?",
+    "A": "Risiko gagal terverifikasi tepat waktu akibat gangguan bank atau server di menit akhir."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Mengapa tidak boleh ganti gelombang setelah daftar?",
+    "A": "Nomor pendaftaran terikat permanen pada gelombang awal."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Mengapa sistem tidak izinkan calon ganti gelombang setelah pendaftaran?",
+    "A": "Untuk jaga alokasi kuota, biaya, dan jadwal verifikasi tetap stabil dan adil."
+  },
+
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Bagaimana pastikan foto formal sesuai standar?",
+    "A": "Latar polos, wajah jelas, ukuran 250x350, format JPG."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan foto formal memenuhi standar UNSIQ?",
+    "A": "Gunakan latar polos, pakaian formal, tanpa aksesori, dan sesuaikan ukuran tepat 250x350 pixel."
+  },
+
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika sudah punya SKL?",
+    "A": "Unggah SKL sebagai pengganti ijazah sejak awal."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika calon lulusan 2025 sudah punya SKL?",
+    "A": "Langsung unggah SKL karena dianggap lebih resmi dan mempercepat verifikasi tanpa revisi."
+  },
+
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Mengapa tidak langsung dapat NIM setelah lulus test?",
+    "A": "Harus lunasi angsuran pertama dan lengkapi verifikasi dulu."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Mengapa calon tidak bisa langsung dapat NIM setelah lulus placement test?",
+    "A": "NIM hanya diberikan setelah semua syarat administratif dan finansial terpenuhi secara lengkap."
+  },
+
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Apa akibat bayar di luar masa gelombang?",
+    "A": "Pembayaran tidak tercatat; pendaftaran dianggap belum lunas."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika bayar biaya pendaftaran di luar masa gelombang?",
+    "A": "Sistem tolak transaksi atau anggap tidak sah karena nomor pendaftaran hanya aktif di gelombang terdaftar."
+  },
+
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Mengapa perempuan kesehatan tidak wajib tes buta warna?",
+    "A": "Karena risiko buta warna pada perempuan jauh lebih rendah."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Mengapa calon perempuan di Fakultas Ilmu Kesehatan tidak wajib tes buta warna?",
+    "A": "Berdasar data genetik, prevalensi buta warna pada perempuan sangat rendah dibanding laki-laki."
+  },
+
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Bagaimana pastikan surat hasil ujian diterima?",
+    "A": "Scan jelas, berstempel sekolah, dan lengkapi data nama."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Bagaimana calon pastikan surat keterangan hasil ujian diterima sistem?",
+    "A": "Pastikan surat resmi dari sekolah, berstempel, dan mencantumkan nilai serta nama calon."
+  },
+
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Apa beda proses pendaftaran D3 dan S1?",
+    "A": "Tidak ada perbedaan prosedur; alur pendaftaran sama."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Apa yang membedakan proses pendaftaran D3 dan S1 dalam informasi yang diberikan?",
+    "A": "Keduanya ikuti alur yang sama; perbedaan hanya pada persyaratan khusus prodi tertentu."
+  },
+
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa langkah pertama daftar S2 di UNSIQ?",
+    "A": "Isi formulir pendaftaran online di laman resmi UNSIQ."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apa langkah pertama dalam proses pendaftaran S2 di UNSIQ?",
+    "A": "Mengisi formulir pendaftaran online untuk mendapatkan nomor pendaftaran dan PIN akses sistem."
+  },
+
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Berapa biaya pendaftaran S2 gelombang 2 dan 3?",
+    "A": "Rp300.000 untuk masing-masing gelombang."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Berapa biaya pendaftaran untuk Gelombang 2 dan 3 jenjang S2?",
+    "A": "Sebesar Rp300.000 per gelombang, dibayar melalui Bank Jateng atau Finpay."
+  },
+
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Kapan batas akhir ujian gelombang 3?",
+    "A": "31 Agustus 2025."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Kapan batas akhir ujian placement test untuk Gelombang 3?",
+    "A": "Calon harus selesaikan placement test paling lambat 31 Agustus 2025."
+  },
+
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Berapa angsuran pertama semester 1 S2?",
+    "A": "Rp1.100.000 untuk semua gelombang."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Berapa jumlah yang harus dibayarkan sebagai angsuran pertama semester 1?",
+    "A": "Rp1.100.000, mencakup atribut, matrikulasi, muawanah, dan dana kemahasiswaan."
+  },
+
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Apa dokumen wajib pendaftaran S2?",
+    "A": "Ijazah/SKL, KK, foto, dan surat sehat (jika FIKES)."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Apa dokumen wajib yang harus diunggah oleh calon mahasiswa S2?",
+    "A": "Scan ijazah/SKL, KK asli, foto formal 250x350, dan surat sehat untuk Fakultas Ilmu Kesehatan."
+  },
+
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Mengapa bayar pakai nomor pendaftaran?",
+    "A": "Agar sistem otomatis kaitkan pembayaran ke akun calon."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Mengapa pembayaran pendaftaran harus menggunakan nomor pendaftaran?",
+    "A": "Agar setiap transaksi terhubung langsung ke identitas unik di sistem tanpa kesalahan alokasi."
+  },
+
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Mengapa angsuran pertama wajib sebelum batas gelombang?",
+    "A": "Sebagai bukti komitmen dan syarat finalisasi status mahasiswa."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Mengapa angsuran pertama wajib dibayar sebelum batas gelombang masing-masing?",
+    "A": "Untuk memastikan kesiapan calon dan membantu kampus dalam perencanaan kapasitas akademik."
+  },
+
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Bagaimana proses verifikasi dalam 2x24 jam?",
+    "A": "Tim periksa dokumen; notifikasi keluar dalam 48 jam."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Bagaimana proses verifikasi biodata berlangsung dalam 2×24 jam?",
+    "A": "Tim administrasi periksa kelengkapan dokumen dan beri notifikasi kelulusan atau permintaan perbaikan dalam 48 jam."
+  },
+
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Mengapa unggah ijazah/SKL meski belum lulus?",
+    "A": "Sebagai bukti kelulusan atau calon lulusan tahun berjalan."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Mengapa calon wajib unggah ijazah atau SKL meski belum lulus?",
+    "A": "Karena kelulusan dari jenjang sebelumnya adalah prasyarat mutlak untuk masuk program S2."
+  },
+
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Mengapa foto harus 250x350 pixel?",
+    "A": "Agar sesuai standar sistem dan kartu identitas mahasiswa."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Mengapa foto harus formal dengan ukuran 250×350 pixel?",
+    "A": "Untuk konsistensi visual di database dan KTM, serta mencegah penolakan teknis sistem."
+  },
+
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Mengapa login pakai nomor pendaftaran dan PIN?",
+    "A": "Sebagai identitas digital unik dan aman selama proses seleksi."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Mengapa calon diminta login menggunakan nomor pendaftaran dan PIN?",
+    "A": "Karena kombinasi ini bersifat unik untuk proses ini dan meningkatkan keamanan data pendaftar."
+  },
+
+  {
+    "no": 39,
+    "type": "medium",
+    "Q": "Mengapa surat sehat hanya untuk FIKES?",
+    "A": "Karena tuntutan fisik profesi kesehatan lebih ketat."
+  },
+  {
+    "no": 40,
+    "type": "explanation",
+    "Q": "Mengapa surat keterangan sehat hanya diwajibkan untuk Fakultas Ilmu Kesehatan?",
+    "A": "Program kesehatan menuntut kondisi fisik prima untuk praktik klinis dan pelayanan pasien."
+  },
+
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Apa risiko unggah dokumen lewat batas waktu?",
+    "A": "Verifikasi ditolak; pendaftaran hangus."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Apa risiko jika dokumen diunggah setelah batas waktu verifikasi?",
+    "A": "Sistem tolak otomatis; calon tidak bisa lanjut ke ujian atau harus daftar ulang."
+  },
+
+  {
+    "no": 43,
+    "type": "medium",
+    "Q": "Mengapa ujian boleh kapan saja?",
+    "A": "Untuk fleksibilitas jadwal calon, terutama pekerja atau luar kota."
+  },
+  {
+    "no": 44,
+    "type": "explanation",
+    "Q": "Mengapa ujian placement test bisa dilakukan kapan saja sebelum batas akhir?",
+    "A": "Memberi keleluasaan waktu sambil tetap menjaga tenggat administrasi yang jelas dan adil."
+  },
+
+  {
+    "no": 45,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika belum punya SKL?",
+    "A": "Gunakan surat keterangan aktif dari sekolah sebagai pengganti."
+  },
+  {
+    "no": 46,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika calon lulusan 2025 belum memiliki SKL saat pendaftaran?",
+    "A": "Bisa daftar dengan surat aktif, tapi wajib lengkapi SKL sebelum registrasi akhir."
+  },
+
+  {
+    "no": 47,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika salah unggah dokumen?",
+    "A": "Perbaiki dalam 2x24 jam atau risiko pendaftaran ditolak."
+  },
+  {
+    "no": 48,
+    "type": "explanation",
+    "Q": "Bagaimana jika calon salah unggah dokumen, misalnya KK tidak jelas?",
+    "A": "Sistem minta perbaikan; jika tidak segera diperbaiki, proses terhambat atau ditolak."
+  },
+
+  {
+    "no": 49,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika tidak lulus placement test?",
+    "A": "Kemungkinan besar harus daftar ulang di gelombang berikutnya."
+  },
+  {
+    "no": 50,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika calon tidak lulus placement test?",
+    "A": "Tingkatkan kompetensi dan daftar ulang di gelombang berikutnya bila kebijakan mengizinkan."
+  },
+
+  {
+    "no": 51,
+    "type": "medium",
+    "Q": "Apa akibat bayar angsuran terlambat di gelombang 1?",
+    "A": "Dianggap batal; harus daftar ulang di gelombang berikutnya."
+  },
+  {
+    "no": 52,
+    "type": "explanation",
+    "Q": "Apa konsekuensi jika daftar di Gelombang 1 tapi bayar angsuran Mei 2025?",
+    "A": "Pendaftaran dianggap hangus; calon harus mendaftar ulang dan bayar biaya gelombang baru."
+  },
+
+  {
+    "no": 53,
+    "type": "medium",
+    "Q": "Apa yang terjadi jika FIKES unggah surat sehat sukarela?",
+    "A": "Tidak merugikan, tapi tidak wajib dan tidak pengaruhi kelulusan."
+  },
+  {
+    "no": 54,
+    "type": "explanation",
+    "Q": "Bagaimana jika calon dari luar FIKES unggah surat sehat secara sukarela?",
+    "A": "Tidak dilarang, tapi tidak diverifikasi karena bukan dokumen wajib untuk fakultas tersebut."
+  },
+
+  {
+    "no": 55,
+    "type": "medium",
+    "Q": "Apa status uang pendaftaran setelah dibayar?",
+    "A": "Tidak bisa dikembalikan dalam kondisi apa pun."
+  },
+  {
+    "no": 56,
+    "type": "explanation",
+    "Q": "Apa status uang pendaftaran setelah dibayarkan?",
+    "A": "Bersifat final dan tidak refund, karena langsung digunakan untuk biaya operasional seleksi."
+  },
+
+  {
+    "no": 57,
+    "type": "medium",
+    "Q": "Mengapa uang pendaftaran tidak dikembalikan?",
+    "A": "Sudah dipakai untuk operasional sistem dan verifikasi."
+  },
+  {
+    "no": 58,
+    "type": "explanation",
+    "Q": "Mengapa uang pendaftaran tidak dikembalikan meski calon tidak lanjut?",
+    "A": "Karena dana langsung dialokasikan untuk server, SDM, dan administrasi seleksi yang tidak bisa dibatalkan."
+  },
+
+  {
+    "no": 59,
+    "type": "medium",
+    "Q": "Apa yang terjadi jika bayar lalu tidak ikut seleksi?",
+    "A": "Uang hangus; harus bayar lagi jika daftar ulang."
+  },
+  {
+    "no": 60,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika calon bayar pendaftaran lalu putuskan tidak ikut seleksi?",
+    "A": "Uang tidak kembali; jika ingin daftar lagi, harus bayar ulang sesuai gelombang baru."
+  },
+
+  {
+    "no": 61,
+    "type": "medium",
+    "Q": "Kapan boleh ganti prodi tanpa CS?",
+    "A": "Sebelum mengikuti placement test, lewat menu biodata."
+  },
+  {
+    "no": 62,
+    "type": "explanation",
+    "Q": "Kapan calon boleh ganti prodi sendiri tanpa bantuan CS?",
+    "A": "Selama belum ujian, calon bisa ubah prodi langsung di menu Biodata setelah login."
+  },
+
+  {
+    "no": 63,
+    "type": "medium",
+    "Q": "Mengapa sistem izinkan ganti prodi sebelum test?",
+    "A": "Agar soal ujian sesuai dengan prodi yang dipilih."
+  },
+  {
+    "no": 64,
+    "type": "explanation",
+    "Q": "Mengapa sistem izinkan perubahan prodi sebelum placement test?",
+    "A": "Karena soal ujian disesuaikan per prodi; perubahan sebelum ujian jaga validitas seleksi."
+  },
+
+  {
+    "no": 65,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika sudah ujian tapi ingin ganti prodi?",
+    "A": "Hubungi CS untuk reset placement test terlebih dahulu."
+  },
+  {
+    "no": 66,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika sudah ujian tapi ingin pindah prodi?",
+    "A": "Minta reset ujian ke CS, lalu ubah prodi melalui sistem sebelum reservasi NIM."
+  },
+
+  {
+    "no": 67,
+    "type": "medium",
+    "Q": "Mengapa perlu reset test untuk ganti prodi?",
+    "A": "Agar hasil ujian sesuai dengan soal prodi baru."
+  },
+  {
+    "no": 68,
+    "type": "explanation",
+    "Q": "Mengapa perlu reset placement test untuk ganti prodi setelah ujian?",
+    "A": "Karena hasil ujian terikat prodi awal; reset pastikan penilaian sesuai prodi tujuan."
+  },
+
+  {
+    "no": 69,
+    "type": "medium",
+    "Q": "Apa akibat ganti prodi tanpa reset test?",
+    "A": "Sistem proses kelulusan berdasarkan prodi lama."
+  },
+  {
+    "no": 70,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika ganti prodi tanpa reset placement test?",
+    "A": "NIM diberikan untuk prodi awal; perubahan tidak diakui dan berisiko ditolak saat registrasi."
+  },
+  {
+    "no": 1,
+    "type": "medium",
+    "Q": "Berapa persen biaya dikembalikan setelah daftar ulang?",
+    "A": "25% dari biaya pendidikan; biaya lain tidak dikembalikan."
+  },
+  {
+    "no": 2,
+    "type": "explanation",
+    "Q": "Berapa persen biaya pendidikan yang dikembalikan jika calon keluar setelah daftar ulang?",
+    "A": "Hanya 25% dikembalikan; biaya atribut, matrikulasi, dan muawanah tidak dapat direfund."
+  },
+
+  {
+    "no": 3,
+    "type": "medium",
+    "Q": "Mengapa hanya 25% yang dikembalikan?",
+    "A": "Karena 75% sudah dialokasikan untuk keperluan operasional kampus."
+  },
+  {
+    "no": 4,
+    "type": "explanation",
+    "Q": "Mengapa hanya 25% yang dikembalikan meski calon belum kuliah?",
+    "A": "Universitas telah alokasikan sumber daya seperti kuota kelas dan jadwal dosen."
+  },
+
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apa akibat tidak ikut placement test?",
+    "A": "Dianggap mengundurkan diri; tidak bisa diterima."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apa konsekuensi jika calon tidak ikut placement test sesuai jadwal?",
+    "A": "Dianggap mengundurkan diri otomatis; tidak ada penjadwalan ulang kecuali force majeure."
+  },
+
+  {
+    "no": 7,
+    "type": "medium",
+    "Q": "Mengapa tidak ikut seleksi = mengundurkan diri?",
+    "A": "Karena ganggu perencanaan teknis dan alokasi sumber daya."
+  },
+  {
+    "no": 8,
+    "type": "explanation",
+    "Q": "Mengapa tidak ikut seleksi langsung dianggap mengundurkan diri?",
+    "A": "Jadwal ujian final; ketidakhadiran mengganggu alokasi server dan pengawas."
+  },
+
+  {
+    "no": 9,
+    "type": "medium",
+    "Q": "Apa akibat diterima tapi tidak herregistrasi?",
+    "A": "Status kelulusan dibatalkan; NIM tidak diberikan."
+  },
+  {
+    "no": 10,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika calon diterima tapi tidak lakukan herregistrasi?",
+    "A": "Dianggap mengundurkan diri karena tidak tunjukkan komitmen finansial dan administratif."
+  },
+
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Mengapa tidak hadir 1 semester = undur diri?",
+    "A": "Karena kehadiran indikator komitmen akademik."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Mengapa tidak hadir selama satu semester penuh berakibat pengunduran otomatis?",
+    "A": "Tanpa izin resmi, kampus tak bisa bedakan antara cuti atau putus kuliah."
+  },
+
+  {
+    "no": 13,
+    "type": "medium",
+    "Q": "Di mana ganti prodi jika belum ujian?",
+    "A": "Di menu Biodata → Data Pilihan Jurusan."
+  },
+  {
+    "no": 14,
+    "type": "explanation",
+    "Q": "Di mana calon bisa ganti prodi jika belum ujian?",
+    "A": "Melalui menu Biodata di sistem PMB setelah login, selama belum mulai ujian."
+  },
+
+  {
+    "no": 15,
+    "type": "medium",
+    "Q": "Mengapa ganti prodi bebas biaya sebelum ujian?",
+    "A": "Belum ada alokasi sumber daya ke prodi tertentu."
+  },
+  {
+    "no": 16,
+    "type": "explanation",
+    "Q": "Mengapa perubahan prodi bebas biaya sebelum ujian?",
+    "A": "Karena masih dalam fase seleksi umum, belum ada komitmen akademik ke prodi."
+  },
+
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa langkah pindah prodi setelah ujian?",
+    "A": "Hubungi PMB untuk reset test, lalu ubah prodi."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apa langkah pindah prodi setelah ujian tapi sebelum dapat NIM?",
+    "A": "Minta reset placement test ke PMB, lalu ubah prodi dan ikuti ujian ulang."
+  },
+
+  {
+    "no": 19,
+    "type": "medium",
+    "Q": "Apa risiko ganti prodi tanpa reset test?",
+    "A": "Kelulusan tidak valid; sistem pakai prodi awal."
+  },
+  {
+    "no": 20,
+    "type": "explanation",
+    "Q": "Apa risiko jika tidak reset placement test sebelum ganti prodi?",
+    "A": "NIM diberikan untuk prodi lama; perubahan tidak diakui secara administratif."
+  },
+
+  {
+    "no": 21,
+    "type": "medium",
+    "Q": "Apa syarat pindah prodi setelah dapat NIM?",
+    "A": "Surat pengajuan, bayar Rp200.000, maksimal 7 hari pasca-Studium General."
+  },
+  {
+    "no": 22,
+    "type": "explanation",
+    "Q": "Apa syarat pindah prodi setelah dapat NIM?",
+    "A": "Surat ke UPT PMB, bayar biaya, dan proses offline maksimal 7 hari setelah orientasi."
+  },
+
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Mengapa ada biaya dan batas 7 hari?",
+    "A": "Agar perubahan tidak ganggu jadwal dan kuota kelas."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Mengapa dikenakan biaya dan batas waktu 7 hari?",
+    "A": "Biaya tutup administrasi ulang; batas waktu pastikan perubahan sebelum kuliah dimulai."
+  },
+
+  {
+    "no": 25,
+    "type": "medium",
+    "Q": "Apa yang terjadi jika ganti prodi online setelah NIM?",
+    "A": "Sistem tolak otomatis; harus lewat surat resmi."
+  },
+  {
+    "no": 26,
+    "type": "explanation",
+    "Q": "Apa yang terjadi jika coba ganti prodi online setelah dapat NIM?",
+    "A": "Fitur dinonaktifkan; satu-satunya jalan adalah surat resmi ke UPT PMB."
+  },
+
+  {
+    "no": 27,
+    "type": "medium",
+    "Q": "Apa dokumen pindah prodi di semester 2?",
+    "A": "Surat permohonan, rekomendasi Kaprodi asal, persetujuan Kaprodi tujuan."
+  },
+  {
+    "no": 28,
+    "type": "explanation",
+    "Q": "Apa dokumen yang dibutuhkan untuk pindah prodi di semester 2?",
+    "A": "Tiga dokumen akademik resmi: permohonan, rekomendasi asal, dan persetujuan prodi tujuan."
+  },
+
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Mengapa butuh rekomendasi Kaprodi Asal?",
+    "A": "Untuk pastikan kesesuaian dan kelayakan akademik pindah prodi."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Mengapa butuh rekomendasi Kaprodi Asal dan persetujuan Kaprodi Baru?",
+    "A": "Menjaga kualitas akademik dan pastikan kuota serta prasyarat terpenuhi di kedua prodi."
+  },
+
+  {
+    "no": 31,
+    "type": "medium",
+    "Q": "Apa akibat pindah prodi tanpa rekomendasi?",
+    "A": "Permohonan ditolak; tetap terdaftar di prodi lama."
+  },
+  {
+    "no": 32,
+    "type": "explanation",
+    "Q": "Apa konsekuensi jika pindah prodi tanpa rekomendasi Kaprodi Asal?",
+    "A": "Ditolerir sebagai mahasiswa prodi lama; jika absen, dianggap mengundurkan diri."
+  },
+
+  {
+    "no": 33,
+    "type": "medium",
+    "Q": "Berapa dana dikembalikan jika mundur sebelum orientasi?",
+    "A": "25% dari biaya pendidikan; biaya lain tidak dikembalikan."
+  },
+  {
+    "no": 34,
+    "type": "explanation",
+    "Q": "Berapa dana yang dikembalikan jika mundur sebelum orientasi?",
+    "A": "25% dari total biaya dikembalikan; sisanya sudah dialokasikan untuk keperluan prakuliah."
+  },
+
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Mengapa refund hanya 25% sebelum kuliah?",
+    "A": "Barang dan jasa sudah dipesan (seragam, modul, ospek)."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Mengapa refund hanya 25% meski belum kuliah sama sekali?",
+    "A": "Karena biaya sudah dialokasikan untuk persiapan prakuliah yang tidak bisa dibatalkan."
+  },
+
+  {
+    "no": 37,
+    "type": "medium",
+    "Q": "Apakah ada refund setelah kuliah dimulai?",
+    "A": "Tidak ada pengembalian dana sama sekali."
+  },
+  {
+    "no": 38,
+    "type": "explanation",
+    "Q": "Apakah ada pengembalian dana jika mundur setelah kuliah dimulai?",
+    "A": "Tidak ada; seluruh biaya menjadi hak universitas karena layanan sudah digunakan."
+  },
+
+  {
+    "no": 39,
+    "type": "medium",
+    "Q": "Mengapa tidak ada refund setelah kuliah mulai?",
+    "A": "Layanan akademik sudah dikonsumsi dan tidak bisa dikembalikan."
+  },
+  {
+    "no": 40,
+    "type": "explanation",
+    "Q": "Mengapa tidak ada refund sama sekali setelah kuliah dimulai?",
+    "A": "Biaya bersifat konsumtif; universitas telah sediakan dosen, ruang, dan sistem LMS."
+  },
+
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Apakah ada pengecualian refund karena darurat?",
+    "A": "Ya, untuk force majeure dengan bukti resmi."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Apakah ada pengecualian pengembalian dana karena keadaan darurat?",
+    "A": "Ya, untuk bencana, sakit kritis, atau kematian—dengan bukti dan keputusan pimpinan."
+  },
+
+  {
+    "no": 43,
+    "type": "medium",
+    "Q": "Mengapa force majeure tidak otomatis?",
+    "A": "Agar tidak disalahgunakan; perlu verifikasi dokumen resmi."
+  },
+  {
+    "no": 44,
+    "type": "explanation",
+    "Q": "Mengapa kebijakan force majeure tidak otomatis?",
+    "A": "Perlu verifikasi independen untuk pastikan keadaan darurat sungguhan, bukan alasan subjektif."
+  },
+
+  {
+    "no": 45,
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika mundur karena sakit berat?",
+    "A": "Ajukan surat + surat dokter ke bagian registrasi."
+  },
+  {
+    "no": 46,
+    "type": "explanation",
+    "Q": "Apa yang harus dilakukan jika ingin mundur karena sakit berat?",
+    "A": "Kirim surat pengunduran disertai surat keterangan dokter resmi untuk tinjauan khusus."
+  },
+
+  {
+    "no": 47,
+    "type": "medium",
+    "Q": "Apa dokumen transfer yang belum lulus?",
+    "A": "Surat pindah resmi dan KHS semua semester."
+  },
+  {
+    "no": 48,
+    "type": "explanation",
+    "Q": "Apa dokumen yang harus disiapkan mahasiswa transfer yang belum lulus?",
+    "A": "Surat keterangan pindah dari PT asal dan Kartu Hasil Studi dari semua semester."
+  },
+
+  {
+    "no": 49,
+    "type": "medium",
+    "Q": "Mengapa konversi nilai harus disetujui Kaprodi?",
+    "A": "Untuk pastikan kesetaraan dan relevansi mata kuliah."
+  },
+  {
+    "no": 50,
+    "type": "explanation",
+    "Q": "Mengapa proses konversi nilai untuk mahasiswa transfer harus disetujui Kaprodi?",
+    "A": "Kaprodi menilai kesesuaian konten kurikulum dan menjaga integritas capaian pembelajaran prodi."
+  },
+
+  {
+    "no": 51,
+    "type": "medium",
+    "Q": "Apa akibat tidak punya surat pindah resmi?",
+    "A": "Harus daftar sebagai mahasiswa baru; tidak ada konversi SKS."
+  },
+  {
+    "no": 52,
+    "type": "explanation",
+    "Q": "Apa konsekuensi jika tidak punya surat keterangan pindah resmi?",
+    "A": "Tidak diakui sebagai transfer; harus ulang semua mata kuliah sebagai mahasiswa baru."
+  },
+
+  {
+    "no": 53,
+    "type": "medium",
+    "Q": "Bagaimana alur pendaftaran mahasiswa transfer?",
+    "A": "Daftar via web PMB jalur RPL setelah konversi disetujui."
+  },
+  {
+    "no": 54,
+    "type": "explanation",
+    "Q": "Bagaimana alur pendaftaran mahasiswa transfer di UNSIQ?",
+    "A": "Setelah konversi disetujui, daftar lewat PMB jalur RPL seperti mahasiswa baru."
+  },
+
+  {
+    "no": 55,
+    "type": "medium",
+    "Q": "Mengapa UNSIQ pakai sistem RPL?",
+    "A": "Agar pengakuan SKS sesuai standar nasional Kampus Merdeka."
+  },
+  {
+    "no": 56,
+    "type": "explanation",
+    "Q": "Mengapa UNSIQ menerapkan sistem Rekognisi Pembelajaran Lampau (RPL)?",
+    "A": "RPL menjamin pengakuan SKS berbasis capaian pembelajaran, sesuai regulasi nasional dan akuntabel."
+  },
+
+  {
+    "no": 57,
+    "type": "medium",
+    "Q": "Apa langkah transfer setelah jadwal kuliah keluar?",
+    "A": "Susun rencana studi sesuai sisa SKS yang harus ditempuh."
+  },
+  {
+    "no": 58,
+    "type": "explanation",
+    "Q": "Apa langkah mahasiswa transfer setelah jadwal kuliah semester diterbitkan?",
+    "A": "Tentukan mata kuliah berdasarkan hasil konversi dan susun rencana studi yang sesuai prasyarat."
+  },
+
+  {
+    "no": 59,
+    "type": "medium",
+    "Q": "Bagaimana penyesuaian biaya untuk mahasiswa transfer?",
+    "A": "Bayar hanya untuk SKS yang belum dikonversi."
+  },
+  {
+    "no": 60,
+    "type": "explanation",
+    "Q": "Bagaimana penyesuaian biaya kuliah untuk mahasiswa transfer di UNSIQ?",
+    "A": "Hanya bayar untuk mata kuliah yang belum diakui; biaya disesuaikan berdasarkan beban akademik riil."
+  },
+
+  {
+    "no": 61,
+    "type": "medium",
+    "Q": "Apa yang terjadi jika transfer tidak susun KRS?",
+    "A": "Berisiko tidak terdaftar di kelas yang dibutuhkan."
+  },
+  {
+    "no": 62,
+    "type": "explanation",
+    "Q": "Apa risiko jika mahasiswa transfer tidak segera memilih mata kuliah?",
+    "A": "Ketinggalan KRS dan tidak terdaftar di kelas, meski sebagian SKS sudah diakui."
+  }
+]

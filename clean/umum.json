@@ -1,0 +1,854 @@
+[
+  {
+    "no": 1,
+    "type": "short",
+    "Q": "Kepanjangan UNSIQ?",
+    "A": "Universitas Sains Al-Qur'an."
+  },
+  {
+    "no": 2,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari UNSIQ?",
+    "A": "Universitas Sains Al-Qur'an di Wonosobo, Jawa Tengah."
+  },
+  {
+    "no": 3,
+    "type": "explanation",
+    "Q": "Apa arti dan kepanjangan singkatan UNSIQ?",
+    "A": "UNSIQ adalah Universitas Sains Al-Qur'an yang mengintegrasikan sains modern dengan nilai Al-Qur'an."
+  },
+
+  {
+    "no": 4,
+    "type": "short",
+    "Q": "Apa itu PMB?",
+    "A": "Penerimaan Mahasiswa Baru."
+  },
+  {
+    "no": 5,
+    "type": "medium",
+    "Q": "Apa arti PMB dalam konteks UNSIQ?",
+    "A": "PMB adalah proses pendaftaran calon mahasiswa baru di UNSIQ."
+  },
+  {
+    "no": 6,
+    "type": "explanation",
+    "Q": "Apa yang dimaksud dengan PMB di UNSIQ?",
+    "A": "PMB mencakup seleksi, pendaftaran online, ujian, hingga penerbitan NIM oleh UPT PMB."
+  },
+
+  {
+    "no": 7,
+    "type": "short",
+    "Q": "Apa itu UPT?",
+    "A": "Unit Pelaksana Teknis."
+  },
+  {
+    "no": 8,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari UPT dalam struktur UNSIQ?",
+    "A": "UPT adalah Unit Pelaksana Teknis di bawah rektorat."
+  },
+  {
+    "no": 9,
+    "type": "explanation",
+    "Q": "Apa fungsi UPT dalam struktur organisasi UNSIQ?",
+    "A": "UPT menjalankan layanan spesifik seperti PMB, perpustakaan, atau TI untuk mendukung operasional kampus."
+  },
+
+  {
+    "no": 10,
+    "type": "short",
+    "Q": "Apa itu BAN-PT?",
+    "A": "Badan Akreditasi Nasional Perguruan Tinggi."
+  },
+  {
+    "no": 11,
+    "type": "medium",
+    "Q": "Apa arti BAN-PT?",
+    "A": "Lembaga yang menilai mutu perguruan tinggi di Indonesia."
+  },
+  {
+    "no": 12,
+    "type": "explanation",
+    "Q": "Apa peran BAN-PT dalam pendidikan tinggi?",
+    "A": "BAN-PT menilai akreditasi institusi dan prodi untuk menjamin kualitas dan legalitas ijazah secara nasional."
+  },
+
+  {
+    "no": 13,
+    "type": "short",
+    "Q": "Apa itu KIP-Kuliah?",
+    "A": "Kartu Indonesia Pintar Kuliah."
+  },
+  {
+    "no": 14,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari KIP-Kuliah?",
+    "A": "KIP-Kuliah adalah program bantuan biaya kuliah dari pemerintah."
+  },
+  {
+    "no": 15,
+    "type": "explanation",
+    "Q": "Apa yang dimaksud dengan program KIP-Kuliah?",
+    "A": "KIP-Kuliah memberikan bantuan biaya kuliah hingga Rp12 juta/semester untuk mahasiswa kurang mampu."
+  },
+
+  {
+    "no": 16,
+    "type": "short",
+    "Q": "Apa itu SNBP?",
+    "A": "Seleksi Nasional Berdasarkan Prestasi."
+  },
+  {
+    "no": 17,
+    "type": "medium",
+    "Q": "Apa arti SNBP?",
+    "A": "Jalur masuk PTN berdasarkan rapor dan prestasi."
+  },
+  {
+    "no": 18,
+    "type": "explanation",
+    "Q": "Apa yang dimaksud dengan jalur seleksi SNBP?",
+    "A": "SNBP adalah seleksi masuk PTN tanpa ujian, hanya berdasarkan nilai rapor dan prestasi non-akademik."
+  },
+
+  {
+    "no": 19,
+    "type": "short",
+    "Q": "Apa itu SNBT?",
+    "A": "Seleksi Nasional Berbasis Tes."
+  },
+  {
+    "no": 20,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari SNBT?",
+    "A": "SNBT menggantikan SBMPTN dengan ujian berbasis komputer."
+  },
+  {
+    "no": 21,
+    "type": "explanation",
+    "Q": "Apa perbedaan SNBT dengan seleksi sebelumnya?",
+    "A": "SNBT menggunakan UTBK sebagai alat ukur objektif kemampuan kognitif calon mahasiswa."
+  },
+
+  {
+    "no": 22,
+    "type": "short",
+    "Q": "Apa itu DTKS?",
+    "A": "Data Terpadu Kesejahteraan Sosial."
+  },
+  {
+    "no": 23,
+    "type": "medium",
+    "Q": "Apa arti DTKS dalam konteks beasiswa?",
+    "A": "Database Kemensos untuk verifikasi calon penerima beasiswa kurang mampu."
+  },
+  {
+    "no": 24,
+    "type": "explanation",
+    "Q": "Bagaimana DTKS digunakan dalam pendaftaran KIP-Kuliah?",
+    "A": "DTKS menjadi dasar verifikasi otomatis kelayakan ekonomi calon penerima KIP-Kuliah."
+  },
+
+  {
+    "no": 25,
+    "type": "short",
+    "Q": "Apa itu LLDIKTI?",
+    "A": "Lembaga Layanan Pendidikan Tinggi."
+  },
+  {
+    "no": 26,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari LLDIKTI?",
+    "A": "LLDIKTI mengawasi PT di wilayah tertentu, termasuk Jawa Tengah."
+  },
+  {
+    "no": 27,
+    "type": "explanation",
+    "Q": "Apa peran LLDIKTI dalam distribusi beasiswa KIP-Kuliah?",
+    "A": "LLDIKTI menyalurkan kuota KIP-Kuliah ke kampus dan memverifikasi usulan penerima dari PT."
+  },
+
+  {
+    "no": 28,
+    "type": "short",
+    "Q": "Apa itu YPIIQ?",
+    "A": "Yayasan Pendidikan Ilmu-Ilmu Al-Qur'an."
+  },
+  {
+    "no": 29,
+    "type": "medium",
+    "Q": "Apa arti YPIIQ?",
+    "A": "YPIIQ adalah yayasan penyelenggara UNSIQ sejak 1998."
+  },
+  {
+    "no": 30,
+    "type": "explanation",
+    "Q": "Apa peran YPIIQ dalam pengelolaan UNSIQ?",
+    "A": "YPIIQ menjadi badan hukum yang mengelola aset, kebijakan, dan visi transformasi pendidikan Islam UNSIQ."
+  },
+
+  {
+    "no": 31,
+    "type": "short",
+    "Q": "Apa itu PAI?",
+    "A": "Pendidikan Agama Islam."
+  },
+  {
+    "no": 32,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari PAI?",
+    "A": "PAI adalah prodi unggulan berakreditasi Unggul di UNSIQ."
+  },
+  {
+    "no": 33,
+    "type": "explanation",
+    "Q": "Apa yang dipelajari dalam program studi PAI?",
+    "A": "PAI menggabungkan tafsir, hadis, fiqh, dan pedagogi modern untuk mencetak guru agama profesional."
+  },
+
+  {
+    "no": 34,
+    "type": "short",
+    "Q": "Apa itu KPI?",
+    "A": "Komunikasi dan Penyiaran Islam."
+  },
+  {
+    "no": 35,
+    "type": "medium",
+    "Q": "Apa arti KPI?",
+    "A": "KPI adalah prodi komunikasi berbasis dakwah kontemporer."
+  },
+  {
+    "no": 36,
+    "type": "explanation",
+    "Q": "Apa fokus kurikulum prodi KPI di UNSIQ?",
+    "A": "KPI menggabungkan jurnalistik, produksi media, dan etika komunikasi berbasis Al-Qur'an."
+  },
+
+  {
+    "no": 37,
+    "type": "short",
+    "Q": "Apa itu PIAUD?",
+    "A": "Pendidikan Islam Anak Usia Dini."
+  },
+  {
+    "no": 38,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari PIAUD?",
+    "A": "PIAUD mendidik calon guru PAUD berbasis nilai Islam."
+  },
+  {
+    "no": 39,
+    "type": "explanation",
+    "Q": "Apa tujuan program studi PIAUD di UNSIQ?",
+    "A": "Mencetak pendidik usia dini yang mengintegrasikan akhlak, ibadah, dan literasi Al-Qur'an sejak dini."
+  },
+
+  {
+    "no": 40,
+    "type": "short",
+    "Q": "Apa itu PGMI?",
+    "A": "Pendidikan Guru Madrasah Ibtidaiyah."
+  },
+  {
+    "no": 41,
+    "type": "medium",
+    "Q": "Apa arti PGMI?",
+    "A": "PGMI mencetak guru kelas untuk MI berakreditasi Unggul."
+  },
+  {
+    "no": 42,
+    "type": "explanation",
+    "Q": "Bagaimana prospek kerja lulusan prodi PGMI?",
+    "A": "Lulusan bisa mengajar di MI atau SD umum karena kompetensi akademik dan akhlaknya diakui luas."
+  },
+
+  {
+    "no": 43,
+    "type": "short",
+    "Q": "Apa itu HES?",
+    "A": "Hukum Ekonomi Syari'ah."
+  },
+  {
+    "no": 44,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari HES?",
+    "A": "HES fokus pada hukum akad dan fatwa syariah."
+  },
+  {
+    "no": 45,
+    "type": "explanation",
+    "Q": "Apa yang dipelajari dalam prodi Hukum Ekonomi Syari’ah?",
+    "A": "HES mempelajari akad syariah, regulasi keuangan Islam, dan audit syariah untuk bekerja di lembaga keuangan."
+  },
+
+  {
+    "no": 46,
+    "type": "short",
+    "Q": "Apa itu AHK?",
+    "A": "Ahwal Syakhshiyah (Hukum Keluarga Islam)."
+  },
+  {
+    "no": 47,
+    "type": "medium",
+    "Q": "Apa arti AHK?",
+    "A": "AHK adalah singkatan informal untuk Hukum Keluarga Islam."
+  },
+  {
+    "no": 48,
+    "type": "explanation",
+    "Q": "Apa fokus studi dalam prodi Ahwal Syakhshiyah?",
+    "A": "Mendalami fiqh munakahat, waris, dan perlindungan keluarga dalam perspektif Islam dan hukum nasional."
+  },
+
+  { "no": 49, "type": "short", "Q": "Apa itu TI?", "A": "Teknik Informatika." },
+  {
+    "no": 50,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari TI dalam konteks UNSIQ?",
+    "A": "TI adalah prodi pengembangan perangkat lunak berakreditasi Baik Sekali."
+  },
+  {
+    "no": 51,
+    "type": "explanation",
+    "Q": "Bagaimana Teknik Informatika di UNSIQ integrasikan nilai Islam?",
+    "A": "Mahasiswa kembangkan aplikasi edukasi Al-Qur’an dan sistem pesantren dengan pendekatan etis berbasis Islam."
+  },
+
+  {
+    "no": 52,
+    "type": "short",
+    "Q": "Apa itu MI?",
+    "A": "Madrasah Ibtidaiyah."
+  },
+  {
+    "no": 53,
+    "type": "medium",
+    "Q": "Apa arti MI dalam nama prodi?",
+    "A": "MI setara SD, fokus pendidikan dasar berbasis Islam."
+  },
+  {
+    "no": 54,
+    "type": "explanation",
+    "Q": "Mengapa MI penting dalam konteks prodi PGMI?",
+    "A": "MI adalah fokus utama PGMI untuk mencetak guru kelas yang profesional di pendidikan dasar Islam."
+  },
+
+  {
+    "no": 55,
+    "type": "short",
+    "Q": "Apa itu Tafsir?",
+    "A": "Ilmu penafsiran Al-Qur'an."
+  },
+  {
+    "no": 56,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari Tafsir dalam konteks akademik?",
+    "A": "Tafsir bagian dari prodi Ilmu Al-Qur’an dan Tafsir di UNSIQ."
+  },
+  {
+    "no": 57,
+    "type": "explanation",
+    "Q": "Apa yang dipelajari dalam studi Tafsir di UNSIQ?",
+    "A": "Metode tafsir klasik dan kontemporer, ulumul Qur’an, serta aplikasi pada isu modern seperti HAM dan lingkungan."
+  },
+
+  { "no": 58, "type": "short", "Q": "Apa itu D3?", "A": "Diploma Tiga." },
+  {
+    "no": 59,
+    "type": "medium",
+    "Q": "Apa arti D3 dalam sistem pendidikan tinggi?",
+    "A": "Jenjang vokasi 3 tahun yang fokus pada keterampilan teknis."
+  },
+  {
+    "no": 60,
+    "type": "explanation",
+    "Q": "Apa perbedaan D3 dengan S1 di bidang kesehatan?",
+    "A": "D3 lebih cepat kerja, S1 tambah manajemen dan riset; keduanya berakreditasi Baik Sekali di UNSIQ."
+  },
+
+  {
+    "no": 61,
+    "type": "short",
+    "Q": "Apa itu S1 dan S2?",
+    "A": "Sarjana dan Magister."
+  },
+  {
+    "no": 62,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari S1 dan S2?",
+    "A": "S1 adalah Sarjana, S2 adalah Magister atau pascasarjana."
+  },
+  {
+    "no": 63,
+    "type": "explanation",
+    "Q": "Apa perbedaan antara jenjang S1 dan S2 di UNSIQ?",
+    "A": "S1 fokus pembentukan dasar kompetensi, S2 menekankan riset dan spesialisasi di bidang Pendidikan Islam atau Tafsir."
+  },
+
+  {
+    "no": 64,
+    "type": "short",
+    "Q": "Apa itu Kebidanan?",
+    "A": "Ilmu penanganan kehamilan dan persalinan."
+  },
+  {
+    "no": 65,
+    "type": "medium",
+    "Q": "Apa arti Kebidanan dalam konteks akademik?",
+    "A": "Prodi D3 Kebidanan di UNSIQ berakreditasi Baik Sekali."
+  },
+  {
+    "no": 66,
+    "type": "explanation",
+    "Q": "Bagaimana kurikulum Kebidanan di UNSIQ integrasikan nilai Islam?",
+    "A": "Menggabungkan ilmu medis dengan pendekatan pelayanan berbasis kasih sayang sesuai nilai Islam."
+  },
+
+  {
+    "no": 67,
+    "type": "short",
+    "Q": "Apa itu PBSB?",
+    "A": "Program Beasiswa Santri Berprestasi."
+  },
+  {
+    "no": 68,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari PBSB?",
+    "A": "PBSB adalah beasiswa Kemenag untuk santri lulusan pesantren."
+  },
+  {
+    "no": 69,
+    "type": "explanation",
+    "Q": "Apa tujuan dan sasaran program PBSB Kemenag?",
+    "A": "Memberikan peluang kuliah di prodi unggul bagi santri berprestasi dari pesantren terdaftar."
+  },
+
+  {
+    "no": 70,
+    "type": "short",
+    "Q": "Apa itu RPL?",
+    "A": "Rekognisi Pembelajaran Lampau."
+  },
+  {
+    "no": 71,
+    "type": "medium",
+    "Q": "Apa arti RPL dalam konteks transfer mahasiswa?",
+    "A": "RPL adalah pengakuan kredit dari perguruan tinggi asal."
+  },
+  {
+    "no": 72,
+    "type": "explanation",
+    "Q": "Bagaimana proses RPL di UNSIQ untuk mahasiswa transfer?",
+    "A": "Mahasiswa transfer wajib ikuti RPL untuk konversi mata kuliah; kebanyakan beasiswa tidak berlaku kecuali Tahfidz 30 Juz."
+  },
+
+  {
+    "no": 73,
+    "type": "short",
+    "Q": "Apa itu MBKM?",
+    "A": "Merdeka Belajar – Kampus Merdeka."
+  },
+  {
+    "no": 74,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari MBKM?",
+    "A": "MBKM memberi kebebasan belajar di luar prodi 1 semester."
+  },
+  {
+    "no": 75,
+    "type": "explanation",
+    "Q": "Bagaimana UNSIQ menerapkan kebijakan MBKM?",
+    "A": "Dengan skema 5-1-2: 5 semester kuliah, 1 MBKM, 2 skripsi untuk perluas kompetensi lulusan."
+  },
+
+  {
+    "no": 76,
+    "type": "short",
+    "Q": "Apa itu LMS?",
+    "A": "Learning Management System."
+  },
+  {
+    "no": 77,
+    "type": "medium",
+    "Q": "Apa arti LMS dalam pembelajaran UNSIQ?",
+    "A": "LMS adalah platform digital untuk materi dan tugas kuliah."
+  },
+  {
+    "no": 78,
+    "type": "explanation",
+    "Q": "Apa fungsi LMS dalam sistem pembelajaran UNSIQ?",
+    "A": "LMS mendukung pembelajaran hybrid, memungkinkan akses materi, tugas, dan kuis secara daring kapan saja."
+  },
+
+  {
+    "no": 79,
+    "type": "short",
+    "Q": "Apa itu SKTM?",
+    "A": "Surat Keterangan Tidak Mampu."
+  },
+  {
+    "no": 80,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari SKTM?",
+    "A": "SKTM adalah dokumen ekonomi dari desa untuk beasiswa."
+  },
+  {
+    "no": 81,
+    "type": "explanation",
+    "Q": "Mengapa SKTM harus bermaterai dan berstempel basah?",
+    "A": "Agar dokumen sah secara administratif dan mencegah pemalsuan dalam pengajuan beasiswa."
+  },
+
+  {
+    "no": 82,
+    "type": "short",
+    "Q": "Apa itu NIM?",
+    "A": "Nomor Induk Mahasiswa."
+  },
+  {
+    "no": 83,
+    "type": "medium",
+    "Q": "Apa arti NIM?",
+    "A": "NIM adalah identitas akademik setelah diterima di UNSIQ."
+  },
+  {
+    "no": 84,
+    "type": "explanation",
+    "Q": "Kapan mahasiswa mendapatkan NIM di UNSIQ?",
+    "A": "Setelah diterima dan menyelesaikan registrasi ulang di sistem PMB, sebagai tanda status resmi mahasiswa."
+  },
+
+  {
+    "no": 85,
+    "type": "short",
+    "Q": "Apa itu NIK?",
+    "A": "Nomor Induk Kependudukan."
+  },
+  {
+    "no": 86,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari NIK?",
+    "A": "NIK adalah identitas resmi dari Dinas Dukcapil."
+  },
+  {
+    "no": 87,
+    "type": "explanation",
+    "Q": "Mengapa NIK penting dalam pendaftaran KIP-Kuliah?",
+    "A": "NIK digunakan untuk verifikasi data pribadi dan ekonomi melalui DTKS Kemensos secara otomatis."
+  },
+
+  {
+    "no": 88,
+    "type": "short",
+    "Q": "Apa itu NISN?",
+    "A": "Nomor Induk Siswa Nasional."
+  },
+  {
+    "no": 89,
+    "type": "medium",
+    "Q": "Apa arti NISN?",
+    "A": "NISN adalah identitas unik siswa dari Kemdikbud."
+  },
+  {
+    "no": 90,
+    "type": "explanation",
+    "Q": "Bagaimana NISN diverifikasi saat pendaftaran UNSIQ?",
+    "A": "Sistem mencocokkan NISN dengan database nasional; jika tidak valid, pendaftaran tidak bisa dilanjutkan."
+  },
+
+  {
+    "no": 91,
+    "type": "short",
+    "Q": "Apa itu NPSN?",
+    "A": "Nomor Pokok Sekolah Nasional."
+  },
+  {
+    "no": 92,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari NPSN?",
+    "A": "NPSN adalah kode unik untuk setiap sekolah di Indonesia."
+  },
+  {
+    "no": 93,
+    "type": "explanation",
+    "Q": "Mengapa NPSN wajib diisi saat daftar KIP-Kuliah?",
+    "A": "Untuk memverifikasi bahwa sekolah asal calon terdaftar resmi di sistem pendidikan nasional."
+  },
+
+  { "no": 94, "type": "short", "Q": "Apa itu KHS?", "A": "Kartu Hasil Studi." },
+  {
+    "no": 95,
+    "type": "medium",
+    "Q": "Apa arti KHS?",
+    "A": "KHS menampilkan nilai dan SKS per semester."
+  },
+  {
+    "no": 96,
+    "type": "explanation",
+    "Q": "Bagaimana KHS digunakan untuk mahasiswa transfer?",
+    "A": "KHS dari PT asal diunggah untuk konversi mata kuliah dan percepat penyelesaian studi di UNSIQ."
+  },
+
+  {
+    "no": 97,
+    "type": "short",
+    "Q": "Apa itu SK?",
+    "A": "Surat Keterangan (Lulus Seleksi)."
+  },
+  {
+    "no": 98,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari SK?",
+    "A": "SK adalah bukti resmi diterima di UNSIQ."
+  },
+  {
+    "no": 99,
+    "type": "explanation",
+    "Q": "Apa fungsi SK dalam proses pendaftaran UNSIQ?",
+    "A": "SK dicetak setelah diterima dan digunakan sebagai syarat wajib untuk pembayaran dan mendapatkan NIM."
+  },
+
+  {
+    "no": 100,
+    "type": "short",
+    "Q": "Apa itu LTPQ?",
+    "A": "Lembaga Tahfidzul Qur'an."
+  },
+  {
+    "no": 101,
+    "type": "medium",
+    "Q": "Apa arti LTPQ?",
+    "A": "LTPQ mengelola ujian dan pembinaan tahfidz di UNSIQ."
+  },
+  {
+    "no": 102,
+    "type": "explanation",
+    "Q": "Apa peran LTPQ dalam beasiswa Tahfidz UNSIQ?",
+    "A": "LTPQ menyelenggarakan ujian hafalan untuk verifikasi klaim calon penerima beasiswa Tahfidzul Qur'an."
+  },
+
+  {
+    "no": 103,
+    "type": "short",
+    "Q": "Apa itu Ormawa?",
+    "A": "Organisasi Mahasiswa."
+  },
+  {
+    "no": 104,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari Ormawa?",
+    "A": "Ormawa mencakup BEM, HMJ, dan UKM di kampus."
+  },
+  {
+    "no": 105,
+    "type": "explanation",
+    "Q": "Apa manfaat menjadi Ketua Ormawa di UNSIQ?",
+    "A": "Berhak atas beasiswa bebas SPP 1 semester sebagai apresiasi dedikasi kepemimpinan dan organisasi."
+  },
+
+  {
+    "no": 106,
+    "type": "short",
+    "Q": "Apa itu MoU/MoA?",
+    "A": "Nota kesepahaman dan perjanjian kerja sama."
+  },
+  {
+    "no": 107,
+    "type": "medium",
+    "Q": "Apa arti MoU dan MoA?",
+    "A": "Dokumen resmi kerja sama antara UNSIQ dan mitra."
+  },
+  {
+    "no": 108,
+    "type": "explanation",
+    "Q": "Bagaimana MoU/MoA menentukan beasiswa kelas kerjasama?",
+    "A": "Isi perjanjian menentukan kuota, besaran beasiswa, dan syarat—calon harus daftar melalui mitra, bukan individu."
+  },
+
+  {
+    "no": 109,
+    "type": "short",
+    "Q": "Apa itu SISTER?",
+    "A": "Sistem Informasi Akreditasi Perguruan Tinggi."
+  },
+  {
+    "no": 110,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari SISTER?",
+    "A": "SISTER adalah platform resmi BAN-PT untuk cek akreditasi."
+  },
+  {
+    "no": 111,
+    "type": "explanation",
+    "Q": "Mengapa calon mahasiswa perlu cek akreditasi di SISTER?",
+    "A": "Untuk memastikan legalitas prodi dan kelayakan mendaftar CPNS atau KIP-Kuliah secara resmi."
+  },
+
+  { "no": 112, "type": "short", "Q": "Apa itu KK?", "A": "Kartu Keluarga." },
+  {
+    "no": 113,
+    "type": "medium",
+    "Q": "Apa arti KK dalam persyaratan dokumen?",
+    "A": "KK wajib diunggah untuk verifikasi data keluarga di PMB."
+  },
+  {
+    "no": 114,
+    "type": "explanation",
+    "Q": "Mengapa KK diperlukan dalam pendaftaran KIP-Kuliah?",
+    "A": "KK digunakan untuk sinkronisasi data dengan DTKS dan verifikasi status ekonomi di tingkat keluarga."
+  },
+
+  {
+    "no": 115,
+    "type": "short",
+    "Q": "Apa itu SKL?",
+    "A": "Surat Keterangan Lulus."
+  },
+  {
+    "no": 116,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari SKL?",
+    "A": "SKL adalah pengganti ijazah untuk lulusan tahun berjalan."
+  },
+  {
+    "no": 117,
+    "type": "explanation",
+    "Q": "Kapan SKL digunakan dalam pendaftaran UNSIQ?",
+    "A": "Untuk lulusan 2025 yang ijazah belum terbit; wajib dilengkapi dengan ijazah asli saat registrasi ulang."
+  },
+
+  {
+    "no": 118,
+    "type": "short",
+    "Q": "Apa itu PPL?",
+    "A": "Praktik Pengalaman Lapangan."
+  },
+  {
+    "no": 119,
+    "type": "medium",
+    "Q": "Apa arti PPL?",
+    "A": "PPL adalah magang mengajar di sekolah mitra."
+  },
+  {
+    "no": 120,
+    "type": "explanation",
+    "Q": "Bagaimana PPL mempersiapkan calon guru di UNSIQ?",
+    "A": "Mahasiswa mengajar nyata, menyusun RPP, dan dievaluasi—menjadi ujian kompetensi pedagogis sebelum lulus."
+  },
+
+  {
+    "no": 121,
+    "type": "short",
+    "Q": "Apa itu CPNS?",
+    "A": "Calon Pegawai Negeri Sipil."
+  },
+  {
+    "no": 122,
+    "type": "medium",
+    "Q": "Apa kepanjangan dari CPNS?",
+    "A": "CPNS adalah tahap awal menjadi PNS."
+  },
+  {
+    "no": 123,
+    "type": "explanation",
+    "Q": "Mengapa akreditasi prodi penting untuk seleksi CPNS?",
+    "A": "Akreditasi minimal “Terakreditasi” wajib; lulusan UNSIQ unggul karena banyak prodi berakreditasi Unggul/Baik Sekali."
+  },
+
+  {
+    "no": 124,
+    "type": "short",
+    "Q": "Apa itu P3K?",
+    "A": "Pegawai Pemerintah dengan Perjanjian Kerja."
+  },
+  {
+    "no": 125,
+    "type": "medium",
+    "Q": "Apa arti P3K?",
+    "A": "P3K adalah tenaga profesional pemerintah tanpa status PNS."
+  },
+  {
+    "no": 126,
+    "type": "explanation",
+    "Q": "Bagaimana prospek lulusan UNSIQ dalam rekrutmen P3K?",
+    "A": "Banyak diterima sebagai guru atau tenaga kesehatan P3K karena prodi sesuai kebutuhan dan berakreditasi tinggi."
+  },
+  {
+    "type": "short",
+    "Q": "Kepanjangan UNSIQ?",
+    "A": "Universitas Sains Al-Qur'an."
+  },
+  {
+    "type": "medium",
+    "Q": "Apa kepanjangan dari UNSIQ?",
+    "A": "Universitas Sains Al-Qur'an di Wonosobo."
+  },
+  {
+    "type": "explanation",
+    "Q": "Apa arti dan kepanjangan singkatan UNSIQ?",
+    "A": "UNSIQ adalah Universitas Sains Al-Qur'an yang mengintegrasikan sains modern dengan nilai Al-Qur'an."
+  },
+  {
+    "type": "short",
+    "Q": "Apa itu PMB?",
+    "A": "Penerimaan Mahasiswa Baru."
+  },
+  {
+    "type": "medium",
+    "Q": "Apa arti PMB dalam konteks UNSIQ?",
+    "A": "PMB adalah Penerimaan Mahasiswa Baru di UNSIQ."
+  },
+  {
+    "type": "explanation",
+    "Q": "Apa yang dimaksud dengan PMB di UNSIQ?",
+    "A": "PMB adalah proses pendaftaran dan seleksi calon mahasiswa baru yang dikelola oleh UPT PMB UNSIQ."
+  },
+  {
+    "type": "short",
+    "Q": "Apa itu UPT?",
+    "A": "Unit Pelaksana Teknis."
+  },
+  {
+    "type": "medium",
+    "Q": "Apa kepanjangan dari UPT dalam struktur UNSIQ?",
+    "A": "UPT adalah Unit Pelaksana Teknis di bawah rektorat."
+  },
+  {
+    "type": "explanation",
+    "Q": "Apa fungsi UPT dalam struktur organisasi UNSIQ?",
+    "A": "UPT adalah unit operasional seperti PMB atau Perpustakaan yang menjalankan layanan spesifik di kampus."
+  },
+  {
+    "type": "short",
+    "Q": "Apa itu BAN-PT?",
+    "A": "Badan Akreditasi Nasional Perguruan Tinggi."
+  },
+  {
+    "type": "medium",
+    "Q": "Apa arti BAN-PT?",
+    "A": "Lembaga yang menilai akreditasi perguruan tinggi di Indonesia."
+  },
+  {
+    "type": "explanation",
+    "Q": "Apa peran BAN-PT dalam pendidikan tinggi?",
+    "A": "BAN-PT adalah lembaga resmi yang menilai mutu institusi dan prodi untuk menjamin kualitas pendidikan nasional."
+  },
+  {
+    "type": "short",
+    "Q": "Apa itu KIP-Kuliah?",
+    "A": "Kartu Indonesia Pintar Kuliah."
+  },
+  {
+    "type": "medium",
+    "Q": "Apa kepanjangan dari KIP-Kuliah?",
+    "A": "KIP-Kuliah adalah Kartu Indonesia Pintar Kuliah dari pemerintah."
+  },
+  {
+    "type": "explanation",
+    "Q": "Apa yang dimaksud dengan program KIP-Kuliah?",
+    "A": "KIP-Kuliah adalah bantuan biaya kuliah dari pemerintah untuk mahasiswa kurang mampu namun berprestasi."
+  }
+]
