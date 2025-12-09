@@ -1,0 +1,642 @@
+[
+  {
+    "Q": "Koleksi perpustakaan UNSIQ?",
+    "A": "Buku, jurnal, tesis, e-book"
+  },
+  {
+    "Q": "Apa saja koleksi di Perpustakaan UNSIQ?",
+    "A": "Buku teks, jurnal, tesis, referensi cetak & digital untuk semua prodi"
+  },
+  {
+    "Q": "Bagaimana koleksi perpustakaan dukung akademik?",
+    "A": "Dirancang sesuai kurikulum S1–S2, dengan akses katalog digital dan peminjaman fleksibel"
+  },
+  {
+    "Q": "Apa saja koleksi yang tersedia di Perpustakaan UNSIQ?",
+    "A": "Perpustakaan UNSIQ menyediakan koleksi pustaka lengkap, mencakup buku teks, jurnal akademik, referensi, tesis, serta literatur dalam dan luar negeri-baik cetak maupun digital. Koleksi ini dirancang untuk mendukung kurikulum semua program studi, dari S1 hingga S2. Dengan akses terbuka dan sistem katalog digital, mahasiswa dapat mencari, meminjam, atau membaca di tempat sesuai kebutuhan riset dan tugas akademik."
+  },
+  {
+    "Q": "Fungsi perpustakaan?",
+    "A": "Pusat sumber belajar"
+  },
+  {
+    "Q": "Bagaimana perpustakaan dukung akademik mahasiswa?",
+    "A": "Sediakan jurnal, e-book, ruang diskusi, dan bantuan literasi informasi"
+  },
+  {
+    "Q": "Mengapa perpustakaan penting untuk skripsi?",
+    "A": "Karena kualitas riset tergantung pada kedalaman sumber—perpustakaan sediakan akses terpadu"
+  },
+  {
+    "Q": "Bagaimana perpustakaan mendukung kegiatan akademik mahasiswa?",
+    "A": "Perpustakaan bukan hanya tempat membaca, tetapi pusat sumber belajar terintegrasi. Mahasiswa dapat mengakses jurnal ilmiah, database e-book, dan ruang diskusi tenang untuk belajar kelompok. Staf perpustakaan juga siap membantu pencarian referensi dan pelatihan literasi informasi. Fasilitas ini sangat penting untuk penyusunan tugas akhir, skripsi, atau penelitian-karena kualitas akademik sangat bergantung pada kedalaman sumber yang digunakan."
+  },
+  {
+    "Q": "Perpustakaan buka untuk umum?",
+    "A": "Terbatas, dengan izin"
+  },
+  {
+    "Q": "Apakah perpustakaan terbuka untuk umum?",
+    "A": "Utamanya untuk sivitas UNSIQ; umum bisa dengan izin tertulis"
+  },
+  {
+    "Q": "Siapa yang boleh akses Perpustakaan UNSIQ?",
+    "A": "Mahasiswa, dosen, karyawan—tamuluar butuh izin; peminjaman wajib kartu mahasiswa aktif"
+  },
+  {
+    "Q": "Apakah perpustakaan terbuka untuk umum atau hanya mahasiswa UNSIQ?",
+    "A": "Perpustakaan utamanya untuk mahasiswa, dosen, dan karyawan UNSIQ, tetapi dalam kondisi tertentu-misalnya kerja sama antar kampus atau peneliti tamu-pihak luar bisa mengakses dengan izin tertulis. Peminjaman buku biasanya memerlukan kartu mahasiswa aktif, sementara akses baca di tempat lebih fleksibel. Ini menjaga keamanan koleksi sekaligus memprioritaskan kebutuhan akademik internal kampus."
+  },
+  {
+    "Q": "Untuk apa Lab. Komputer?",
+    "A": "Praktikum & simulasi digital"
+  },
+  {
+    "Q": "Untuk apa Lab. Komputer di UNSIQ digunakan?",
+    "A": "Untuk praktikum Informatika, statistik, desain grafis, dan aplikasi digital lainnya"
+  },
+  {
+    "Q": "Apa keunggulan Lab. Komputer UNSIQ?",
+    "A": "Komputer spek tinggi, software resmi, dan internet stabil untuk coding hingga analisis data"
+  },
+  {
+    "Q": "Untuk apa Lab. Komputer di UNSIQ digunakan?",
+    "A": "Lab. Komputer dirancang terutama untuk mendukung pembelajaran praktis di prodi informatika, tetapi juga digunakan oleh prodi lain yang memerlukan aplikasi digital-seperti statistik, desain grafis, atau sistem informasi. Laboratorium ini dilengkapi komputer ber-spess tinggi, software akademik resmi, dan koneksi internet stabil, memungkinkan mahasiswa menjalankan simulasi, coding, atau analisis data secara optimal."
+  },
+  {
+    "Q": "Bisa pakai lab di luar jam?",
+    "A": "Ya, dengan izin"
+  },
+  {
+    "Q": "Bagaimana akses Lab. Komputer di luar jam kuliah?",
+    "A": "Buka terbatas untuk tugas kelompok atau kompetisi, dengan izin dosen/lab"
+  },
+  {
+    "Q": "Mengapa akses lab dibatasi di luar jam?",
+    "A": "Agar tidak disalahgunakan dan menjaga keamanan perangkat serta data sistem"
+  },
+  {
+    "Q": "Bagaimana akses mahasiswa ke Lab. Komputer di luar jam kuliah?",
+    "A": "Akses di luar jam kuliah dibuka terbatas, biasanya untuk kegiatan praktikum susulan, tugas kelompok, atau persiapan kompetisi. Mahasiswa harus mengajukan izin melalui dosen pengampu atau petugas lab. Ketersediaan tergantung jadwal pemeliharaan dan prioritas akademik. Fasilitas ini sengaja dibatasi agar tidak disalahgunakan, sekaligus menjaga keamanan perangkat dan data sistem."
+  },
+  {
+    "Q": "Software lab legal?",
+    "A": "Ya, semua berlisensi"
+  },
+  {
+    "Q": "Apakah software di Lab. Komputer legal?",
+    "A": "Ya, semua berlisensi resmi dan diperbarui berkala"
+  },
+  {
+    "Q": "Mengapa software legal penting di lab?",
+    "A": "Cegah kebocoran data dan pelanggaran akademik—UNSIQ patuh pada hukum siber"
+  },
+  {
+    "Q": "Apakah software di Lab. Komputer legal dan update?",
+    "A": "Ya, semua software di Lab. Komputer berlisensi resmi dan diperbarui secara berkala-termasuk sistem operasi, IDE pemrograman, database, dan aplikasi perkantoran. UNSIQ bekerja sama dengan vendor teknologi untuk memastikan kepatuhan hukum dan keamanan siber. Ini penting karena penggunaan software bajakan berisiko tinggi terhadap kebocoran data dan pelanggaran akademik-sehingga integritas digital mahasiswa tetap terjaga."
+  },
+  {
+    "Q": "Layanan klinik UNSIQ?",
+    "A": "Pemeriksaan & pertolongan pertama"
+  },
+  {
+    "Q": "Apa layanan di Klinik UNSIQ?",
+    "A": "Pemeriksaan umum, perawatan luka, konsultasi, dan rujukan darurat"
+  },
+  {
+    "Q": "Mengapa klinik penting bagi mahasiswa asrama?",
+    "A": "Karena mereka jauh dari keluarga—klinik jadi garda terdepan kesehatan kampus"
+  },
+  {
+    "Q": "Apa layanan yang tersedia di Klinik UNSIQ?",
+    "A": "Klinik UNSIQ menyediakan layanan kesehatan dasar dan darurat, seperti pemeriksaan umum, perawatan luka, konsultasi kesehatan, dan pertolongan pertama. Dilayani oleh dokter dan perawat berpengalaman, klinik ini siap menangani keluhan ringan hingga rujukan ke rumah sakit jika diperlukan. Fasilitas ini sangat penting untuk menjaga kesehatan mahasiswa-terutama yang tinggal di asrama dan jauh dari keluarga."
+  },
+  {
+    "Q": "Klinik gratis?",
+    "A": "Dasar gratis, obat berbayar"
+  },
+  {
+    "Q": "Apakah layanan klinik gratis untuk mahasiswa?",
+    "A": "Layanan dasar gratis; tindakan khusus dikenai biaya simbolis"
+  },
+  {
+    "Q": "Apakah mahasiswa perlu bayar di klinik?",
+    "A": "Konsultasi gratis, obat ringan gratis—tapi obat resep atau tindakan khusus berbayar"
+  },
+  {
+    "Q": "Apakah layanan klinik gratis untuk mahasiswa?",
+    "A": "Sebagian besar layanan dasar gratis, termasuk konsultasi dan obat-obatan ringan. Namun, untuk tindakan khusus atau obat resep, mungkin dikenai biaya simbolis. Mahasiswa juga disarankan membawa kartu BPJS Kesehatan untuk memudahkan rujukan. Kebijakan ini menyeimbangkan akses universal dengan keberlanjutan operasional-memastikan klinik tetap berfungsi optimal sepanjang tahun akademik."
+  },
+  {
+    "Q": "Jam buka klinik?",
+    "A": "08.00–16.00 WIB"
+  },
+  {
+    "Q": "Kapan klinik UNSIQ beroperasi?",
+    "A": "Setiap hari kerja jam 08.00–16.00 WIB, plus jaga darurat"
+  },
+  {
+    "Q": "Apakah klinik buka 24 jam?",
+    "A": "Tidak—hanya jam kantor, kecuali darurat; disarankan konfirmasi dulu ke petugas"
+  },
+  {
+    "Q": "Kapan klinik beroperasi?",
+    "A": "Klinik beroperasi setiap hari kerja selama jam kampus, biasanya pukul 08.00-16.00 WIB, dengan jaga darurat di luar jam jika diperlukan. Jadwal bisa diperluas saat kegiatan kampus besar (ospek, wisuda). Mahasiswa disarankan menghubungi petugas terlebih dahulu untuk memastikan ketersediaan tenaga medis-karena klinik tidak selalu dijaga 24 jam, kecuali dalam kondisi darurat terverifikasi."
+  },
+  {
+    "Q": "Untuk apa Lab. Fisika?",
+    "A": "Praktikum mekanika & listrik"
+  },
+  {
+    "Q": "Untuk apa Lab. Fisika UNSIQ digunakan?",
+    "A": "Eksperimen fisika dasar hingga lanjut seperti listrik, optik, dan termodinamika"
+  },
+  {
+    "Q": "Bagaimana Lab. Fisika dukung riset S2?",
+    "A": "Praktikum bangun dasar eksperimen ilmiah yang diperlukan untuk penelitian lanjutan"
+  },
+  {
+    "Q": "Untuk apa Lab. Fisika UNSIQ digunakan?",
+    "A": "Lab. Fisika digunakan untuk melaksanakan eksperimen fisika dasar dan lanjutan, seperti mekanika, listrik-magnet, optik, dan termodinamika. Fasilitas ini dilengkapi peralatan standar laboratorium pendidikan tinggi-multimeter, osiloskop, lensa, dan perangkat pengukuran presisi. Praktikum di sini memperkuat pemahaman teori, melatih keterampilan ilmiah, dan membangun dasar eksperimen untuk penelitian lanjutan di jenjang S2."
+  },
+  {
+    "Q": "Lab. Fisika hanya untuk Fisika?",
+    "A": "Tidak, terbuka untuk prodi lain"
+  },
+  {
+    "Q": "Apakah Lab. Fisika hanya untuk Pendidikan Fisika?",
+    "A": "Tidak—juga untuk Teknik Mesin, IPA, dengan jadwal terjadwal"
+  },
+  {
+    "Q": "Mengapa Lab. Fisika dipakai lintas prodi?",
+    "A": "Prinsip efisiensi: fasilitas mahal dimaksimalkan untuk seluruh kampus, bukan satu prodi"
+  },
+  {
+    "Q": "Apakah Lab. Fisika hanya untuk prodi Pendidikan Fisika?",
+    "A": "Tidak. Meski utamanya digunakan oleh S1 Pendidikan Fisika, lab ini juga terbuka untuk prodi lain yang memerlukan eksperimen fisika-seperti Teknik Mesin atau Pendidikan IPA. Akses diatur berdasarkan jadwal praktikum resmi dan persetujuan koordinator lab. Ini mencerminkan prinsip efisiensi sumber daya: fasilitas mahal seperti ini dimaksimalkan untuk seluruh kampus, bukan hanya satu prodi."
+  },
+  {
+    "Q": "APD wajib di Lab. Fisika?",
+    "A": "Ya"
+  },
+  {
+    "Q": "Bagaimana keamanan di Lab. Fisika?",
+    "A": "Wajib APD, pelatihan, dan larangan kerja sendirian"
+  },
+  {
+    "Q": "Apa protokol keselamatan di Lab. Fisika?",
+    "A": "APD wajib, bahan berbahaya dikunci, prosedur darurat dipajang—prioritaskan keselamatan"
+  },
+  {
+    "Q": "Bagaimana keamanan di Lab. Fisika?",
+    "A": "Lab. Fisika menerapkan protokol keselamatan ketat: penggunaan alat pelindung diri (APD), pelatihan sebelum praktikum, dan larangan bekerja sendirian. Semua bahan berbahaya disimpan terkunci, dan prosedur darurat dipajang di dinding. Ini penting karena eksperimen fisika melibatkan listrik tegangan tinggi, panas, atau bahan rapuh-sehingga keselamatan mahasiswa adalah prioritas utama dalam desain operasional lab."
+  },
+  {
+    "Q": "Desain Lab. Keperawatan?",
+    "A": "Menyerupai ICU"
+  },
+  {
+    "Q": "Seperti apa desain Lab. Keperawatan UNSIQ?",
+    "A": "Mirip ICU rumah sakit, lengkap dengan ranjang, monitor, dan manekin simulasi"
+  },
+  {
+    "Q": "Bagaimana Lab. Keperawatan siapkan mahasiswa magang?",
+    "A": "Lingkungan simulasi realistis latih prosedur klinis dan bangun kepercayaan diri"
+  },
+  {
+    "Q": "Seperti apa desain Lab. Keperawatan UNSIQ?",
+    "A": "Lab. Keperawatan didisain menyerupai ruang ICU/ICCU di rumah sakit, lengkap dengan ranjang pasien, monitor tanda vital, manekin simulasi, dan peralatan medis standar. Lingkungan ini memungkinkan mahasiswa berlatih prosedur klinis-seperti pemasangan infus, perawatan luka, atau resusitasi-dalam kondisi yang mendekati realitas. Ini membangun kepercayaan diri sebelum mereka benar-benar magang di rumah sakit."
+  },
+  {
+    "Q": "Manekin bisa bernapas?",
+    "A": "Ya, interaktif"
+  },
+  {
+    "Q": "Apakah manekin di Lab. Keperawatan interaktif?",
+    "A": "Ya—bisa bernapas, berdetak, bahkan “meninggal” jika salah penanganan"
+  },
+  {
+    "Q": "Apa keunggulan manekin simulasi UNSIQ?",
+    "A": "Mahasiswa belajar dari kesalahan tanpa risiko nyata; sistem catat respons untuk evaluasi"
+  },
+  {
+    "Q": "Apakah manekin di Lab. Keperawatan bersifat interaktif?",
+    "A": "Ya, banyak manekin dilengkapi teknologi simulasi interaktif-bisa bernapas, berdetak, bahkan \"meninggal\" jika penanganan salah. Ini memungkinkan mahasiswa belajar dari kesalahan tanpa risiko nyata. Sistem juga mencatat respons mahasiswa untuk evaluasi dosen. Teknologi ini meningkatkan kualitas pembelajaran klinis, menjadikan UNSIQ kompetitif dengan kampus kesehatan terkemuka di Indonesia."
+  },
+  {
+    "Q": "Siapa boleh pakai Lab. Keperawatan?",
+    "A": "Mahasiswa Keperawatan & Kebidanan"
+  },
+  {
+    "Q": "Siapa yang boleh gunakan Lab. Keperawanan?",
+    "A": "Hanya mahasiswa Keperawatan/Kebidanan saat praktikum resmi dengan pengawasan"
+  },
+  {
+    "Q": "Mengapa akses Lab. Keperawanan sangat dibatasi?",
+    "A": "Agar peralatan mahal tidak disalahgunakan dan simulasi tetap sesuai kurikulum"
+  },
+  {
+    "Q": "Siapa yang boleh menggunakan Lab. Keperawanan?",
+    "A": "Hanya mahasiswa Prodi Keperawanan dan Kebidanan yang sedang mengikuti praktikum resmi, di bawah pengawasan dosen atau perawat klinis. Akses di luar jadwal praktikum sangat dibatasi demi keamanan peralatan dan privasi simulasi. Ini memastikan bahwa fasilitas mahal ini digunakan secara optimal dan sesuai kurikulum-tanpa penyalahgunaan atau kerusakan akibat penggunaan tidak terlatih."
+  },
+  {
+    "Q": "Fungsi Lab. Kebidanan?",
+    "A": "Simulasi persalinan & neonatus"
+  },
+  {
+    "Q": "Apa fungsi utama Lab. Kebidanan di UNSIQ?",
+    "A": "Praktikum simulasi persalinan, perawatan bayi, dan pemeriksaan kehamilan"
+  },
+  {
+    "Q": "Mengapa Lab. Kebidanan penting sebelum magang?",
+    "A": "Agar mahasiswa kuasai keterampilan teknis dan siap tangani darurat di rumah sakit"
+  },
+  {
+    "Q": "Apa fungsi utama Lab. Kebidanan di UNSIQ?",
+    "A": "Lab. Kebidanan berfungsi sebagai ruang praktikum untuk simulasi proses persalinan, perawatan neonatus, dan pemeriksaan kehamilan. Dilengkapi manekin ibu dan bayi, alat USG simulasi, dan perlengkapan steril, lab ini memungkinkan mahasiswa menguasai keterampilan teknis sebelum terjun ke puskesmas atau rumah sakit. Fasilitas ini sangat krusial karena bidan harus siap menangani situasi darurat dengan akurasi tinggi."
+  },
+  {
+    "Q": "Privasi di Lab. Kebidanan?",
+    "A": "Ada partisi & tirai"
+  },
+  {
+    "Q": "Bagaimana lab jamin privasi simulasi persalinan?",
+    "A": "Dengan partisi kedap suara, tirai, dan akses terbatas hanya untuk kelompok praktikum"
+  },
+  {
+    "Q": "Apa nilai etika dalam simulasi persalinan?",
+    "A": "Mahasiswa dilatih jaga martabat pasien dan komunikasi empatik dalam situasi pribadi"
+  },
+  {
+    "Q": "Bagaimana lab ini menjamin privasi dalam simulasi persalinan?",
+    "A": "Ruang lab didesain dengan partisi kedap suara dan tirai privasi, menyerupai kamar bersalin nyata. Hanya mahasiswa dalam kelompok praktikum dan pengawas yang diizinkan masuk. Ini melatih mahasiswa tidak hanya keterampilan teknis, tetapi juga etika profesional-seperti menjaga martabat pasien dan komunikasi empatik selama proses yang sangat pribadi."
+  },
+  {
+    "Q": "Lab Kebidanan sesuai SKL?",
+    "A": "Ya"
+  },
+  {
+    "Q": "Apakah lab kebidanan sesuai kurikulum nasional?",
+    "A": "Ya, diselaraskan dengan SKL Kemenkes dan BAN-PT untuk uji kompetensi profesi"
+  },
+  {
+    "Q": "Bagaimana lab dukung kelulusan uji kompetensi?",
+    "A": "Simulasi sesuai standar nasional, dosen ikuti pelatihan terbaru—lulusan siap kerja"
+  },
+  {
+    "Q": "Apakah lab kebidanan terintegrasi dengan kurikulum nasional?",
+    "A": "Ya, semua praktikum di Lab. Kebidanan diselaraskan dengan Standar Kompetensi Lulusan (SKL) Kemenkes dan BAN-PT. Ini memastikan lulusan UNSIQ memenuhi syarat nasional untuk uji kompetensi profesi. Dosen juga rutin mengikuti pelatihan berbasis kurikulum terbaru, sehingga simulasi di lab selalu relevan dengan kebutuhan dunia kerja-meningkatkan peluang kerja lulusan di fasilitas kesehatan formal."
+  },
+  {
+    "Q": "Fungsi Radio UNSIQ?",
+    "A": "Info kampus & praktik penyiar"
+  },
+  {
+    "Q": "Apa peran Radio UNSIQ di lingkungan kampus?",
+    "A": "Sebar info internal dan wadah praktik mahasiswa komunikasi"
+  },
+  {
+    "Q": "Bagaimana Radio UNSIQ gabungkan layanan dan pembelajaran?",
+    "A": "Jadi media pengumuman sekaligus latih produksi audio dan manajemen konten bagi mahasiswa"
+  },
+  {
+    "Q": "Apa peran Radio UNSIQ di lingkungan kampus?",
+    "A": "Radio UNSIQ berfungsi sebagai media penyebaran informasi internal-mengumumkan jadwal kuliah, kegiatan kampus, pengumuman darurat, hingga konten edukasi. Selain itu, radio ini menjadi wadah praktik mahasiswa Ilmu Komunikasi atau penyiar, melatih kemampuan produksi audio, penyiaran, dan manajemen konten. Ini menggabungkan fungsi layanan dan pembelajaran dalam satu platform media."
+  },
+  {
+    "Q": "Radio UNSIQ bisa diakses online?",
+    "A": "Ya"
+  },
+  {
+    "Q": "Apakah siaran Radio UNSIQ bisa diakses di luar kampus?",
+    "A": "Ya, via streaming di website resmi atau aplikasi kampus"
+  },
+  {
+    "Q": "Siapa yang bisa dengar Radio UNSIQ?",
+    "A": "Alumni, orang tua, dan masyarakat—memperluas jangkauan akademik dan branding kampus"
+  },
+  {
+    "Q": "Apakah siaran Radio UNSIQ bisa diakses di luar kampus?",
+    "A": "Ya, melalui streaming online di website resmi atau aplikasi kampus. Ini memungkinkan alumni, orang tua, dan masyarakat umum mengakses informasi UNSIQ secara real-time. Radio juga menyiarkan acara khusus seperti Studium General atau talkshow dosen-memperluas jangkauan akademik kampus ke publik luas, sekaligus memperkuat branding institusi."
+  },
+  {
+    "Q": "Siapa kelola Radio UNSIQ?",
+    "A": "Dosen, staf IT, dan mahasiswa"
+  },
+  {
+    "Q": "Siapa yang mengelola Radio UNSIQ?",
+    "A": "Tim gabungan: dosen, staf IT, dan mahasiswa magang dari prodi terkait"
+  },
+  {
+    "Q": "Apa manfaat kelola radio bagi mahasiswa?",
+    "A": "Dapat pengalaman kerja nyata di penyiaran dengan supervisi akademik dan nilai kampus"
+  },
+  {
+    "Q": "Siapa yang mengelola Radio UNSIQ?",
+    "A": "Radio dikelola oleh tim gabungan: dosen pembimbing, staf IT, dan mahasiswa magang dari prodi terkait. Mahasiswa bertanggung jawab atas produksi konten, teknis siaran, dan manajemen jadwal-dibawah supervisi akademik. Ini memberi pengalaman kerja nyata dalam bidang penyiaran, sekaligus menjamin konten tetap edukatif, informatif, dan sesuai nilai-nilai kampus."
+  },
+  {
+    "Q": "Wifi ada di mana saja?",
+    "A": "Seluruh area kampus"
+  },
+  {
+    "Q": "Seberapa luas jangkauan Wifi Hotspot di UNSIQ?",
+    "A": "Menyebar di kelas, lab, perpustakaan, asrama, masjid, dan taman"
+  },
+  {
+    "Q": "Bagaimana Wifi dukung pembelajaran hybrid?",
+    "A": "Koneksi stabil untuk akses LMS, video conference, dan download jurnal di seluruh kampus"
+  },
+  {
+    "Q": "Seberapa luas jangkauan Wifi Hotspot di kampus UNSIQ?",
+    "A": "Titik hotspot menyebar di seluruh area kampus: ruang kelas, perpustakaan, laboratorium, asrama, masjid, hingga taman. Koneksi stabil dengan bandwidth memadai untuk kebutuhan akademik-akses LMS, video conference, atau download jurnal. Infrastruktur ini mendukung pembelajaran hybrid dan digitalisasi kampus, memastikan mahasiswa selalu terhubung dengan sumber belajar kapan pun dan di mana pun di area kampus."
+  },
+  {
+    "Q": "Wifi gratis untuk mahasiswa?",
+    "A": "Ya"
+  },
+  {
+    "Q": "Apakah akses Wifi gratis untuk mahasiswa?",
+    "A": "Ya, gratis via login NIM—internet dianggap fasilitas dasar pendidikan"
+  },
+  {
+    "Q": "Mengapa Wifi tidak berbayar?",
+    "A": "Karena UNSIQ anggap internet sebagai hak dasar akademik, bukan layanan premium"
+  },
+  {
+    "Q": "Apakah akses Wifi gratis untuk mahasiswa?",
+    "A": "Ya, gratis dan otomatis terdaftar saat mahasiswa aktif. Login menggunakan NIM dan password akademik, sehingga akses terlacak dan aman. UNSIQ tidak memungut biaya tambahan karena internet dianggap sebagai fasiitas dasar pendidikan modern, bukan layanan premium. Ini mendukung prinsip kesetaraan-semua mahasiswa, tanpa terkecuali, punya akses setara ke sumber digital."
+  },
+  {
+    "Q": "Wifi aman dari situs ilegal?",
+    "A": "Ya, ada firewall"
+  },
+  {
+    "Q": "Bagaimana keamanan jaringan Wifi UNSIQ?",
+    "A": "Pakai enkripsi WPA2/3, firewall, dan blokir otomatis aktivitas mencurigakan"
+  },
+  {
+    "Q": "Apa proteksi keamanan di jaringan kampus?",
+    "A": "Lindungi data akademik, cegah download ilegal, dan pastikan bandwidth untuk edukasi"
+  },
+  {
+    "Q": "Bagaimana keamanan jaringan Wifi UNSIQ?",
+    "A": "Jaringan menggunakan enkripsi WPA2/3, firewall, dan pemantauan lalu lintas real-time untuk mencegah penyalahgunaan (seperti download ilegal atau akses situs berbahaya). Aktivitas mencurigakan otomatis diblokir. Ini melindungi data akademik mahasiswa, menjaga reputasi kampus, dan memastikan bandwidth digunakan untuk keperluan edukatif-bukan hiburan atau aktivitas non-akademik berat."
+  },
+  {
+    "Q": "Apa itu Ruang Sidang Semu?",
+    "A": "Simulasi pengadilan"
+  },
+  {
+    "Q": "Apa itu Ruang Sidang Semu di UNSIQ?",
+    "A": "Fasilitas simulasi persidangan lengkap seperti pengadilan sungguhan"
+  },
+  {
+    "Q": "Bagaimana Ruang Sidang Semu bantu mahasiswa Hukum?",
+    "A": "Jembatani teori dan praktik—latih prosedur hukum, interogasi, dan presentasi kasus"
+  },
+  {
+    "Q": "Apa itu Ruang Sidang Semu di UNSIQ?",
+    "A": "Ruang Sidang Semu adalah fasilitas simulasi persidangan yang menyerupai pengadilan sungguhan-lengkap dengan kursi hakim, jaksa, terdakwa, saksi, dan area pengunjung. Digunakan terutama oleh mahasiswa Hukum untuk berlatih prosedur hukum acara, teknik interogasi, dan presentasi kasus. Ini menjembatani teori hukum dengan praktik profesional, mempersiapkan lulusan menjadi penegak hukum yang kompeten."
+  },
+  {
+    "Q": "Manfaat Ruang Sidang Semu?",
+    "A": "Latih oratoris & kritis"
+  },
+  {
+    "Q": "Bagaimana manfaat Ruang Sidang Semu bagi mahasiswa?",
+    "A": "Latih oratoris, berpikir kritis, dan penerapan hukum dalam konteks nyata"
+  },
+  {
+    "Q": "Mengapa simulasi sidang penting sebelum magang?",
+    "A": "Mahasiswa sudah terbiasa protokol dan tekanan psikologis—siap saat di pengadilan nyata"
+  },
+  {
+    "Q": "Bagaimana manfaat Ruang Sidang Semu bagi mahasiswa?",
+    "A": "Fasilitas ini melatih keterampilan oratoris, berpikir kritis, dan penerapan hukum dalam konteks nyata. Mahasiswa belajar menyusun argumen, menanggapi tanggapan lawan, dan memahami dinamika persidangan-semua dalam lingkungan aman untuk salah. Pengalaman ini sangat berharga saat magang di pengadilan atau kantor hukum, karena mereka sudah terbiasa dengan protokol dan tekanan psikologis di ruang sidang."
+  },
+  {
+    "Q": "Sidang semu untuk acara resmi?",
+    "A": "Kadang, dengan hakim tamu"
+  },
+  {
+    "Q": "Apakah ruang ini digunakan untuk acara resmi?",
+    "A": "Ya, untuk simulasi terbuka dengan hakim atau jaksa tamu dari lembaga hukum"
+  },
+  {
+    "Q": "Bagaimana kampus kolaborasi dengan lembaga hukum?",
+    "A": "Lewat sidang simulasi terbuka yang melibatkan praktisi—jadi pembelajaran kolaboratif"
+  },
+  {
+    "Q": "Apakah ruang ini digunakan untuk acara resmi?",
+    "A": "Kadang-kadang, misalnya untuk simulasi persidangan terbuka yang melibatkan hakim tamu atau jaksa dari kejaksaan setempat. Acara ini terbuka untuk umum dan menjadi ajang pembelajaran kolaboratif antara kampus dan lembaga penegak hukum. Namun, mayoritas penggunaan adalah untuk praktikum internal mahasiswa, agar setiap angkatan mendapat kesempatan merasakan pengalaman simulasi yang realistis."
+  },
+  {
+    "Q": "Lab lain di UNSIQ?",
+    "A": "Bahasa, kimia, mikrobiologi"
+  },
+  {
+    "Q": "Apa lab lain selain yang disebutkan?",
+    "A": "Lab bahasa, mikrobiologi, kimia dasar, dan lab pendidikan sesuai kebutuhan prodi"
+  },
+  {
+    "Q": "Bagaimana UNSIQ kembangkan lab baru?",
+    "A": "Disesuaikan dengan akreditasi prodi dan kebutuhan industri—pastikan lulusan kompeten"
+  },
+  {
+    "Q": "Apa jenis laboratorium lain yang tersedia di UNSIQ selain yang disebutkan?",
+    "A": "Selain lab komputer, fisika, keperawatan, dan kebidanan, UNSIQ juga memiliki lab bahasa, lab mikrobiologi, lab kimia dasar, dan lab pendidikan-tergantung kebutuhan prodi. Semua laboratorium dirancang sesuai standar nasional dan dilengkapi peralatan yang relevan dengan kurikulum. UNSIQ terus mengembangkan infrastruktur lab sejalan dengan akreditasi prodi, memastikan lulusan memiliki kompetensi praktis yang diakui industri."
+  },
+  {
+    "Q": "Alat lab lengkap?",
+    "A": "Ya, diperbarui berkala"
+  },
+  {
+    "Q": "Bagaimana ketersediaan alat di laboratorium?",
+    "A": "Diperbarui berkala, dipantau teknisi, dan sistem “satu mahasiswa, satu alat”"
+  },
+  {
+    "Q": "Apa prinsip penggunaan alat lab di UNSIQ?",
+    "A": "Semua mahasiswa aktif terlibat—bukan hanya mengamati—tingkatkan kualitas praktikum"
+  },
+  {
+    "Q": "Bagaimana ketersediaan alat di laboratorium?",
+    "A": "Alat laboratorium diperbarui secara berkala melalui anggaran pengembangan kampus dan hibah penelitian. Stok dan kondisi alat dipantau oleh teknisi lab, dan mahasiswa bisa melaporkan kerusakan via sistem online. UNSIQ menerapkan prinsip \"satu mahasiswa, satu alat\" dalam praktikum inti-memastikan semua peserta aktif terlibat, bukan hanya mengamati. Ini meningkatkan kualitas pembelajaran praktis secara signifikan."
+  },
+  {
+    "Q": "Lab bisa untuk penelitian?",
+    "A": "Ya"
+  },
+  {
+    "Q": "Apakah laboratorium dukung penelitian?",
+    "A": "Ya—untuk tugas akhir, riset dosen, dan eksperimen jangka panjang"
+  },
+  {
+    "Q": "Bagaimana lab wujudkan tridharma perguruan tinggi?",
+    "A": "Jadi basis integrasi pembelajaran, penelitian, dan pengabdian—tulang punggung akademik"
+  },
+  {
+    "Q": "Apakah laboratorium mendukung penelitian dosen dan mahasiswa?",
+    "A": "Ya, laboratorium tidak hanya untuk praktikum, tetapi juga menjadi basis penelitian-baik tugas akhir mahasiswa maupun riset dosen. Mahasiswa S2 dan peneliti muda bisa mengajukan izin penggunaan khusus untuk eksperimen jangka panjang. UNSIQ mendorong integrasi antara pembelajaran, penelitian, dan pengabdian-dan laboratorium adalah tulang punggung dari tridharma tersebut."
+  },
+  {
+    "Q": "Apa itu fasilitas IT UNSIQ?",
+    "A": "Infrastruktur digital kampus"
+  },
+  {
+    "Q": "Apa yang dimaksud dengan fasilitas IT di UNSIQ?",
+    "A": "Server, LMS, portal mahasiswa, database, dan tim dukungan IT 24/7"
+  },
+  {
+    "Q": "Bagaimana IT dukung administrasi akademik?",
+    "A": "Dari pendaftaran hingga wisuda—semua terintegrasi dalam sistem digital yang andal"
+  },
+  {
+    "Q": "Apa yang dimaksud dengan \"Informasi Teknologi\" sebagai fasilitas kampus?",
+    "A": "Ini merujuk pada infrastruktur digital UNSIQ secara keseluruhan: server akademik, sistem LMS (Learning Management System), portal mahasiswa, database perpustakaan digital, dan tim dukungan IT. Fasilitas ini menjamin kelancaran administrasi akademik-dari pendaftaran hingga wisuda-serta mendukung pembelajaran daring dan hybrid. Tim IT siap membantu 24/7 untuk gangguan sistem, menjaga keberlangsungan pendidikan digital."
+  },
+  {
+    "Q": "IT dukung kuliah online?",
+    "A": "Ya, via LMS cloud"
+  },
+  {
+    "Q": "Bagaimana fasilitas IT dukung pembelajaran jarak jauh?",
+    "A": "Lewat LMS cloud untuk materi, tugas, dan kuis—bisa diakses via laptop/ponsel"
+  },
+  {
+    "Q": "Apa keunggulan LMS UNSIQ?",
+    "A": "Pastikan kelangsungan studi di darurat, sekaligus pelengkap kuliah tatap muka"
+  },
+  {
+    "Q": "Bagaimana fasilitas IT mendukung pembelajaran jarak jauh?",
+    "A": "UNSIQ menggunakan platform LMS berbasis cloud yang memungkinkan dosen mengunggah materi, memberi tugas, dan mengadakan kuis online. Mahasiswa bisa mengakses kapan saja via laptop atau ponsel. Selama pandemi atau kondisi darurat, sistem ini memastikan kelangsungan studi tanpa putus. Bahkan di masa normal, LMS menjadi pelengkap pembelajaran tatap muka-mendorong fleksibilitas dan pembelajaran sepanjang hayat."
+  },
+  {
+    "Q": "Data mahasiswa aman?",
+    "A": "Ya, enkripsi & 2FA"
+  },
+  {
+    "Q": "Apakah data mahasiswa aman di sistem IT?",
+    "A": "Ya—dilindungi enkripsi end-to-end, 2FA, dan audit keamanan berkala"
+  },
+  {
+    "Q": "Bagaimana UNSIQ lindungi privasi digital mahasiswa?",
+    "A": "Hanya petugas berwenang yang akses data; semua login tercatat untuk cegah kebocoran"
+  },
+  {
+    "Q": "Apakah data mahasiswa aman di sistem IT UNSIQ?",
+    "A": "Ya, data mahasiswa dilindungi dengan enkripsi end-to-end, autentikasi dua faktor, dan kebijakan privasi ketat. Hanya petugas berwenang yang bisa mengakses data pribadi, dan semua aktivitas login tercatat. UNSIQ juga melakukan audit keamanan berkala untuk mencegah kebocoran. Ini penting karena kepercayaan mahasiswa terhadap institusi sangat bergantung pada jaminan privasi dan keamanan data digital mereka."
+  },
+  {
+    "Q": "Semua fasilitas gratis?",
+    "A": "Inti gratis, tambahan berbayar"
+  },
+  {
+    "Q": "Apakah semua fasilitas kampus gratis?",
+    "A": "Fasilitas inti akademik gratis; layanan tambahan dikenai biaya simbolis"
+  },
+  {
+    "Q": "Mengapa ada biaya untuk layanan tertentu?",
+    "A": "Untuk jaga keberlanjutan operasional tanpa bebani mahasiswa—prinsip layanan berkeadilan"
+  },
+  {
+    "Q": "Apakah semua fasilitas kampus gratis untuk mahasiswa?",
+    "A": "Sebagian besar gratis, termasuk penggunaan lab, perpustakaan, wifi, dan klinik dasar. Namun, fasilitas seperti cetak dokumen, obat resep, atau penggunaan lab khusus di luar jadwal mungkin dikenai biaya simbolis. UNSIQ menerapkan prinsip: fasilitas inti akademik harus bebas biaya, sementara layanan tambahan dikenai biaya operasional minimal-menjaga keberlanjutan tanpa membebani mahasiswa."
+  },
+  {
+    "Q": "Bagaimana akses fasilitas baru?",
+    "A": "Otomatis setelah NIM aktif"
+  },
+  {
+    "Q": "Bagaimana mahasiswa baru akses fasilitas kampus?",
+    "A": "Otomatis setelah NIM aktif—wifi, perpus, lab terbuka via akun digital"
+  },
+  {
+    "Q": "Kapan mahasiswa baru bisa pakai fasilitas?",
+    "A": "Setelah reservasi NIM dan ospek—dapat panduan, tur kampus, dan akses digital penuh"
+  },
+  {
+    "Q": "Bagaimana cara mahasiswa baru mengakses fasilitas kampus?",
+    "A": "Setelah reservasi NIM dan aktivasi akun mahasiswa, semua fasilitas otomatis terbuka-mulai dari akses wifi (via NIM), pinjam buku (via kartu mahasiswa digital), hingga jadwal praktikum di lab. Mahasiswa baru juga mendapat panduan fasilitas saat ospek, termasuk tur kampus dan sesi tanya jawab dengan pengelola fasilitas. Ini memastikan transisi lancar dari calon mahasiswa menjadi pengguna aktif infrastruktur kampus."
+  },
+  {
+    "Q": "Kampus ramah disabilitas?",
+    "A": "Ya, sedang dikembangkan"
+  },
+  {
+    "Q": "Apakah fasilitas UNSIQ ramah disabilitas?",
+    "A": "Ada ramp, lift, toilet khusus, dan perangkat bantu di area utama"
+  },
+  {
+    "Q": "Bagaimana UNSIQ dukung mahasiswa disabilitas?",
+    "A": "Sediakan akses fisik dan teknologi bantu; mahasiswa diminta daftar kebutuhan sejak awal"
+  },
+  {
+    "Q": "Apakah fasilitas kampus ramah disabilitas?",
+    "A": "UNSIQ terus berupaya meningkatkan aksesibilitas, termasuk ramp, lift, toilet disabilitas, dan jalur pemandu di area utama. Beberapa lab dan perpustakaan juga menyediakan perangkat bantu visual/audiotori. Meski belum sempurna, kampus memiliki komitmen kuat untuk inklusi-dan mahasiswa disabilitas didorong untuk mengajukan kebutuhan khusus saat pendaftaran, agar fasilitas bisa disesuaikan sejak awal."
+  },
+  {
+    "Q": "Fasilitas buka di Sabtu-Minggu?",
+    "A": "Sebagian, terbatas"
+  },
+  {
+    "Q": "Apakah fasilitas tersedia di akhir pekan?",
+    "A": "Perpustakaan & wifi aktif; lab & klinik hanya hari kerja"
+  },
+  {
+    "Q": "Bisa pakai lab di hari Minggu?",
+    "A": "Tidak otomatis—harus ajukan izin khusus untuk kegiatan akademik mendesak"
+  },
+  {
+    "Q": "Apakah fasilitas kampus tersedia di akhir pekan?",
+    "A": "Sebagian tersedia, tergantung jenisnya. Perpustakaan dan wifi biasanya aktif, tetapi laboratorium dan klinik hanya buka hari kerja. Beberapa fasilitas seperti taman atau masjid tetap terbuka. UNSIQ tidak menerapkan akses penuh 7 hari karena pertimbangan keamanan, pemeliharaan, dan keterbatasan SDM. Namun, mahasiswa bisa mengajukan izin khusus untuk kegiatan akademik mendesak di akhir pekan."
+  },
+  {
+    "Q": "Fasilitas UNSIQ bagus?",
+    "A": "Kompetitif, fokus pada kompetensi"
+  },
+  {
+    "Q": "Bagaimana kualitas fasilitas UNSIQ dibanding swasta lain?",
+    "A": "Kompetitif, terutama di lab kesehatan, IT, dan perpustakaan digital"
+  },
+  {
+    "Q": "Apa keunggulan fasilitas UNSIQ?",
+    "A": "Dirancang untuk dukung kurikulum, bukan kemewahan—terbukti lewat akreditasi Unggul/A"
+  },
+  {
+    "Q": "Bagaimana kualitas fasilitas UNSIQ dibanding kampus swasta lain?",
+    "A": "Fasilitas UNSIQ kompetitif dengan kampus swasta unggul, terutama di bidang laboratorium kesehatan, IT, dan perpustakaan digital. Kampus ini fokus pada relevansi kurikuler, bukan kemewahan-sehingga setiap fasilitas dirancang untuk mendukung kompetensi lulusan, bukan sekadar estetika. Akreditasi prodi Unggul/A membuktikan bahwa infrastruktur memadai untuk standar nasional, bahkan internasional."
+  },
+  {
+    "Q": "Mahasiswa luar boleh pakai fasilitas?",
+    "A": "Tidak, kecuali kerja sama resmi"
+  },
+  {
+    "Q": "Apakah mahasiswa luar bisa pakai fasilitas UNSIQ?",
+    "A": "Tidak—hanya untuk mahasiswa aktif, kecuali dalam pertukaran atau pelatihan resmi"
+  },
+  {
+    "Q": "Mengapa fasilitas eksklusif untuk mahasiswa UNSIQ?",
+    "A": "Karena dibiayai dari SPP dan infaq mereka—jamin akses penuh tanpa persaingan eksternal"
+  },
+  {
+    "Q": "Apakah mahasiswa luar bisa menggunakan fasilitas UNSIQ?",
+    "A": "Umumnya tidak, kecuali dalam kerja sama resmi (misal: pertukaran mahasiswa, pelatihan antar kampus). Fasilitas seperti perpustakaan atau lab adalah hak eksklusif mahasiswa aktif UNSIQ, karena dibiayai dari SPP dan infaq pengembangan mereka. Ini memastikan bahwa investasi mahasiswa dalam biaya kuliah dibalas dengan akses penuh ke infrastruktur-tanpa persaingan dari pihak luar yang tidak berkontribusi finansial."
+  },
+  {
+    "Q": "Bagaimana fasilitas dirawat?",
+    "A": "Dari infaq & hibah"
+  },
+  {
+    "Q": "Bagaimana UNSIQ rawat fasilitas berkelanjutan?",
+    "A": "Dana infaq mahasiswa, hibah pemerintah, dan sistem pelaporan kerusakan online"
+  },
+  {
+    "Q": "Apa sumber dana pemeliharaan infrastruktur?",
+    "A": "Infaq pengembangan wajib, hibah mitra, dan anggaran rutin—pastikan fasilitas selalu siap pakai"
+  },
+  {
+    "Q": "Bagaimana UNSIQ memastikan pemeliharaan fasilitas berkelanjutan?",
+    "A": "Melalui dana infaq pengembangan yang wajib dibayar mahasiswa baru, UNSIQ mengalokasikan anggaran rutin untuk pemeliharaan, peremajaan alat, dan pelatihan SDM pengelola. Selain itu, kampus menerima hibah pemerintah dan mitra industri untuk pengembangan infrastruktur. Sistem pelaporan kerusakan online memungkinkan perbaikan cepat-menjamin fasilitas selalu siap pakai dan aman untuk kegiatan akademik jangka panjang."
+  }
+]

@@ -1,578 +1,578 @@
 [
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Akuntansi di UNSIQ?",
-    "response": "Total biaya adalah Rp29.490.000, dihitung sebagai: Semester 1: Rp6.315.000 Semester 2: Rp5.405.000 Semester 3-6: 4 × Rp3.755.000 = Rp15.020.000 Semester 7: Rp2.945.000 Semester 8: Rp1.595.000 Jumlah: Rp6.315.000 + Rp5.405.000 + Rp15.020.000 + Rp2.945.000 + Rp1.595.000 = Rp29.490.000. Prodi ini berakreditasi B, dan biayanya mencerminkan kebutuhan pelatihan akuntansi profesional sejak awal."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Akuntansi di UNSIQ?",
+    "A": "Total biaya adalah Rp29.490.000, dihitung sebagai: Semester 1: Rp6.315.000 Semester 2: Rp5.405.000 Semester 3-6: 4 × Rp3.755.000 = Rp15.020.000 Semester 7: Rp2.945.000 Semester 8: Rp1.595.000 Jumlah: Rp6.315.000 + Rp5.405.000 + Rp15.020.000 + Rp2.945.000 + Rp1.595.000 = Rp29.490.000. Prodi ini berakreditasi B, dan biayanya mencerminkan kebutuhan pelatihan akuntansi profesional sejak awal."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Akuntansi lebih tinggi daripada semester berikutnya?",
-    "response": "Karena semester 1 mencakup biaya investasi awal: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp6.315.000, tertinggi di antara hampir semua prodi S1. Ini wajar karena Akuntansi memerlukan akses ke software akuntansi berlisensi, pelatihan dasar perpajakan, dan modul praktikum yang mahal-sehingga biaya awal dialokasikan untuk menutup kebutuhan tersebut."
+    "Q": "Mengapa biaya semester 1 Akuntansi lebih tinggi daripada semester berikutnya?",
+    "A": "Karena semester 1 mencakup biaya investasi awal: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp6.315.000, tertinggi di antara hampir semua prodi S1. Ini wajar karena Akuntansi memerlukan akses ke software akuntansi berlisensi, pelatihan dasar perpajakan, dan modul praktikum yang mahal-sehingga biaya awal dialokasikan untuk menutup kebutuhan tersebut."
   },
   {
-    "instruction": "Apakah Akuntansi S1 memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi B, KIP-Kuliah masih memungkinkan penerimaan dengan pertimbangan khusus, terutama karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp6.315.000) masih jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon disarankan mendaftar KIP-Kuliah antara 4 Februari-31 Oktober 2025 dan menyertakan surat rekomendasi untuk memperkuat permohonan."
+    "Q": "Apakah Akuntansi S1 memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi B, KIP-Kuliah masih memungkinkan penerimaan dengan pertimbangan khusus, terutama karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp6.315.000) masih jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon disarankan mendaftar KIP-Kuliah antara 4 Februari-31 Oktober 2025 dan menyertakan surat rekomendasi untuk memperkuat permohonan."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 pada Akuntansi?",
-    "response": "Penghematan mencapai Rp4.720.000, yaitu selisih antara biaya semester 1 (Rp6.315.000) dan semester 8 (Rp1.595.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang mempersiapkan ujian sertifikasi akuntan (seperti USAP dari IAI) atau magang di kantor akuntan publik-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 pada Akuntansi?",
+    "A": "Penghematan mencapai Rp4.720.000, yaitu selisih antara biaya semester 1 (Rp6.315.000) dan semester 8 (Rp1.595.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang mempersiapkan ujian sertifikasi akuntan (seperti USAP dari IAI) atau magang di kantor akuntan publik-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Akuntansi?",
-    "response": "Total biaya 4 semester pertama adalah Rp18.830.000, dihitung dari: Sem 1: Rp6.315.000 Sem 2: Rp5.405.000 Sem 3: Rp3.755.000 Sem 4: Rp3.755.000 Jumlah: Rp6.315.000 + Rp5.405.000 + Rp3.755.000 + Rp3.755.000 = Rp18.830.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
+    "Q": "Berapa total biaya 4 semester pertama Akuntansi?",
+    "A": "Total biaya 4 semester pertama adalah Rp18.830.000, dihitung dari: Sem 1: Rp6.315.000 Sem 2: Rp5.405.000 Sem 3: Rp3.755.000 Sem 4: Rp3.755.000 Jumlah: Rp6.315.000 + Rp5.405.000 + Rp3.755.000 + Rp3.755.000 = Rp18.830.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.595.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon akuntan yang ingin segera mengikuti ujian sertifikasi profesi setelah lulus."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp1.595.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon akuntan yang ingin segera mengikuti ujian sertifikasi profesi setelah lulus."
   },
   {
-    "instruction": "Bagaimana skema biaya ini mendukung calon akuntan profesional?",
-    "response": "Dengan total biaya Rp29.490.000, lulusan Akuntansi UNSIQ siap mengikuti pelatihan sertifikasi akuntan tanpa beban utang berat. Biaya awal yang tinggi menggambarkan investasi pada kompetensi teknis tinggi (software, studi kasus, pelatihan perpajakan), sementara biaya akhir yang rendah memungkinkan fokus pada persiapan karier. Ini menjadikan prodi ini strategis bagi lulusan yang ingin bekerja di kantor akuntan publik atau perusahaan multinasional."
+    "Q": "Bagaimana skema biaya ini mendukung calon akuntan profesional?",
+    "A": "Dengan total biaya Rp29.490.000, lulusan Akuntansi UNSIQ siap mengikuti pelatihan sertifikasi akuntan tanpa beban utang berat. Biaya awal yang tinggi menggambarkan investasi pada kompetensi teknis tinggi (software, studi kasus, pelatihan perpajakan), sementara biaya akhir yang rendah memungkinkan fokus pada persiapan karier. Ini menjadikan prodi ini strategis bagi lulusan yang ingin bekerja di kantor akuntan publik atau perusahaan multinasional."
   },
   {
-    "instruction": "Jika mahasiswa Akuntansi mengajukan beasiswa mitra (bayar Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 Akuntansi tepat Rp1.595.000, maka beasiswa mitra menutup seluruh biaya tanpa sisa. Ini berarti mahasiswa tidak perlu membayar apa pun di semester terakhir-mendukung kelulusan tepat waktu tanpa hambatan finansial."
+    "Q": "Jika mahasiswa Akuntansi mengajukan beasiswa mitra (bayar Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 Akuntansi tepat Rp1.595.000, maka beasiswa mitra menutup seluruh biaya tanpa sisa. Ini berarti mahasiswa tidak perlu membayar apa pun di semester terakhir-mendukung kelulusan tepat waktu tanpa hambatan finansial."
   },
   {
-    "instruction": "Apakah biaya Akuntansi bisa berubah selama masa studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin menghindari pinjaman pendidikan."
+    "Q": "Apakah biaya Akuntansi bisa berubah selama masa studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin menghindari pinjaman pendidikan."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Akuntansi?",
-    "response": "Rata-rata biaya per semester adalah Rp3.686.250, dihitung dari total Rp29.490.000 ÷ 8. Namun, 64% biaya (Rp18.830.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
+    "Q": "Berapa rata-rata biaya per semester untuk Akuntansi?",
+    "A": "Rata-rata biaya per semester adalah Rp3.686.250, dihitung dari total Rp29.490.000 ÷ 8. Namun, 64% biaya (Rp18.830.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
   },
   {
-    "instruction": "Apakah prodi Akuntansi bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp3.755.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi akuntansi-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Manajemen S1 - 11 Dataset"
+    "Q": "Apakah prodi Akuntansi bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp3.755.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi akuntansi-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Manajemen S1 - 11 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Manajemen di UNSIQ?",
-    "response": "Total biaya adalah Rp29.580.000, dihitung sebagai: Semester 1: Rp6.405.000 Semester 2: Rp5.405.000 Semester 3-6: 4 × Rp3.755.000 = Rp15.020.000 Semester 7: Rp2.945.000 Semester 8: Rp1.595.000 Jumlah: Rp6.405.000 + Rp5.405.000 + Rp15.020.000 + Rp2.945.000 + Rp1.595.000 = Rp29.580.000. Ini adalah prodi S1 termahal di antara semua yang disebutkan, mencerminkan investasi pada pelatihan kepemimpinan dan manajemen strategis."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Manajemen di UNSIQ?",
+    "A": "Total biaya adalah Rp29.580.000, dihitung sebagai: Semester 1: Rp6.405.000 Semester 2: Rp5.405.000 Semester 3-6: 4 × Rp3.755.000 = Rp15.020.000 Semester 7: Rp2.945.000 Semester 8: Rp1.595.000 Jumlah: Rp6.405.000 + Rp5.405.000 + Rp15.020.000 + Rp2.945.000 + Rp1.595.000 = Rp29.580.000. Ini adalah prodi S1 termahal di antara semua yang disebutkan, mencerminkan investasi pada pelatihan kepemimpinan dan manajemen strategis."
   },
   {
-    "instruction": "Mengapa biaya Manajemen lebih tinggi daripada Akuntansi?",
-    "response": "Manajemen memiliki total biaya Rp29.580.000, sedangkan Akuntansi Rp29.490.000-selisih Rp90.000, terutama di semester 1 (Rp6.405.000 vs Rp6.315.000). Perbedaan kecil ini mungkin mencerminkan kebutuhan tambahan seperti pelatihan soft skills, simulasi bisnis, atau akses ke platform manajemen global. Keduanya memiliki struktur biaya identik dari semester 2-8, menunjukkan keseragaman kebijakan fakultas."
+    "Q": "Mengapa biaya Manajemen lebih tinggi daripada Akuntansi?",
+    "A": "Manajemen memiliki total biaya Rp29.580.000, sedangkan Akuntansi Rp29.490.000-selisih Rp90.000, terutama di semester 1 (Rp6.405.000 vs Rp6.315.000). Perbedaan kecil ini mungkin mencerminkan kebutuhan tambahan seperti pelatihan soft skills, simulasi bisnis, atau akses ke platform manajemen global. Keduanya memiliki struktur biaya identik dari semester 2-8, menunjukkan keseragaman kebijakan fakultas."
   },
   {
-    "instruction": "Apakah Manajemen S1 memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi Baik Sekali, bukan Unggul, prodi ini masih memenuhi syarat standar KIP-Kuliah. Biaya tertingginya (Rp6.405.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025."
+    "Q": "Apakah Manajemen S1 memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi Baik Sekali, bukan Unggul, prodi ini masih memenuhi syarat standar KIP-Kuliah. Biaya tertingginya (Rp6.405.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Manajemen?",
-    "response": "Penghematan mencapai Rp4.810.000, yaitu selisih antara biaya semester 1 (Rp6.405.000) dan semester 8 (Rp1.595.000). Penurunan ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang menyusun business plan, magang di perusahaan, atau mempersiapkan startup-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Manajemen?",
+    "A": "Penghematan mencapai Rp4.810.000, yaitu selisih antara biaya semester 1 (Rp6.405.000) dan semester 8 (Rp1.595.000). Penurunan ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang menyusun business plan, magang di perusahaan, atau mempersiapkan startup-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Manajemen?",
-    "response": "Total biaya 4 semester pertama adalah Rp19.370.000, dihitung dari: Sem 1: Rp6.405.000 Sem 2: Rp5.405.000 Sem 3: Rp3.755.000 Sem 4: Rp3.755.000 Jumlah: Rp6.405.000 + Rp5.405.000 + Rp3.755.000 + Rp3.755.000 = Rp19.370.000. Ini adalah beban awal tertinggi di antara semua prodi, sehingga calon disarankan mengamankan sumber dana sebelum memulai studi."
+    "Q": "Berapa total biaya 4 semester pertama Manajemen?",
+    "A": "Total biaya 4 semester pertama adalah Rp19.370.000, dihitung dari: Sem 1: Rp6.405.000 Sem 2: Rp5.405.000 Sem 3: Rp3.755.000 Sem 4: Rp3.755.000 Jumlah: Rp6.405.000 + Rp5.405.000 + Rp3.755.000 + Rp3.755.000 = Rp19.370.000. Ini adalah beban awal tertinggi di antara semua prodi, sehingga calon disarankan mengamankan sumber dana sebelum memulai studi."
   },
   {
-    "instruction": "Apa keuntungan finansial Manajemen bagi penerima beasiswa mitra?",
-    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk Manajemen: Semester 8: biaya Rp1.595.000 → tidak bayar apa pun (beasiswa pas) Semester 7: biaya Rp2.945.000 → bayar selisih Rp1.350.000 Ini menjadikan semester akhir benar-benar bebas biaya, mendukung kelulusan tanpa tekanan finansial-terutama penting bagi calon wirausaha yang ingin fokus pada pengembangan usaha setelah lulus."
+    "Q": "Apa keuntungan finansial Manajemen bagi penerima beasiswa mitra?",
+    "A": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk Manajemen: Semester 8: biaya Rp1.595.000 → tidak bayar apa pun (beasiswa pas) Semester 7: biaya Rp2.945.000 → bayar selisih Rp1.350.000 Ini menjadikan semester akhir benar-benar bebas biaya, mendukung kelulusan tanpa tekanan finansial-terutama penting bagi calon wirausaha yang ingin fokus pada pengembangan usaha setelah lulus."
   },
   {
-    "instruction": "Bagaimana Manajemen mendukung karier wirausaha?",
-    "response": "Dengan total biaya Rp29.580.000 dan akreditasi Baik Sekali, prodi ini menawarkan pelatihan manajemen UMKM, inkubasi bisnis, dan jaringan mitra industri. Biaya terjangkau (jika dibandingkan PTS swasta besar), ditambah akses KIP-Kuliah, memungkinkan lulusan segera memulai usaha tanpa utang-mewujudkan visi UNSIQ mencetak pemimpin ekonomi yang berakhlak dan inovatif."
+    "Q": "Bagaimana Manajemen mendukung karier wirausaha?",
+    "A": "Dengan total biaya Rp29.580.000 dan akreditasi Baik Sekali, prodi ini menawarkan pelatihan manajemen UMKM, inkubasi bisnis, dan jaringan mitra industri. Biaya terjangkau (jika dibandingkan PTS swasta besar), ditambah akses KIP-Kuliah, memungkinkan lulusan segera memulai usaha tanpa utang-mewujudkan visi UNSIQ mencetak pemimpin ekonomi yang berakhlak dan inovatif."
   },
   {
-    "instruction": "Apakah biaya Manajemen termasuk pelatihan kewirausahaan?",
-    "response": "Ya, biaya semester 3-6 (Rp3.755.000) sudah mencakup modul kewirausahaan, simulasi bisnis, dan akses inkubator kampus. UNSIQ juga menyelenggarakan pelatihan gratis oleh wirausaha sukses dan mentor bisnis-sebagai bagian dari kurikulum MBKM. Ini memberikan keunggulan kompetitif tanpa biaya tambahan, menjadikan lulusan siap menjadi job creator, bukan job seeker."
+    "Q": "Apakah biaya Manajemen termasuk pelatihan kewirausahaan?",
+    "A": "Ya, biaya semester 3-6 (Rp3.755.000) sudah mencakup modul kewirausahaan, simulasi bisnis, dan akses inkubator kampus. UNSIQ juga menyelenggarakan pelatihan gratis oleh wirausaha sukses dan mentor bisnis-sebagai bagian dari kurikulum MBKM. Ini memberikan keunggulan kompetitif tanpa biaya tambahan, menjadikan lulusan siap menjadi job creator, bukan job seeker."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Manajemen?",
-    "response": "Rata-rata biaya per semester adalah Rp3.697.500, dihitung dari total Rp29.580.000 ÷ 8. Namun, 65% biaya (Rp19.370.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan keuangan awal-terutama karena prodi ini menawarkan banyak kegiatan eksternal (company visit, workshop) yang membutuhkan dana tambahan di luar SPP."
+    "Q": "Berapa rata-rata biaya per semester untuk Manajemen?",
+    "A": "Rata-rata biaya per semester adalah Rp3.697.500, dihitung dari total Rp29.580.000 ÷ 8. Namun, 65% biaya (Rp19.370.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan keuangan awal-terutama karena prodi ini menawarkan banyak kegiatan eksternal (company visit, workshop) yang membutuhkan dana tambahan di luar SPP."
   },
   {
-    "instruction": "Jika calon mendaftar Seleksi Mandiri PTS pada 15 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
-    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi sebelum 31 Oktober, seluruh biaya Manajemen (termasuk semester 1 Rp6.405.000) akan ditanggung pemerintah."
+    "Q": "Jika calon mendaftar Seleksi Mandiri PTS pada 15 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
+    "A": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi sebelum 31 Oktober, seluruh biaya Manajemen (termasuk semester 1 Rp6.405.000) akan ditanggung pemerintah."
   },
   {
-    "instruction": "Apa perbedaan utama biaya antara Akuntansi dan Manajemen?",
-    "response": "Perbedaan utama terletak pada biaya semester 1: Akuntansi: Rp6.315.000 Manajemen: Rp6.405.000 Selisih Rp90.000 mungkin mencerminkan alokasi dana berbeda: Akuntansi untuk lisensi software akuntansi, Manajemen untuk modul kepemimpinan atau pelatihan soft skills. Dari semester 2-8, biaya kedua prodi identik, menunjukkan kebijakan fakultas yang seragam untuk prodi ekonomi berakreditasi tinggi."
+    "Q": "Apa perbedaan utama biaya antara Akuntansi dan Manajemen?",
+    "A": "Perbedaan utama terletak pada biaya semester 1: Akuntansi: Rp6.315.000 Manajemen: Rp6.405.000 Selisih Rp90.000 mungkin mencerminkan alokasi dana berbeda: Akuntansi untuk lisensi software akuntansi, Manajemen untuk modul kepemimpinan atau pelatihan soft skills. Dari semester 2-8, biaya kedua prodi identik, menunjukkan kebijakan fakultas yang seragam untuk prodi ekonomi berakreditasi tinggi."
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Sastra Inggris di UNSIQ?",
-    "response": "Total biaya adalah Rp23.870.000, dihitung sebagai: Semester 1: Rp4.120.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp4.120.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp23.870.000. Prodi ini berakreditasi B, dan biayanya sangat terjangkau untuk lulusan yang ingin berkarier di bidang bahasa, sastra, atau pendidikan."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Sastra Inggris di UNSIQ?",
+    "A": "Total biaya adalah Rp23.870.000, dihitung sebagai: Semester 1: Rp4.120.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp4.120.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp23.870.000. Prodi ini berakreditasi B, dan biayanya sangat terjangkau untuk lulusan yang ingin berkarier di bidang bahasa, sastra, atau pendidikan."
   },
   {
-    "instruction": "Mengapa biaya semester 2 Sastra Inggris lebih tinggi daripada semester 1?",
-    "response": "Ini adalah pola unik: semester 2 (Rp4.270.000) memang lebih tinggi dari semester 1 (Rp4.120.000)-berbeda dari kebanyakan prodi. Kemungkinan besar, ini karena penyesuaian alokasi biaya non-rekuren: sebagian komponen awal (atribut, matrikulasi) dibayar di semester 1, sementara semester 2 mencakup biaya pelatihan bahasa intensif (TOEFL preparation, speaking lab) yang memerlukan sumber daya khusus. Meski tidak lazim, struktur ini tetap transparan dan konsisten."
+    "Q": "Mengapa biaya semester 2 Sastra Inggris lebih tinggi daripada semester 1?",
+    "A": "Ini adalah pola unik: semester 2 (Rp4.270.000) memang lebih tinggi dari semester 1 (Rp4.120.000)-berbeda dari kebanyakan prodi. Kemungkinan besar, ini karena penyesuaian alokasi biaya non-rekuren: sebagian komponen awal (atribut, matrikulasi) dibayar di semester 1, sementara semester 2 mencakup biaya pelatihan bahasa intensif (TOEFL preparation, speaking lab) yang memerlukan sumber daya khusus. Meski tidak lazim, struktur ini tetap transparan dan konsisten."
   },
   {
-    "instruction": "Apakah Sastra Inggris memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi B, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.270.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon disarankan mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+    "Q": "Apakah Sastra Inggris memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi B, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.270.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon disarankan mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
   },
   {
-    "instruction": "Berapa penghematan antara semester 2 dan semester 8 pada Sastra Inggris?",
-    "response": "Penghematan mencapai Rp3.075.000, yaitu selisih antara biaya semester 2 (Rp4.270.000) dan semester 8 (Rp1.195.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyusun tesis tentang sastra postkolonial, persiapan magang di lembaga budaya, atau ujian sertifikasi bahasa-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 2 dan semester 8 pada Sastra Inggris?",
+    "A": "Penghematan mencapai Rp3.075.000, yaitu selisih antara biaya semester 2 (Rp4.270.000) dan semester 8 (Rp1.195.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyusun tesis tentang sastra postkolonial, persiapan magang di lembaga budaya, atau ujian sertifikasi bahasa-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Sastra Inggris?",
-    "response": "Total biaya 4 semester pertama adalah Rp13.500.000, dihitung dari: Sem 1: Rp4.120.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp4.120.000 + Rp4.270.000 + Rp2.995.000 + Rp2.995.000 = Rp13.500.000. Ini adalah beban awal yang relatif ringan dibanding prodi eksakta, menjadikannya pilihan ideal bagi lulusan SMA Bahasa atau IPS."
+    "Q": "Berapa total biaya 4 semester pertama Sastra Inggris?",
+    "A": "Total biaya 4 semester pertama adalah Rp13.500.000, dihitung dari: Sem 1: Rp4.120.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp4.120.000 + Rp4.270.000 + Rp2.995.000 + Rp2.995.000 = Rp13.500.000. Ini adalah beban awal yang relatif ringan dibanding prodi eksakta, menjadikannya pilihan ideal bagi lulusan SMA Bahasa atau IPS."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon penerjemah, penulis, atau guru yang ingin segera mengikuti seleksi CPNS/P3K setelah lulus."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon penerjemah, penulis, atau guru yang ingin segera mengikuti seleksi CPNS/P3K setelah lulus."
   },
   {
-    "instruction": "Bagaimana skema biaya ini mendukung calon penerjemah atau penulis?",
-    "response": "Dengan total biaya Rp23.870.000, lulusan Sastra Inggris dapat segera berwirausaha sebagai penerjemah lepas, konten kreator, atau pengajar bahasa-tanpa terbebani utang. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pengembangan portofolio (blog, terjemahan, podcast) sejak dini. Ini menjadikan prodi ini sebagai investasi pendidikan dengan ROI tinggi di era digital yang membutuhkan literasi bahasa Inggris."
+    "Q": "Bagaimana skema biaya ini mendukung calon penerjemah atau penulis?",
+    "A": "Dengan total biaya Rp23.870.000, lulusan Sastra Inggris dapat segera berwirausaha sebagai penerjemah lepas, konten kreator, atau pengajar bahasa-tanpa terbebani utang. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pengembangan portofolio (blog, terjemahan, podcast) sejak dini. Ini menjadikan prodi ini sebagai investasi pendidikan dengan ROI tinggi di era digital yang membutuhkan literasi bahasa Inggris."
   },
   {
-    "instruction": "Jika mahasiswa mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 Sastra Inggris hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp400.000 yang tidak digunakan-menjadikan semester akhir benar-benar bebas biaya."
+    "Q": "Jika mahasiswa mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 Sastra Inggris hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp400.000 yang tidak digunakan-menjadikan semester akhir benar-benar bebas biaya."
   },
   {
-    "instruction": "Apakah biaya Sastra Inggris bisa berubah selama studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin mengikuti kursus tambahan (TOEFL/IELTS) di luar kampus."
+    "Q": "Apakah biaya Sastra Inggris bisa berubah selama studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin mengikuti kursus tambahan (TOEFL/IELTS) di luar kampus."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Sastra Inggris?",
-    "response": "Rata-rata biaya per semester adalah Rp2.983.750, dihitung dari total Rp23.870.000 ÷ 8. Namun, 57% biaya (Rp13.500.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan realistis-terutama bagi calon dari keluarga menengah ke bawah yang ingin menghindari pinjaman pendidikan."
+    "Q": "Berapa rata-rata biaya per semester untuk Sastra Inggris?",
+    "A": "Rata-rata biaya per semester adalah Rp2.983.750, dihitung dari total Rp23.870.000 ÷ 8. Namun, 57% biaya (Rp13.500.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan realistis-terutama bagi calon dari keluarga menengah ke bawah yang ingin menghindari pinjaman pendidikan."
   },
   {
-    "instruction": "Mengapa semester 2 lebih mahal? Apakah ini kesalahan cetak?",
-    "response": "Bukan kesalahan, melainkan kebijakan khusus. Kemungkinan besar, semester 2 mencakup biaya pelatihan intensif bahasa Inggris (listening lab, speaking club, writing workshop) yang memerlukan instruktur tambahan atau lisensi software-sehingga biayanya sedikit lebih tinggi daripada semester 1 yang lebih fokus pada orientasi dan matrikulasi umum. Ini menunjukkan komitmen UNSIQ pada kualitas output linguistik lulusan. 🔹 Teknik Sipil S1 - 11 Dataset"
+    "Q": "Mengapa semester 2 lebih mahal? Apakah ini kesalahan cetak?",
+    "A": "Bukan kesalahan, melainkan kebijakan khusus. Kemungkinan besar, semester 2 mencakup biaya pelatihan intensif bahasa Inggris (listening lab, speaking club, writing workshop) yang memerlukan instruktur tambahan atau lisensi software-sehingga biayanya sedikit lebih tinggi daripada semester 1 yang lebih fokus pada orientasi dan matrikulasi umum. Ini menunjukkan komitmen UNSIQ pada kualitas output linguistik lulusan. 🔹 Teknik Sipil S1 - 11 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Teknik Sipil di UNSIQ?",
-    "response": "Total biaya adalah Rp23.870.000, dihitung sebagai: Semester 1: Rp4.120.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp23.870.000-identik dengan Sastra Inggris. Meski berbeda bidang, struktur biaya ini menunjukkan kebijakan fakultas yang seragam untuk prodi berakreditasi Baik, dengan penyesuaian berdasarkan kebutuhan operasional masing-masing."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Teknik Sipil di UNSIQ?",
+    "A": "Total biaya adalah Rp23.870.000, dihitung sebagai: Semester 1: Rp4.120.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp23.870.000-identik dengan Sastra Inggris. Meski berbeda bidang, struktur biaya ini menunjukkan kebijakan fakultas yang seragam untuk prodi berakreditasi Baik, dengan penyesuaian berdasarkan kebutuhan operasional masing-masing."
   },
   {
-    "instruction": "Mengapa Teknik Sipil memiliki pola biaya sama dengan Sastra Inggris?",
-    "response": "Karena keduanya berakreditasi Baik dan berada dalam skema biaya fakultas yang diselaraskan oleh UNSIQ. Meski Teknik Sipil memerlukan laboratorium dan praktikum lapangan, biaya tersebut tampaknya sudah dialokasikan dalam komponen semester 2 (Rp4.270.000), yang mungkin mencakup pelatihan CAD, survey lapangan, atau software teknik-menjaga total biaya tetap kompetitif dibanding PTS lain."
+    "Q": "Mengapa Teknik Sipil memiliki pola biaya sama dengan Sastra Inggris?",
+    "A": "Karena keduanya berakreditasi Baik dan berada dalam skema biaya fakultas yang diselaraskan oleh UNSIQ. Meski Teknik Sipil memerlukan laboratorium dan praktikum lapangan, biaya tersebut tampaknya sudah dialokasikan dalam komponen semester 2 (Rp4.270.000), yang mungkin mencakup pelatihan CAD, survey lapangan, atau software teknik-menjaga total biaya tetap kompetitif dibanding PTS lain."
   },
   {
-    "instruction": "Apakah Teknik Sipil memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena biaya tertingginya (Rp4.270.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Meski berakreditasi Baik, prodi ini masih memenuhi syarat karena UNSIQ berstatus institusi Unggul. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
+    "Q": "Apakah Teknik Sipil memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena biaya tertingginya (Rp4.270.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Meski berakreditasi Baik, prodi ini masih memenuhi syarat karena UNSIQ berstatus institusi Unggul. Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
   },
   {
-    "instruction": "Berapa biaya semester 8 Teknik Sipil, dan apa maknanya?",
-    "response": "Biaya semester 8 hanya Rp1.195.000-sama dengan Sastra Inggris. Ini mencerminkan komitmen UNSIQ untuk menghilangkan hambatan finansial di akhir studi, saat mahasiswa sedang menyelesaikan gambar detail tugas akhir, magang di kontraktor, atau persiapan uji kompetensi keinsinyuran-dengan pendapatan yang belum stabil."
+    "Q": "Berapa biaya semester 8 Teknik Sipil, dan apa maknanya?",
+    "A": "Biaya semester 8 hanya Rp1.195.000-sama dengan Sastra Inggris. Ini mencerminkan komitmen UNSIQ untuk menghilangkan hambatan finansial di akhir studi, saat mahasiswa sedang menyelesaikan gambar detail tugas akhir, magang di kontraktor, atau persiapan uji kompetensi keinsinyuran-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Teknik Sipil?",
-    "response": "Total biaya 4 semester pertama adalah Rp13.500.000, dihitung dari: Sem 1: Rp4.120.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp13.500.000-identik dengan Sastra Inggris. Ini menunjukkan bahwa UNSIQ menerapkan biaya awal yang terjangkau bahkan untuk prodi teknik, membuat pendidikan teknik benar-benar inklusif bagi lulusan IPA dari keluarga kurang mampu."
+    "Q": "Berapa total biaya 4 semester pertama Teknik Sipil?",
+    "A": "Total biaya 4 semester pertama adalah Rp13.500.000, dihitung dari: Sem 1: Rp4.120.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp13.500.000-identik dengan Sastra Inggris. Ini menunjukkan bahwa UNSIQ menerapkan biaya awal yang terjangkau bahkan untuk prodi teknik, membuat pendidikan teknik benar-benar inklusif bagi lulusan IPA dari keluarga kurang mampu."
   },
   {
-    "instruction": "Apa keuntungan finansial Teknik Sipil bagi penerima beasiswa mitra?",
-    "response": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk Teknik Sipil: Semester 8: biaya Rp1.195.000 → tidak bayar apa pun Semester 7: biaya Rp2.320.000 → bayar selisih Rp725.000 Ini menjadikan prodi ini sangat hemat di semester akhir-mendukung kelulusan tepat waktu untuk segera bekerja di proyek infrastruktur pemerintah atau swasta."
+    "Q": "Apa keuntungan finansial Teknik Sipil bagi penerima beasiswa mitra?",
+    "A": "Penerima beasiswa mitra membayar Rp1.595.000/semester. Untuk Teknik Sipil: Semester 8: biaya Rp1.195.000 → tidak bayar apa pun Semester 7: biaya Rp2.320.000 → bayar selisih Rp725.000 Ini menjadikan prodi ini sangat hemat di semester akhir-mendukung kelulusan tepat waktu untuk segera bekerja di proyek infrastruktur pemerintah atau swasta."
   },
   {
-    "instruction": "Berapa penghematan antara semester 2 dan semester 8 Teknik Sipil?",
-    "response": "Penghematan mencapai Rp3.075.000, yaitu selisih antara biaya semester 2 (Rp4.270.000) dan semester 8 (Rp1.195.000). Penurunan ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang magang di Dinas PUPR atau kontraktor-yang sering kali hanya mendapat uang transport-sehingga tetap mampu menyelesaikan studi tanpa tekanan finansial."
+    "Q": "Berapa penghematan antara semester 2 dan semester 8 Teknik Sipil?",
+    "A": "Penghematan mencapai Rp3.075.000, yaitu selisih antara biaya semester 2 (Rp4.270.000) dan semester 8 (Rp1.195.000). Penurunan ini dirancang untuk mendukung mahasiswa yang di semester akhir sedang magang di Dinas PUPR atau kontraktor-yang sering kali hanya mendapat uang transport-sehingga tetap mampu menyelesaikan studi tanpa tekanan finansial."
   },
   {
-    "instruction": "Bagaimana Teknik Sipil mendukung karier di sektor infrastruktur?",
-    "response": "Dengan total biaya hanya Rp23.870.000, lulusan Teknik Sipil UNSIQ siap bekerja di proyek pemerintah (PUPR, Bappenas) atau BUMN konstruksi. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan sertifikasi (seperti SKA dari LPJK) tanpa utang-menjawab kebutuhan SDM infrastruktur di era pembangunan IKN dan desa mandiri."
+    "Q": "Bagaimana Teknik Sipil mendukung karier di sektor infrastruktur?",
+    "A": "Dengan total biaya hanya Rp23.870.000, lulusan Teknik Sipil UNSIQ siap bekerja di proyek pemerintah (PUPR, Bappenas) atau BUMN konstruksi. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan sertifikasi (seperti SKA dari LPJK) tanpa utang-menjawab kebutuhan SDM infrastruktur di era pembangunan IKN dan desa mandiri."
   },
   {
-    "instruction": "Apakah biaya Teknik Sipil termasuk praktikum lapangan?",
-    "response": "Ya, biaya semester 2 (Rp4.270.000) kemungkinan besar mencakup praktikum survey lapangan, pengujian material, dan pelatihan software teknik (AutoCAD, SAP2000). UNSIQ juga memiliki mitra dengan Dinas PUPR dan kontraktor lokal untuk magang gratis-sehingga mahasiswa tidak dikenai biaya tambahan saat turun lapangan. Ini memberikan keunggulan kompetitif dalam portofolio kerja."
+    "Q": "Apakah biaya Teknik Sipil termasuk praktikum lapangan?",
+    "A": "Ya, biaya semester 2 (Rp4.270.000) kemungkinan besar mencakup praktikum survey lapangan, pengujian material, dan pelatihan software teknik (AutoCAD, SAP2000). UNSIQ juga memiliki mitra dengan Dinas PUPR dan kontraktor lokal untuk magang gratis-sehingga mahasiswa tidak dikenai biaya tambahan saat turun lapangan. Ini memberikan keunggulan kompetitif dalam portofolio kerja."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Teknik Sipil?",
-    "response": "Rata-rata biaya per semester adalah Rp2.983.750, dihitung dari total Rp23.870.000 ÷ 8. Meski prodi teknik, biayanya lebih rendah daripada rata-rata nasional, berkat kebijakan subsidi silang UNSIQ. Ini menjadikan Teknik Sipil UNSIQ sebagai salah satu pilihan paling ekonomis untuk lulusan IPA yang ingin berkarier di sektor konstruksi."
+    "Q": "Berapa rata-rata biaya per semester untuk Teknik Sipil?",
+    "A": "Rata-rata biaya per semester adalah Rp2.983.750, dihitung dari total Rp23.870.000 ÷ 8. Meski prodi teknik, biayanya lebih rendah daripada rata-rata nasional, berkat kebijakan subsidi silang UNSIQ. Ini menjadikan Teknik Sipil UNSIQ sebagai salah satu pilihan paling ekonomis untuk lulusan IPA yang ingin berkarier di sektor konstruksi."
   },
   {
-    "instruction": "Jika calon mendaftar Seleksi Mandiri PTS pada 25 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
-    "response": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi sebelum 31 Oktober, seluruh biaya Teknik Sipil (termasuk semester 2 Rp4.270.000) akan ditanggung pemerintah."
+    "Q": "Jika calon mendaftar Seleksi Mandiri PTS pada 25 Oktober 2025, apakah masih bisa dapat KIP-Kuliah?",
+    "A": "Ya, karena pendaftaran KIP-Kuliah dibuka hingga 31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025 (sesuai jadwal resmi di kip-kuliah.kemdikbud.go.id). Calon bisa mendaftar KIP-Kuliah terlebih dahulu, lalu mendaftar Mandiri PTS-atau sebaliknya. Asalkan diterima di UNSIQ dan lolos verifikasi sebelum 31 Oktober, seluruh biaya Teknik Sipil (termasuk semester 2 Rp4.270.000) akan ditanggung pemerintah."
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Teknik Mesin di UNSIQ?",
-    "response": "Total biaya adalah Rp22.865.000, dihitung sebagai: Semester 1: Rp4.815.000 Semester 2: Rp3.825.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.815.000 + Rp3.825.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp22.865.000. Ini adalah salah satu prodi teknik termurah di UNSIQ berakreditasi Baik, menjadikannya pilihan sangat ekonomis bagi lulusan IPA."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Teknik Mesin di UNSIQ?",
+    "A": "Total biaya adalah Rp22.865.000, dihitung sebagai: Semester 1: Rp4.815.000 Semester 2: Rp3.825.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.815.000 + Rp3.825.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp22.865.000. Ini adalah salah satu prodi teknik termurah di UNSIQ berakreditasi Baik, menjadikannya pilihan sangat ekonomis bagi lulusan IPA."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Teknik Mesin lebih tinggi?",
-    "response": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan alat praktikum dasar (seperti jangka sorong, kunci pas, alat ukur) yang hanya dibayar sekali. Biaya ini sebesar Rp4.815.000, turun menjadi Rp3.825.000 di semester 2, lalu stabil di Rp2.675.000 mulai semester 3-6. Struktur ini memastikan mahasiswa memiliki peralatan wajib sejak awal tanpa biaya tambahan di laboratorium."
+    "Q": "Mengapa biaya semester 1 Teknik Mesin lebih tinggi?",
+    "A": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan alat praktikum dasar (seperti jangka sorong, kunci pas, alat ukur) yang hanya dibayar sekali. Biaya ini sebesar Rp4.815.000, turun menjadi Rp3.825.000 di semester 2, lalu stabil di Rp2.675.000 mulai semester 3-6. Struktur ini memastikan mahasiswa memiliki peralatan wajib sejak awal tanpa biaya tambahan di laboratorium."
   },
   {
-    "instruction": "Apakah Teknik Mesin memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.815.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
+    "Q": "Apakah Teknik Mesin memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.815.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi (SNBP, SNBT, atau Mandiri PTS)."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Teknik Mesin?",
-    "response": "Penghematan mencapai Rp3.820.000, yaitu selisih antara biaya semester 1 (Rp4.815.000) dan semester 8 (Rp995.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang magang di bengkel industri, pabrik, atau persiapan uji kompetensi teknisi-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Teknik Mesin?",
+    "A": "Penghematan mencapai Rp3.820.000, yaitu selisih antara biaya semester 1 (Rp4.815.000) dan semester 8 (Rp995.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang magang di bengkel industri, pabrik, atau persiapan uji kompetensi teknisi-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Teknik Mesin?",
-    "response": "Total biaya 4 semester pertama adalah Rp15.130.000, dihitung dari: Sem 1: Rp4.815.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.815.000 + Rp3.825.000 + Rp2.675.000 + Rp2.675.000 = Rp15.130.000. Ini menjadi beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
+    "Q": "Berapa total biaya 4 semester pertama Teknik Mesin?",
+    "A": "Total biaya 4 semester pertama adalah Rp15.130.000, dihitung dari: Sem 1: Rp4.815.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.815.000 + Rp3.825.000 + Rp2.675.000 + Rp2.675.000 = Rp15.130.000. Ini menjadi beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah atau beasiswa sebelum memulai studi."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp995.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka terendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon teknisi yang ingin segera bekerja di sektor manufaktur atau energi setelah lulus."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp995.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka terendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon teknisi yang ingin segera bekerja di sektor manufaktur atau energi setelah lulus."
   },
   {
-    "instruction": "Bagaimana skema biaya ini mendukung calon teknisi industri?",
-    "response": "Dengan total biaya Rp22.865.000, lulusan Teknik Mesin dapat segera bekerja di pabrik, bengkel industri, atau PLN tanpa utang pendidikan. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pelatihan teknis selama studi. Ini menjadikan prodi ini sebagai investasi sangat rasional bagi lulusan IPA dari keluarga menengah ke bawah yang ingin berkarier di sektor riil."
+    "Q": "Bagaimana skema biaya ini mendukung calon teknisi industri?",
+    "A": "Dengan total biaya Rp22.865.000, lulusan Teknik Mesin dapat segera bekerja di pabrik, bengkel industri, atau PLN tanpa utang pendidikan. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pelatihan teknis selama studi. Ini menjadikan prodi ini sebagai investasi sangat rasional bagi lulusan IPA dari keluarga menengah ke bawah yang ingin berkarier di sektor riil."
   },
   {
-    "instruction": "Jika mahasiswa mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 Teknik Mesin hanya Rp995.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp600.000 yang tidak digunakan-menjadikan semester akhir benar-benar bebas biaya."
+    "Q": "Jika mahasiswa mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 Teknik Mesin hanya Rp995.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp600.000 yang tidak digunakan-menjadikan semester akhir benar-benar bebas biaya."
   },
   {
-    "instruction": "Apakah biaya Teknik Mesin bisa berubah selama studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin mengikuti pelatihan teknisi bersertifikat di luar kampus."
+    "Q": "Apakah biaya Teknik Mesin bisa berubah selama studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang-penting bagi calon yang ingin mengikuti pelatihan teknisi bersertifikat di luar kampus."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Teknik Mesin?",
-    "response": "Rata-rata biaya per semester adalah Rp2.858.125, dihitung dari total Rp22.865.000 ÷ 8. Namun, 66% biaya (Rp15.130.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
+    "Q": "Berapa rata-rata biaya per semester untuk Teknik Mesin?",
+    "A": "Rata-rata biaya per semester adalah Rp2.858.125, dihitung dari total Rp22.865.000 ÷ 8. Namun, 66% biaya (Rp15.130.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan dana awal atau pengajuan KIP-Kuliah sebelum semester pertama dimulai."
   },
   {
-    "instruction": "Apakah prodi Teknik Mesin bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.675.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi teknis-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Keperawatan S1 - 11 Dataset"
+    "Q": "Apakah prodi Teknik Mesin bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.675.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi teknis-sesuai semangat Merdeka Belajar Kampus Merdeka (MBKM). 🔹 Keperawatan S1 - 11 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Keperawatan di UNSIQ?",
-    "response": "Total biaya adalah Rp70.170.000, dihitung sebagai: Semester 1: Rp15.095.000 Semester 2: Rp10.895.000 Semester 3-7: 5 × Rp7.495.000 = Rp37.475.000 Semester 8: Rp5.095.000 Jumlah: Rp15.095.000 + Rp10.895.000 + Rp37.475.000 + Rp5.095.000 = Rp70.170.000. Ini adalah prodi S1 termahal di antara semua yang disebutkan, mencerminkan kebutuhan laboratorium klinis, manekin simulasi, dan pelatihan intensif yang mahal dan wajib untuk profesi kesehatan."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Keperawatan di UNSIQ?",
+    "A": "Total biaya adalah Rp70.170.000, dihitung sebagai: Semester 1: Rp15.095.000 Semester 2: Rp10.895.000 Semester 3-7: 5 × Rp7.495.000 = Rp37.475.000 Semester 8: Rp5.095.000 Jumlah: Rp15.095.000 + Rp10.895.000 + Rp37.475.000 + Rp5.095.000 = Rp70.170.000. Ini adalah prodi S1 termahal di antara semua yang disebutkan, mencerminkan kebutuhan laboratorium klinis, manekin simulasi, dan pelatihan intensif yang mahal dan wajib untuk profesi kesehatan."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Keperawatan sangat tinggi?",
-    "response": "Karena semester 1 mencakup biaya investasi besar: atribut seragam medis, sepatu khusus, stetoskop, alat praktikum, matrikulasi klinis, dan akses penuh ke Laboratorium Keperawatan berteknologi ICU simulasi. Biaya sebesar Rp15.095.000 mencerminkan standar profesi kesehatan yang ketat-di mana kesiapan alat dan pelatihan langsung sangat krusial sejak hari pertama."
+    "Q": "Mengapa biaya semester 1 Keperawatan sangat tinggi?",
+    "A": "Karena semester 1 mencakup biaya investasi besar: atribut seragam medis, sepatu khusus, stetoskop, alat praktikum, matrikulasi klinis, dan akses penuh ke Laboratorium Keperawatan berteknologi ICU simulasi. Biaya sebesar Rp15.095.000 mencerminkan standar profesi kesehatan yang ketat-di mana kesiapan alat dan pelatihan langsung sangat krusial sejak hari pertama."
   },
   {
-    "instruction": "Apakah Keperawatan S1 memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena berakreditasi Baik Sekali dan meskipun biayanya tinggi, masih di bawah plafon KIP-Kuliah (Rp12.000.000/semester) untuk semester 2-8. Namun, untuk semester 1 (Rp15.095.000), KIP-Kuliah hanya menanggung Rp12.000.000, sehingga mahasiswa perlu membayar selisih Rp3.095.000. Calon disarankan menyiapkan dana tambahan untuk semester pertama atau mengajukan bantuan dana awal dari kampus."
+    "Q": "Apakah Keperawatan S1 memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena berakreditasi Baik Sekali dan meskipun biayanya tinggi, masih di bawah plafon KIP-Kuliah (Rp12.000.000/semester) untuk semester 2-8. Namun, untuk semester 1 (Rp15.095.000), KIP-Kuliah hanya menanggung Rp12.000.000, sehingga mahasiswa perlu membayar selisih Rp3.095.000. Calon disarankan menyiapkan dana tambahan untuk semester pertama atau mengajukan bantuan dana awal dari kampus."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Keperawatan?",
-    "response": "Penghematan mencapai Rp10.000.000, yaitu selisih antara biaya semester 1 (Rp15.095.000) dan semester 8 (Rp5.095.000). Penurunan ini tetap signifikan, meski biaya akhir masih relatif tinggi karena semester 8 mencakup biaya uji kompetensi nasional (UKN) dan sertifikasi profesi-yang wajib untuk memperoleh STR (Surat Tanda Registrasi) sebagai perawat profesional."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Keperawatan?",
+    "A": "Penghematan mencapai Rp10.000.000, yaitu selisih antara biaya semester 1 (Rp15.095.000) dan semester 8 (Rp5.095.000). Penurunan ini tetap signifikan, meski biaya akhir masih relatif tinggi karena semester 8 mencakup biaya uji kompetensi nasional (UKN) dan sertifikasi profesi-yang wajib untuk memperoleh STR (Surat Tanda Registrasi) sebagai perawat profesional."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Keperawatan?",
-    "response": "Total biaya 4 semester pertama adalah Rp43.580.000, dihitung dari: Sem 1: Rp15.095.000 Sem 2: Rp10.895.000 Sem 3: Rp7.495.000 Sem 4: Rp7.495.000 Jumlah: Rp15.095.000 + Rp10.895.000 + Rp7.495.000 + Rp7.495.000 = Rp43.580.000. Ini adalah beban awal sangat berat, sehingga calon harus mengamankan KIP-Kuliah atau beasiswa khusus kesehatan sebelum mendaftar."
+    "Q": "Berapa total biaya 4 semester pertama Keperawatan?",
+    "A": "Total biaya 4 semester pertama adalah Rp43.580.000, dihitung dari: Sem 1: Rp15.095.000 Sem 2: Rp10.895.000 Sem 3: Rp7.495.000 Sem 4: Rp7.495.000 Jumlah: Rp15.095.000 + Rp10.895.000 + Rp7.495.000 + Rp7.495.000 = Rp43.580.000. Ini adalah beban awal sangat berat, sehingga calon harus mengamankan KIP-Kuliah atau beasiswa khusus kesehatan sebelum mendaftar."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp5.095.000?",
-    "response": "Biaya ini mencakup administrasi kelulusan, wisuda, dan uji kompetensi profesi (UKN)-bukan hanya SPP biasa. UNSIQ memasukkan biaya UKN dalam struktur ini untuk memastikan mahasiswa tidak terkendala administratif saat mendaftar STR. Meski tinggi, angka ini jauh lebih murah daripada membayar UKN secara mandiri di luar kampus, karena UNSIQ menanggung sebagian biaya melalui subsidi silang."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp5.095.000?",
+    "A": "Biaya ini mencakup administrasi kelulusan, wisuda, dan uji kompetensi profesi (UKN)-bukan hanya SPP biasa. UNSIQ memasukkan biaya UKN dalam struktur ini untuk memastikan mahasiswa tidak terkendala administratif saat mendaftar STR. Meski tinggi, angka ini jauh lebih murah daripada membayar UKN secara mandiri di luar kampus, karena UNSIQ menanggung sebagian biaya melalui subsidi silang."
   },
   {
-    "instruction": "Bagaimana Keperawatan mendukung karier di sektor kesehatan?",
-    "response": "Dengan total biaya Rp70.170.000 dan akreditasi Baik Sekali, lulusan siap bekerja di rumah sakit, puskesmas, atau klinik internasional. Biaya tinggi mencerminkan investasi pada kompetensi klinis mutlak-melalui simulasi ICU, manekin interaktif, dan magang intensif. Meski mahal, ROI-nya sangat tinggi karena permintaan perawat terus meningkat, dan gaji awal cukup untuk mengembalikan investasi dalam 2-3 tahun kerja."
+    "Q": "Bagaimana Keperawatan mendukung karier di sektor kesehatan?",
+    "A": "Dengan total biaya Rp70.170.000 dan akreditasi Baik Sekali, lulusan siap bekerja di rumah sakit, puskesmas, atau klinik internasional. Biaya tinggi mencerminkan investasi pada kompetensi klinis mutlak-melalui simulasi ICU, manekin interaktif, dan magang intensif. Meski mahal, ROI-nya sangat tinggi karena permintaan perawat terus meningkat, dan gaji awal cukup untuk mengembalikan investasi dalam 2-3 tahun kerja."
   },
   {
-    "instruction": "Jika mahasiswa Keperawatan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
-    "response": "KIP-Kuliah menanggung maksimal Rp12.000.000/semester. Karena biaya semester 1 Keperawatan Rp15.095.000, mahasiswa harus membayar selisih Rp3.095.000. Untuk semester 2-8, KIP-Kuliah menanggung 100% biaya, karena biaya semester 2 (Rp10.895.000) dan seterusnya di bawah Rp12.000.000. Ini menjadikan KIP-Kuliah sangat krusial untuk aksesibilitas prodi ini bagi keluarga kurang mampu."
+    "Q": "Jika mahasiswa Keperawatan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
+    "A": "KIP-Kuliah menanggung maksimal Rp12.000.000/semester. Karena biaya semester 1 Keperawatan Rp15.095.000, mahasiswa harus membayar selisih Rp3.095.000. Untuk semester 2-8, KIP-Kuliah menanggung 100% biaya, karena biaya semester 2 (Rp10.895.000) dan seterusnya di bawah Rp12.000.000. Ini menjadikan KIP-Kuliah sangat krusial untuk aksesibilitas prodi ini bagi keluarga kurang mampu."
   },
   {
-    "instruction": "Apakah biaya Keperawatan termasuk pelatihan UKN?",
-    "response": "Ya, biaya semester 7-8 sudah mencakup pelatihan intensif dan try out Uji Kompetensi Nasional (UKN). UNSIQ menyediakan pendampingan khusus oleh perawat senior dan dosen klinis untuk memastikan kelulusan UKN-yang tingkat kelulusannya di UNSIQ sangat tinggi. Ini menghindarkan mahasiswa dari biaya pelatihan eksternal yang bisa mencapai jutaan rupiah."
+    "Q": "Apakah biaya Keperawatan termasuk pelatihan UKN?",
+    "A": "Ya, biaya semester 7-8 sudah mencakup pelatihan intensif dan try out Uji Kompetensi Nasional (UKN). UNSIQ menyediakan pendampingan khusus oleh perawat senior dan dosen klinis untuk memastikan kelulusan UKN-yang tingkat kelulusannya di UNSIQ sangat tinggi. Ini menghindarkan mahasiswa dari biaya pelatihan eksternal yang bisa mencapai jutaan rupiah."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Keperawatan?",
-    "response": "Rata-rata biaya per semester adalah Rp8.771.250, dihitung dari total Rp70.170.000 ÷ 8. Namun, 62% biaya (Rp43.580.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan finansial matang atau pengajuan KIP-Kuliah sebelum pendaftaran, karena beban awal sangat berat dibanding prodi lain."
+    "Q": "Berapa rata-rata biaya per semester untuk Keperawatan?",
+    "A": "Rata-rata biaya per semester adalah Rp8.771.250, dihitung dari total Rp70.170.000 ÷ 8. Namun, 62% biaya (Rp43.580.000) dibayar dalam 4 semester pertama. Ini menekankan pentingnya persiapan finansial matang atau pengajuan KIP-Kuliah sebelum pendaftaran, karena beban awal sangat berat dibanding prodi lain."
   },
   {
-    "instruction": "Apakah KIP-Kuliah menerima pendaftar Keperawatan melalui Seleksi Mandiri PTS?",
-    "response": "Ya, selama pendaftaran KIP-Kuliah dilakukan sebelum atau bersamaan dengan pendaftaran Mandiri PTS. Pendaftaran KIP-Kuliah dibuka 4 Februari-31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS dan lolos verifikasi KIP-Kuliah tetap berhak atas bantuan-meski harus menanggung selisih biaya semester 1 sebesar Rp3.095.000."
+    "Q": "Apakah KIP-Kuliah menerima pendaftar Keperawatan melalui Seleksi Mandiri PTS?",
+    "A": "Ya, selama pendaftaran KIP-Kuliah dilakukan sebelum atau bersamaan dengan pendaftaran Mandiri PTS. Pendaftaran KIP-Kuliah dibuka 4 Februari-31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS dan lolos verifikasi KIP-Kuliah tetap berhak atas bantuan-meski harus menanggung selisih biaya semester 1 sebesar Rp3.095.000."
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Ilmu Politik di UNSIQ?",
-    "response": "Total biaya adalah Rp23.315.000, dihitung sebagai: Semester 1: Rp4.235.000 Semester 2: Rp3.375.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.315.000. Prodi ini berakreditasi Baik, dan biayanya sangat terjangkau untuk calon yang ingin berkarier di sektor publik atau LSM."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Ilmu Politik di UNSIQ?",
+    "A": "Total biaya adalah Rp23.315.000, dihitung sebagai: Semester 1: Rp4.235.000 Semester 2: Rp3.375.000 Semester 3-6: 4 × Rp2.675.000 = Rp10.700.000 Semester 7: Rp2.045.000 Semester 8: Rp995.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp10.700.000 + Rp2.045.000 + Rp995.000 = Rp23.315.000. Prodi ini berakreditasi Baik, dan biayanya sangat terjangkau untuk calon yang ingin berkarier di sektor publik atau LSM."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Ilmu Politik lebih tinggi daripada semester berikutnya?",
-    "response": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp4.235.000, turun menjadi Rp3.375.000 di semester 2, lalu stabil di Rp2.675.000 mulai semester 3-6. Struktur ini membantu kampus menutup biaya awal sekaligus memberi kepastian finansial jangka panjang bagi mahasiswa."
+    "Q": "Mengapa biaya semester 1 Ilmu Politik lebih tinggi daripada semester berikutnya?",
+    "A": "Karena semester 1 mencakup biaya non-rekuren: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya ini sebesar Rp4.235.000, turun menjadi Rp3.375.000 di semester 2, lalu stabil di Rp2.675.000 mulai semester 3-6. Struktur ini membantu kampus menutup biaya awal sekaligus memberi kepastian finansial jangka panjang bagi mahasiswa."
   },
   {
-    "instruction": "Apakah Ilmu Politik memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.235.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
+    "Q": "Apakah Ilmu Politik memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Selain itu, biaya tertingginya (Rp4.235.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Calon harus mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ saat mendaftar jalur seleksi."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Ilmu Politik?",
-    "response": "Penghematan mencapai Rp3.240.000, yaitu selisih antara biaya semester 1 (Rp4.235.000) dan semester 8 (Rp995.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyusun skripsi tentang kebijakan publik atau magang di lembaga pemerintah-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Ilmu Politik?",
+    "A": "Penghematan mencapai Rp3.240.000, yaitu selisih antara biaya semester 1 (Rp4.235.000) dan semester 8 (Rp995.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyusun skripsi tentang kebijakan publik atau magang di lembaga pemerintah-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Ilmu Politik?",
-    "response": "Total biaya 4 semester pertama adalah Rp13.860.000, dihitung dari: Sem 1: Rp4.235.000 Sem 2: Rp3.375.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp2.675.000 + Rp2.675.000 = Rp13.860.000. Ini menjadi beban finansial awal yang ringan, menjadikannya pilihan ideal bagi lulusan IPS yang ingin berkarier di sektor sosial-politik."
+    "Q": "Berapa total biaya 4 semester pertama Ilmu Politik?",
+    "A": "Total biaya 4 semester pertama adalah Rp13.860.000, dihitung dari: Sem 1: Rp4.235.000 Sem 2: Rp3.375.000 Sem 3: Rp2.675.000 Sem 4: Rp2.675.000 Jumlah: Rp4.235.000 + Rp3.375.000 + Rp2.675.000 + Rp2.675.000 = Rp13.860.000. Ini menjadi beban finansial awal yang ringan, menjadikannya pilihan ideal bagi lulusan IPS yang ingin berkarier di sektor sosial-politik."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp995.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka terendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon staf legislatif atau aktivis LSM yang ingin segera terjun ke lapangan setelah lulus."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp995.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ sengaja menetapkan angka terendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon staf legislatif atau aktivis LSM yang ingin segera terjun ke lapangan setelah lulus."
   },
   {
-    "instruction": "Bagaimana skema biaya ini mendukung calon aktivis atau politisi muda?",
-    "response": "Dengan total biaya Rp23.315.000, lulusan Ilmu Politik dapat segera terlibat dalam organisasi kemasyarakatan, partai politik, atau pemerintahan daerah tanpa terbebani utang. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pengembangan jaringan dan kapasitas kepemimpinan sejak dini-mewujudkan visi UNSIQ mencetak pemimpin sosial yang berintegritas."
+    "Q": "Bagaimana skema biaya ini mendukung calon aktivis atau politisi muda?",
+    "A": "Dengan total biaya Rp23.315.000, lulusan Ilmu Politik dapat segera terlibat dalam organisasi kemasyarakatan, partai politik, atau pemerintahan daerah tanpa terbebani utang. Biaya terjangkau, ditambah akses KIP-Kuliah, memungkinkan fokus pada pengembangan jaringan dan kapasitas kepemimpinan sejak dini-mewujudkan visi UNSIQ mencetak pemimpin sosial yang berintegritas."
   },
   {
-    "instruction": "Jika mahasiswa Ilmu Politik mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 Ilmu Politik hanya Rp995.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp600.000-menjadikan semester akhir benar-benar bebas biaya."
+    "Q": "Jika mahasiswa Ilmu Politik mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 Ilmu Politik hanya Rp995.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa. Bahkan, terdapat sisa anggaran Rp600.000-menjadikan semester akhir benar-benar bebas biaya."
   },
   {
-    "instruction": "Apakah biaya Ilmu Politik bisa berubah selama studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang."
+    "Q": "Apakah biaya Ilmu Politik bisa berubah selama studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal (8 semester). Ini memberikan kepastian perencanaan keuangan jangka panjang."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Ilmu Politik?",
-    "response": "Rata-rata biaya per semester adalah Rp2.914.375, dihitung dari total Rp23.315.000 ÷ 8. Namun, 60% biaya (Rp13.860.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan realistis bagi calon dari keluarga menengah ke bawah."
+    "Q": "Berapa rata-rata biaya per semester untuk Ilmu Politik?",
+    "A": "Rata-rata biaya per semester adalah Rp2.914.375, dihitung dari total Rp23.315.000 ÷ 8. Namun, 60% biaya (Rp13.860.000) dibayar dalam 4 semester pertama. Ini memungkinkan perencanaan keuangan realistis bagi calon dari keluarga menengah ke bawah."
   },
   {
-    "instruction": "Apakah Ilmu Politik bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.675.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi politik-sesuai semangat MBKM. 🔹 Ilmu Hukum S1 - 11 Dataset"
+    "Q": "Apakah Ilmu Politik bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.675.000 di semester 3-6 meski mahasiswa mengambil 18 atau 24 SKS. Ini mendorong pengambilan beban studi maksimal-mempercepat kelulusan dan penguasaan kompetensi politik-sesuai semangat MBKM. 🔹 Ilmu Hukum S1 - 11 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Ilmu Hukum di UNSIQ?",
-    "response": "Total biaya adalah Rp24.795.000, dihitung sebagai: Semester 1: Rp5.020.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp5.020.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp24.795.000. Prodi ini berakreditasi B, dan biayanya kompetitif untuk calon yang ingin menjadi praktisi hukum di sektor perdata atau pidana."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Ilmu Hukum di UNSIQ?",
+    "A": "Total biaya adalah Rp24.795.000, dihitung sebagai: Semester 1: Rp5.020.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp5.020.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp24.795.000. Prodi ini berakreditasi B, dan biayanya kompetitif untuk calon yang ingin menjadi praktisi hukum di sektor perdata atau pidana."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Ilmu Hukum lebih tinggi?",
-    "response": "Karena semester 1 mencakup biaya investasi awal: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya sebesar Rp5.020.000 mencerminkan kebutuhan pelatihan dasar hukum, akses database perundang-undangan, dan modul perkuliahan hukum positif yang mahal."
+    "Q": "Mengapa biaya semester 1 Ilmu Hukum lebih tinggi?",
+    "A": "Karena semester 1 mencakup biaya investasi awal: atribut, matrikulasi, dan dana pengembangan-yang hanya dibayar sekali. Biaya sebesar Rp5.020.000 mencerminkan kebutuhan pelatihan dasar hukum, akses database perundang-undangan, dan modul perkuliahan hukum positif yang mahal."
   },
   {
-    "instruction": "Apakah Ilmu Hukum memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi B, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Biaya tertingginya (Rp5.020.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester."
+    "Q": "Apakah Ilmu Hukum memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi B, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Biaya tertingginya (Rp5.020.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Ilmu Hukum?",
-    "response": "Penghematan mencapai Rp3.825.000, yaitu selisih antara biaya semester 1 (Rp5.020.000) dan semester 8 (Rp1.195.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang magang di kantor hukum atau mempersiapkan ujian sertifikasi profesi."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Ilmu Hukum?",
+    "A": "Penghematan mencapai Rp3.825.000, yaitu selisih antara biaya semester 1 (Rp5.020.000) dan semester 8 (Rp1.195.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang magang di kantor hukum atau mempersiapkan ujian sertifikasi profesi."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Ilmu Hukum?",
-    "response": "Total biaya 4 semester pertama adalah Rp17.260.000, dihitung dari: Sem 1: Rp5.020.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp17.260.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah sejak awal."
+    "Q": "Berapa total biaya 4 semester pertama Ilmu Hukum?",
+    "A": "Total biaya 4 semester pertama adalah Rp17.260.000, dihitung dari: Sem 1: Rp5.020.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp17.260.000. Ini menjadi periode dengan beban finansial tertinggi, sehingga calon disarankan mengamankan KIP-Kuliah sejak awal."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon penasihat hukum yang ingin segera mengikuti pelatihan profesi setelah lulus."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon penasihat hukum yang ingin segera mengikuti pelatihan profesi setelah lulus."
   },
   {
-    "instruction": "Jika mahasiswa Ilmu Hukum mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra, maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp400.000."
+    "Q": "Jika mahasiswa Ilmu Hukum mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra, maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp400.000."
   },
   {
-    "instruction": "Apakah biaya Ilmu Hukum bisa berubah selama studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal."
+    "Q": "Apakah biaya Ilmu Hukum bisa berubah selama studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Ilmu Hukum?",
-    "response": "Rata-rata biaya per semester adalah Rp3.099.375, dihitung dari total Rp24.795.000 ÷ 8. Namun, 70% biaya dibayar dalam 4 semester pertama-menekankan pentingnya persiapan dana awal."
+    "Q": "Berapa rata-rata biaya per semester untuk Ilmu Hukum?",
+    "A": "Rata-rata biaya per semester adalah Rp3.099.375, dihitung dari total Rp24.795.000 ÷ 8. Namun, 70% biaya dibayar dalam 4 semester pertama-menekankan pentingnya persiapan dana awal."
   },
   {
-    "instruction": "Bagaimana Ilmu Hukum mendukung karier di sektor hukum konvensional?",
-    "response": "Dengan total biaya Rp24.795.000, lulusan siap bekerja di kantor hukum, perusahaan, atau instansi pemerintah. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan advokat atau notaris tanpa utang-menjawab kebutuhan SDM hukum di tingkat daerah dan nasional."
+    "Q": "Bagaimana Ilmu Hukum mendukung karier di sektor hukum konvensional?",
+    "A": "Dengan total biaya Rp24.795.000, lulusan siap bekerja di kantor hukum, perusahaan, atau instansi pemerintah. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan advokat atau notaris tanpa utang-menjawab kebutuhan SDM hukum di tingkat daerah dan nasional."
   },
   {
-    "instruction": "Apakah Ilmu Hukum bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.995.000 di semester 3-6-mendorong kelulusan tepat waktu dan penguasaan kompetensi hukum yang komprehensif. 🔹 Pendidikan Bahasa Inggris S1 - 11 Dataset"
+    "Q": "Apakah Ilmu Hukum bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.995.000 di semester 3-6-mendorong kelulusan tepat waktu dan penguasaan kompetensi hukum yang komprehensif. 🔹 Pendidikan Bahasa Inggris S1 - 11 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 8 semester untuk S1 Pendidikan Bahasa Inggris di UNSIQ?",
-    "response": "Total biaya adalah Rp26.515.000, dihitung sebagai: Semester 1: Rp5.520.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp5.520.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp26.515.000. Prodi ini berakreditasi Baik, dan biayanya mencerminkan kebutuhan pelatihan bahasa intensif sejak awal."
+    "Q": "Berapa total biaya kuliah selama 8 semester untuk S1 Pendidikan Bahasa Inggris di UNSIQ?",
+    "A": "Total biaya adalah Rp26.515.000, dihitung sebagai: Semester 1: Rp5.520.000 Semester 2: Rp4.270.000 Semester 3-6: 4 × Rp2.995.000 = Rp11.980.000 Semester 7: Rp2.320.000 Semester 8: Rp1.195.000 Jumlah: Rp5.520.000 + Rp4.270.000 + Rp11.980.000 + Rp2.320.000 + Rp1.195.000 = Rp26.515.000. Prodi ini berakreditasi Baik, dan biayanya mencerminkan kebutuhan pelatihan bahasa intensif sejak awal."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Pendidikan Bahasa Inggris paling tinggi?",
-    "response": "Karena semester 1 mencakup biaya atribut, matrikulasi, dan pelatihan bahasa dasar intensif (listening lab, speaking club)-yang memerlukan instruktur dan lisensi software khusus. Biaya sebesar Rp5.520.000 adalah tertinggi di antara ketiga prodi ini, mencerminkan investasi pada kompetensi linguistik sejak hari pertama."
+    "Q": "Mengapa biaya semester 1 Pendidikan Bahasa Inggris paling tinggi?",
+    "A": "Karena semester 1 mencakup biaya atribut, matrikulasi, dan pelatihan bahasa dasar intensif (listening lab, speaking club)-yang memerlukan instruktur dan lisensi software khusus. Biaya sebesar Rp5.520.000 adalah tertinggi di antara ketiga prodi ini, mencerminkan investasi pada kompetensi linguistik sejak hari pertama."
   },
   {
-    "instruction": "Apakah Pendidikan Bahasa Inggris memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Biaya tertingginya (Rp5.520.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester."
+    "Q": "Apakah Pendidikan Bahasa Inggris memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun berakreditasi Baik, prodi ini masih memenuhi syarat KIP-Kuliah karena UNSIQ berstatus institusi Unggul. Biaya tertingginya (Rp5.520.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 8 semester."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 8 Pendidikan Bahasa Inggris?",
-    "response": "Penghematan mencapai Rp4.325.000, yaitu selisih antara biaya semester 1 (Rp5.520.000) dan semester 8 (Rp1.195.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang persiapan ujian sertifikasi guru atau magang di sekolah."
+    "Q": "Berapa penghematan antara semester 1 dan semester 8 Pendidikan Bahasa Inggris?",
+    "A": "Penghematan mencapai Rp4.325.000, yaitu selisih antara biaya semester 1 (Rp5.520.000) dan semester 8 (Rp1.195.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang persiapan ujian sertifikasi guru atau magang di sekolah."
   },
   {
-    "instruction": "Berapa total biaya 4 semester pertama Pendidikan Bahasa Inggris?",
-    "response": "Total biaya 4 semester pertama adalah Rp18.760.000, dihitung dari: Sem 1: Rp5.520.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp18.760.000. Ini menjadi beban finansial awal tertinggi di antara ketiga prodi."
+    "Q": "Berapa total biaya 4 semester pertama Pendidikan Bahasa Inggris?",
+    "A": "Total biaya 4 semester pertama adalah Rp18.760.000, dihitung dari: Sem 1: Rp5.520.000 Sem 2: Rp4.270.000 Sem 3: Rp2.995.000 Sem 4: Rp2.995.000 Jumlah: Rp18.760.000. Ini menjadi beban finansial awal tertinggi di antara ketiga prodi."
   },
   {
-    "instruction": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon guru yang ingin segera mengikuti seleksi PPPK."
+    "Q": "Apa implikasi biaya semester 8 sebesar Rp1.195.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon guru yang ingin segera mengikuti seleksi PPPK."
   },
   {
-    "instruction": "Jika mahasiswa Pendidikan Bahasa Inggris mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
-    "response": "Tidak. Karena biaya semester 8 hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra, maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp400.000."
+    "Q": "Jika mahasiswa Pendidikan Bahasa Inggris mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 8?",
+    "A": "Tidak. Karena biaya semester 8 hanya Rp1.195.000, yang lebih rendah dari kuota beasiswa mitra, maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp400.000."
   },
   {
-    "instruction": "Apakah biaya Pendidikan Bahasa Inggris bisa berubah selama studi?",
-    "response": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal."
+    "Q": "Apakah biaya Pendidikan Bahasa Inggris bisa berubah selama studi?",
+    "A": "Tidak, karena biaya ini berlaku tetap untuk angkatan 2025. UNSIQ menerapkan biaya kuncian per angkatan, sehingga mahasiswa tidak terkena kenaikan biaya selama masa studi normal."
   },
   {
-    "instruction": "Berapa rata-rata biaya per semester untuk Pendidikan Bahasa Inggris?",
-    "response": "Rata-rata biaya per semester adalah Rp3.314.375, dihitung dari total Rp26.515.000 ÷ 8. Namun, 71% biaya dibayar dalam 4 semester pertama-menekankan pentingnya persiapan dana awal."
+    "Q": "Berapa rata-rata biaya per semester untuk Pendidikan Bahasa Inggris?",
+    "A": "Rata-rata biaya per semester adalah Rp3.314.375, dihitung dari total Rp26.515.000 ÷ 8. Namun, 71% biaya dibayar dalam 4 semester pertama-menekankan pentingnya persiapan dana awal."
   },
   {
-    "instruction": "Bagaimana Pendidikan Bahasa Inggris mendukung karier sebagai guru?",
-    "response": "Dengan total biaya Rp26.515.000, lulusan siap menjadi guru bahasa Inggris di sekolah umum atau madrasah. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan PPPK tanpa utang-menjawab kebutuhan guru berkualitas di seluruh Indonesia."
+    "Q": "Bagaimana Pendidikan Bahasa Inggris mendukung karier sebagai guru?",
+    "A": "Dengan total biaya Rp26.515.000, lulusan siap menjadi guru bahasa Inggris di sekolah umum atau madrasah. Biaya terjangkau memungkinkan lulusan segera mengikuti pelatihan PPPK tanpa utang-menjawab kebutuhan guru berkualitas di seluruh Indonesia."
   },
   {
-    "instruction": "Apakah Pendidikan Bahasa Inggris bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.995.000 di semester 3-6-mendorong pengambilan beban studi maksimal dan kelulusan tepat waktu sesuai standar KKNI."
+    "Q": "Apakah Pendidikan Bahasa Inggris bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap Rp2.995.000 di semester 3-6-mendorong pengambilan beban studi maksimal dan kelulusan tepat waktu sesuai standar KKNI."
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 6 semester untuk D3 Keperawatan di UNSIQ?",
-    "response": "Total biaya adalah Rp53.570.000, dihitung sebagai: Semester 1: Rp13.795.000 Semester 2: Rp9.895.000 Semester 3-5: 3 × Rp6.495.000 = Rp19.485.000 Semester 6: Rp4.095.000 Jumlah: Rp13.795.000 + Rp9.895.000 + Rp19.485.000 + Rp4.095.000 = Rp53.570.000. Biaya ini mencerminkan kebutuhan laboratorium klinis, manekin simulasi, dan pelatihan intensif yang wajib untuk profesi kesehatan."
+    "Q": "Berapa total biaya kuliah selama 6 semester untuk D3 Keperawatan di UNSIQ?",
+    "A": "Total biaya adalah Rp53.570.000, dihitung sebagai: Semester 1: Rp13.795.000 Semester 2: Rp9.895.000 Semester 3-5: 3 × Rp6.495.000 = Rp19.485.000 Semester 6: Rp4.095.000 Jumlah: Rp13.795.000 + Rp9.895.000 + Rp19.485.000 + Rp4.095.000 = Rp53.570.000. Biaya ini mencerminkan kebutuhan laboratorium klinis, manekin simulasi, dan pelatihan intensif yang wajib untuk profesi kesehatan."
   },
   {
-    "instruction": "Mengapa biaya semester 1 D3 Keperawatan sangat tinggi?",
-    "response": "Karena semester 1 mencakup biaya investasi awal besar: seragam medis, sepatu khusus, stetoskop, alat praktikum, dan akses penuh ke Laboratorium Keperawatan berteknologi ICU simulasi. Biaya sebesar Rp13.795.000 mencerminkan standar profesi kesehatan yang ketat-di mana kesiapan alat dan pelatihan langsung sangat krusial sejak hari pertama."
+    "Q": "Mengapa biaya semester 1 D3 Keperawatan sangat tinggi?",
+    "A": "Karena semester 1 mencakup biaya investasi awal besar: seragam medis, sepatu khusus, stetoskop, alat praktikum, dan akses penuh ke Laboratorium Keperawatan berteknologi ICU simulasi. Biaya sebesar Rp13.795.000 mencerminkan standar profesi kesehatan yang ketat-di mana kesiapan alat dan pelatihan langsung sangat krusial sejak hari pertama."
   },
   {
-    "instruction": "Apakah D3 Keperawatan memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena berakreditasi Baik Sekali dan meskipun biayanya tinggi, masih di bawah plafon KIP-Kuliah (Rp12.000.000/semester) untuk semester 2-6. Namun, untuk semester 1 (Rp13.795.000), KIP-Kuliah hanya menanggung Rp12.000.000, sehingga mahasiswa perlu membayar selisih Rp1.795.000. Calon disarankan menyiapkan dana tambahan untuk semester pertama."
+    "Q": "Apakah D3 Keperawatan memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena berakreditasi Baik Sekali dan meskipun biayanya tinggi, masih di bawah plafon KIP-Kuliah (Rp12.000.000/semester) untuk semester 2-6. Namun, untuk semester 1 (Rp13.795.000), KIP-Kuliah hanya menanggung Rp12.000.000, sehingga mahasiswa perlu membayar selisih Rp1.795.000. Calon disarankan menyiapkan dana tambahan untuk semester pertama."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 6 D3 Keperawatan?",
-    "response": "Penghematan mencapai Rp9.700.000, yaitu selisih antara biaya semester 1 (Rp13.795.000) dan semester 6 (Rp4.095.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang magang intensif di rumah sakit dan mempersiapkan Uji Kompetensi Nasional (UKN)-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 6 D3 Keperawatan?",
+    "A": "Penghematan mencapai Rp9.700.000, yaitu selisih antara biaya semester 1 (Rp13.795.000) dan semester 6 (Rp4.095.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang magang intensif di rumah sakit dan mempersiapkan Uji Kompetensi Nasional (UKN)-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 3 semester pertama D3 Keperawatan?",
-    "response": "Total biaya 3 semester pertama adalah Rp33.185.000, dihitung dari: Sem 1: Rp13.795.000 Sem 2: Rp9.895.000 Sem 3: Rp6.495.000 Jumlah: Rp13.795.000 + Rp9.895.000 + Rp6.495.000 = Rp33.185.000. Ini adalah beban finansial awal sangat berat, sehingga calon harus mengamankan KIP-Kuliah sebelum mendaftar."
+    "Q": "Berapa total biaya 3 semester pertama D3 Keperawatan?",
+    "A": "Total biaya 3 semester pertama adalah Rp33.185.000, dihitung dari: Sem 1: Rp13.795.000 Sem 2: Rp9.895.000 Sem 3: Rp6.495.000 Jumlah: Rp13.795.000 + Rp9.895.000 + Rp6.495.000 = Rp33.185.000. Ini adalah beban finansial awal sangat berat, sehingga calon harus mengamankan KIP-Kuliah sebelum mendaftar."
   },
   {
-    "instruction": "Apa implikasi biaya semester 6 sebesar Rp4.095.000?",
-    "response": "Biaya ini mencakup administrasi kelulusan, wisuda, dan uji kompetensi profesi (UKN)-bukan hanya SPP biasa. UNSIQ memasukkan biaya UKN dalam struktur ini untuk memastikan mahasiswa tidak terkendala administratif saat mendaftar STR (Surat Tanda Registrasi) sebagai perawat profesional."
+    "Q": "Apa implikasi biaya semester 6 sebesar Rp4.095.000?",
+    "A": "Biaya ini mencakup administrasi kelulusan, wisuda, dan uji kompetensi profesi (UKN)-bukan hanya SPP biasa. UNSIQ memasukkan biaya UKN dalam struktur ini untuk memastikan mahasiswa tidak terkendala administratif saat mendaftar STR (Surat Tanda Registrasi) sebagai perawat profesional."
   },
   {
-    "instruction": "Bagaimana D3 Keperawatan mendukung karier cepat di sektor kesehatan?",
-    "response": "Dengan masa studi 3 tahun (6 semester) dan total biaya Rp53.570.000, lulusan siap bekerja di rumah sakit, puskesmas, atau klinik lebih cepat daripada lulusan S1. Meski mahal, ROI-nya sangat tinggi karena permintaan perawat terus meningkat, dan gaji awal cukup untuk mengembalikan investasi dalam 1,5-2 tahun kerja."
+    "Q": "Bagaimana D3 Keperawatan mendukung karier cepat di sektor kesehatan?",
+    "A": "Dengan masa studi 3 tahun (6 semester) dan total biaya Rp53.570.000, lulusan siap bekerja di rumah sakit, puskesmas, atau klinik lebih cepat daripada lulusan S1. Meski mahal, ROI-nya sangat tinggi karena permintaan perawat terus meningkat, dan gaji awal cukup untuk mengembalikan investasi dalam 1,5-2 tahun kerja."
   },
   {
-    "instruction": "Jika mahasiswa D3 Keperawatan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
-    "response": "KIP-Kuliah menanggung maksimal Rp12.000.000/semester. Karena biaya semester 1 Rp13.795.000, mahasiswa harus membayar selisih Rp1.795.000. Untuk semester 2-6, KIP-Kuliah menanggung 100% biaya, karena biaya semester 2 (Rp9.895.000) dan seterusnya di bawah Rp12.000.000."
+    "Q": "Jika mahasiswa D3 Keperawatan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
+    "A": "KIP-Kuliah menanggung maksimal Rp12.000.000/semester. Karena biaya semester 1 Rp13.795.000, mahasiswa harus membayar selisih Rp1.795.000. Untuk semester 2-6, KIP-Kuliah menanggung 100% biaya, karena biaya semester 2 (Rp9.895.000) dan seterusnya di bawah Rp12.000.000."
   },
   {
-    "instruction": "Apakah KIP-Kuliah menerima pendaftar D3 Keperawatan melalui Seleksi Mandiri PTS?",
-    "response": "Ya, selama pendaftaran KIP-Kuliah dilakukan sebelum atau bersamaan dengan pendaftaran Mandiri PTS. Pendaftaran KIP-Kuliah dibuka 4 Februari-31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS tetap berhak atas bantuan KIP-Kuliah. 🔹 Kebidanan D3 - 9 Dataset"
+    "Q": "Apakah KIP-Kuliah menerima pendaftar D3 Keperawatan melalui Seleksi Mandiri PTS?",
+    "A": "Ya, selama pendaftaran KIP-Kuliah dilakukan sebelum atau bersamaan dengan pendaftaran Mandiri PTS. Pendaftaran KIP-Kuliah dibuka 4 Februari-31 Oktober 2025, dan Seleksi Mandiri PTS di UNSIQ juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS tetap berhak atas bantuan KIP-Kuliah. 🔹 Kebidanan D3 - 9 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 6 semester untuk D3 Kebidanan di UNSIQ?",
-    "response": "Total biaya adalah Rp53.420.000, dihitung sebagai: Semester 1: Rp13.645.000 Semester 2: Rp9.895.000 Semester 3-5: 3 × Rp6.495.000 = Rp19.485.000 Semester 6: Rp4.095.000 Jumlah: Rp13.645.000 + Rp9.895.000 + Rp19.485.000 + Rp4.095.000 = Rp53.420.000. Ini hampir identik dengan Keperawatan, mencerminkan standar profesi kesehatan yang setara."
+    "Q": "Berapa total biaya kuliah selama 6 semester untuk D3 Kebidanan di UNSIQ?",
+    "A": "Total biaya adalah Rp53.420.000, dihitung sebagai: Semester 1: Rp13.645.000 Semester 2: Rp9.895.000 Semester 3-5: 3 × Rp6.495.000 = Rp19.485.000 Semester 6: Rp4.095.000 Jumlah: Rp13.645.000 + Rp9.895.000 + Rp19.485.000 + Rp4.095.000 = Rp53.420.000. Ini hampir identik dengan Keperawatan, mencerminkan standar profesi kesehatan yang setara."
   },
   {
-    "instruction": "Mengapa biaya semester 1 D3 Kebidanan hampir sama dengan Keperawatan?",
-    "response": "Karena keduanya memerlukan laboratorium klinis, manekin persalinan simulasi, alat USG pelatihan, dan seragam medis khusus. Biaya semester 1 sebesar Rp13.645.000 mencerminkan investasi pada kompetensi teknis dasar yang wajib dimiliki bidan-seperti pemeriksaan kehamilan, pertolongan persalinan, dan penanganan neonatus."
+    "Q": "Mengapa biaya semester 1 D3 Kebidanan hampir sama dengan Keperawatan?",
+    "A": "Karena keduanya memerlukan laboratorium klinis, manekin persalinan simulasi, alat USG pelatihan, dan seragam medis khusus. Biaya semester 1 sebesar Rp13.645.000 mencerminkan investasi pada kompetensi teknis dasar yang wajib dimiliki bidan-seperti pemeriksaan kehamilan, pertolongan persalinan, dan penanganan neonatus."
   },
   {
-    "instruction": "Apakah D3 Kebidanan memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena berakreditasi Baik Sekali. Untuk semester 1 (Rp13.645.000), KIP-Kuliah menanggung Rp12.000.000, sehingga mahasiswa membayar selisih Rp1.645.000. Untuk semester 2-6, 100% biaya ditanggung, karena biaya di bawah plafon KIP-Kuliah (Rp12.000.000/semester)."
+    "Q": "Apakah D3 Kebidanan memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena berakreditasi Baik Sekali. Untuk semester 1 (Rp13.645.000), KIP-Kuliah menanggung Rp12.000.000, sehingga mahasiswa membayar selisih Rp1.645.000. Untuk semester 2-6, 100% biaya ditanggung, karena biaya di bawah plafon KIP-Kuliah (Rp12.000.000/semester)."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 6 D3 Kebidanan?",
-    "response": "Penghematan mencapai Rp9.550.000, yaitu selisih antara biaya semester 1 (Rp13.645.000) dan semester 6 (Rp4.095.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang magang di puskesmas atau rumah sakit untuk praktik persalinan nyata."
+    "Q": "Berapa penghematan antara semester 1 dan semester 6 D3 Kebidanan?",
+    "A": "Penghematan mencapai Rp9.550.000, yaitu selisih antara biaya semester 1 (Rp13.645.000) dan semester 6 (Rp4.095.000). Penurunan ini mendukung mahasiswa di masa akhir studi-saat sedang magang di puskesmas atau rumah sakit untuk praktik persalinan nyata."
   },
   {
-    "instruction": "Berapa total biaya 3 semester pertama D3 Kebidanan?",
-    "response": "Total biaya 3 semester pertama adalah Rp33.035.000, dihitung dari: Sem 1: Rp13.645.000 Sem 2: Rp9.895.000 Sem 3: Rp6.495.000 Jumlah: Rp13.645.000 + Rp9.895.000 + Rp6.495.000 = Rp33.035.000. Ini menjadi beban awal sangat berat, sehingga KIP-Kuliah sangat krusial untuk aksesibilitas."
+    "Q": "Berapa total biaya 3 semester pertama D3 Kebidanan?",
+    "A": "Total biaya 3 semester pertama adalah Rp33.035.000, dihitung dari: Sem 1: Rp13.645.000 Sem 2: Rp9.895.000 Sem 3: Rp6.495.000 Jumlah: Rp13.645.000 + Rp9.895.000 + Rp6.495.000 = Rp33.035.000. Ini menjadi beban awal sangat berat, sehingga KIP-Kuliah sangat krusial untuk aksesibilitas."
   },
   {
-    "instruction": "Apa implikasi biaya semester 6 sebesar Rp4.095.000?",
-    "response": "Biaya ini mencakup biaya UKN (Uji Kompetensi Nasional) dan administrasi STR-wajib untuk menjadi bidan profesional. UNSIQ memasukkan biaya ini untuk memastikan lulusan tidak gagal registrasi karena alasan finansial, sejalan dengan komitmen pada kualitas layanan kesehatan reproduksi."
+    "Q": "Apa implikasi biaya semester 6 sebesar Rp4.095.000?",
+    "A": "Biaya ini mencakup biaya UKN (Uji Kompetensi Nasional) dan administrasi STR-wajib untuk menjadi bidan profesional. UNSIQ memasukkan biaya ini untuk memastikan lulusan tidak gagal registrasi karena alasan finansial, sejalan dengan komitmen pada kualitas layanan kesehatan reproduksi."
   },
   {
-    "instruction": "Bagaimana D3 Kebidanan mendukung karier di daerah pedesaan?",
-    "response": "Dengan total biaya Rp53.420.000 dan masa studi 3 tahun, lulusan siap ditempatkan di puskesmas, polindes, atau praktik mandiri di desa. Banyak lulusan direkrut langsung oleh Dinas Kesehatan setempat-terutama melalui program P3K bidan-sehingga investasi pendidikan cepat kembali melalui gaji tetap dan tunjangan daerah."
+    "Q": "Bagaimana D3 Kebidanan mendukung karier di daerah pedesaan?",
+    "A": "Dengan total biaya Rp53.420.000 dan masa studi 3 tahun, lulusan siap ditempatkan di puskesmas, polindes, atau praktik mandiri di desa. Banyak lulusan direkrut langsung oleh Dinas Kesehatan setempat-terutama melalui program P3K bidan-sehingga investasi pendidikan cepat kembali melalui gaji tetap dan tunjangan daerah."
   },
   {
-    "instruction": "Jika mahasiswa D3 Kebidanan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
-    "response": "Mahasiswa harus membayar selisih Rp1.645.000 (dari total Rp13.645.000), karena KIP-Kuliah hanya menanggung Rp12.000.000. Untuk semester 2-6, tidak perlu membayar apa pun, karena biaya di bawah plafon KIP-Kuliah."
+    "Q": "Jika mahasiswa D3 Kebidanan dapat KIP-Kuliah, berapa yang harus dibayar di semester 1?",
+    "A": "Mahasiswa harus membayar selisih Rp1.645.000 (dari total Rp13.645.000), karena KIP-Kuliah hanya menanggung Rp12.000.000. Untuk semester 2-6, tidak perlu membayar apa pun, karena biaya di bawah plafon KIP-Kuliah."
   },
   {
-    "instruction": "Apakah D3 Kebidanan bisa dibayar per SKS?",
-    "response": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap per semester-mendorong kelulusan tepat waktu dalam 3 tahun, sesuai standar pendidikan vokasi nasional. 🔹 Manajemen Informatika D3 - 9 Dataset"
+    "Q": "Apakah D3 Kebidanan bisa dibayar per SKS?",
+    "A": "Tidak, karena UNSIQ menggunakan sistem paket per semester, bukan per SKS. Biaya tetap per semester-mendorong kelulusan tepat waktu dalam 3 tahun, sesuai standar pendidikan vokasi nasional. 🔹 Manajemen Informatika D3 - 9 Dataset"
   },
   {
-    "instruction": "Berapa total biaya kuliah selama 6 semester untuk D3 Manajemen Informatika di UNSIQ?",
-    "response": "Total biaya adalah Rp19.100.000, dihitung sebagai: Semester 1: Rp4.755.000 Semester 2: Rp3.825.000 Semester 3-4: 2 × Rp2.675.000 = Rp5.350.000 Semester 5: Rp2.045.000 Semester 6: Rp1.205.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp5.350.000 + Rp2.045.000 + Rp1.205.000 = Rp19.100.000. Ini adalah prodi D3 termurah di antara ketiganya, sangat terjangkau untuk calon teknisi IT."
+    "Q": "Berapa total biaya kuliah selama 6 semester untuk D3 Manajemen Informatika di UNSIQ?",
+    "A": "Total biaya adalah Rp19.100.000, dihitung sebagai: Semester 1: Rp4.755.000 Semester 2: Rp3.825.000 Semester 3-4: 2 × Rp2.675.000 = Rp5.350.000 Semester 5: Rp2.045.000 Semester 6: Rp1.205.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp5.350.000 + Rp2.045.000 + Rp1.205.000 = Rp19.100.000. Ini adalah prodi D3 termurah di antara ketiganya, sangat terjangkau untuk calon teknisi IT."
   },
   {
-    "instruction": "Mengapa biaya D3 Manajemen Informatika jauh lebih rendah daripada prodi kesehatan?",
-    "response": "Karena prodi ini tidak memerlukan laboratorium klinis atau alat medis mahal, melainkan laboratorium komputer dan software berlisensi-yang biaya operasionalnya jauh lebih rendah. Biaya semester 1 sebesar Rp4.755.000 mencakup atribut, matrikulasi, dan akses software developer selama studi."
+    "Q": "Mengapa biaya D3 Manajemen Informatika jauh lebih rendah daripada prodi kesehatan?",
+    "A": "Karena prodi ini tidak memerlukan laboratorium klinis atau alat medis mahal, melainkan laboratorium komputer dan software berlisensi-yang biaya operasionalnya jauh lebih rendah. Biaya semester 1 sebesar Rp4.755.000 mencakup atribut, matrikulasi, dan akses software developer selama studi."
   },
   {
-    "instruction": "Apakah D3 Manajemen Informatika memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp4.755.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 6 semester-menjadikannya pilihan ideal bagi lulusan SMK TI yang ingin kuliah tanpa biaya."
+    "Q": "Apakah D3 Manajemen Informatika memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp4.755.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 6 semester-menjadikannya pilihan ideal bagi lulusan SMK TI yang ingin kuliah tanpa biaya."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 6 D3 Manajemen Informatika?",
-    "response": "Penghematan mencapai Rp3.550.000, yaitu selisih antara biaya semester 1 (Rp4.755.000) dan semester 6 (Rp1.205.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang membuat aplikasi tugas akhir atau magang di perusahaan IT-dengan pendapatan yang belum stabil."
+    "Q": "Berapa penghematan antara semester 1 dan semester 6 D3 Manajemen Informatika?",
+    "A": "Penghematan mencapai Rp3.550.000, yaitu selisih antara biaya semester 1 (Rp4.755.000) dan semester 6 (Rp1.205.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang membuat aplikasi tugas akhir atau magang di perusahaan IT-dengan pendapatan yang belum stabil."
   },
   {
-    "instruction": "Berapa total biaya 3 semester pertama D3 Manajemen Informatika?",
-    "response": "Total biaya 3 semester pertama adalah Rp12.155.000, dihitung dari: Sem 1: Rp4.755.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp2.675.000 = Rp12.155.000. Ini adalah beban awal yang sangat ringan dibanding prodi kesehatan."
+    "Q": "Berapa total biaya 3 semester pertama D3 Manajemen Informatika?",
+    "A": "Total biaya 3 semester pertama adalah Rp12.155.000, dihitung dari: Sem 1: Rp4.755.000 Sem 2: Rp3.825.000 Sem 3: Rp2.675.000 Jumlah: Rp4.755.000 + Rp3.825.000 + Rp2.675.000 = Rp12.155.000. Ini adalah beban awal yang sangat ringan dibanding prodi kesehatan."
   },
   {
-    "instruction": "Apa implikasi biaya semester 6 sebesar Rp1.205.000?",
-    "response": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon programmer atau staf IT yang ingin segera bekerja setelah lulus."
+    "Q": "Apa implikasi biaya semester 6 sebesar Rp1.205.000?",
+    "A": "Biaya ini hanya mencakup administrasi kelulusan dan dana wisuda, bukan kuliah reguler. UNSIQ menetapkan angka rendah ini untuk memastikan mahasiswa tidak menunda wisuda karena alasan finansial-terutama penting bagi calon programmer atau staf IT yang ingin segera bekerja setelah lulus."
   },
   {
-    "instruction": "Bagaimana D3 Manajemen Informatika mendukung karier teknis jangka pendek?",
-    "response": "Dengan masa studi 3 tahun dan total biaya Rp19.100.000, lulusan siap menjadi staf IT, programmer junior, atau administrator jaringan di UMKM, kantor pemerintah, atau perusahaan swasta. Biaya terjangkau dan akses KIP-Kuliah memungkinkan lulusan segera bekerja tanpa utang-menjawab kebutuhan SDM digital di tingkat daerah."
+    "Q": "Bagaimana D3 Manajemen Informatika mendukung karier teknis jangka pendek?",
+    "A": "Dengan masa studi 3 tahun dan total biaya Rp19.100.000, lulusan siap menjadi staf IT, programmer junior, atau administrator jaringan di UMKM, kantor pemerintah, atau perusahaan swasta. Biaya terjangkau dan akses KIP-Kuliah memungkinkan lulusan segera bekerja tanpa utang-menjawab kebutuhan SDM digital di tingkat daerah."
   },
   {
-    "instruction": "Jika mahasiswa D3 Manajemen Informatika mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 6?",
-    "response": "Tidak. Karena biaya semester 6 hanya Rp1.205.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp390.000."
+    "Q": "Jika mahasiswa D3 Manajemen Informatika mengajukan beasiswa mitra (Rp1.595.000/semester), apakah masih perlu bayar di semester 6?",
+    "A": "Tidak. Karena biaya semester 6 hanya Rp1.205.000, yang lebih rendah dari kuota beasiswa mitra (Rp1.595.000), maka seluruh biaya ditanggung oleh beasiswa-dengan sisa anggaran Rp390.000."
   },
   {
-    "instruction": "Apakah pendaftar D3 Manajemen Informatika bisa mendaftar KIP-Kuliah melalui Seleksi Mandiri PTS?",
-    "response": "Ya, karena Seleksi Mandiri PTS dibuka hingga 31 Oktober 2025, dan pendaftaran KIP-Kuliah juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS dan lolos verifikasi KIP-Kuliah berhak atas bantuan penuh, karena biaya prodi ini di bawah plafon KIP-Kuliah."
+    "Q": "Apakah pendaftar D3 Manajemen Informatika bisa mendaftar KIP-Kuliah melalui Seleksi Mandiri PTS?",
+    "A": "Ya, karena Seleksi Mandiri PTS dibuka hingga 31 Oktober 2025, dan pendaftaran KIP-Kuliah juga ditutup pada 31 Oktober 2025. Calon yang diterima melalui Mandiri PTS dan lolos verifikasi KIP-Kuliah berhak atas bantuan penuh, karena biaya prodi ini di bawah plafon KIP-Kuliah."
   },
   {
-    "instruction": "Berapa total biaya program Profesi Ners di UNSIQ?",
-    "response": "Total biaya adalah Rp22.090.000, dihitung dari: Semester 1: Rp11.345.000 Semester 2: Rp10.745.000 Jumlah: Rp11.345.000 + Rp10.745.000 = Rp22.090.000. Program ini berdurasi 1-2 semester dan wajib ditempuh setelah lulus S1 Keperawatan untuk memperoleh gelar \"Ners\" dan hak mengikuti Uji Kompetensi Nasional (UKN)."
+    "Q": "Berapa total biaya program Profesi Ners di UNSIQ?",
+    "A": "Total biaya adalah Rp22.090.000, dihitung dari: Semester 1: Rp11.345.000 Semester 2: Rp10.745.000 Jumlah: Rp11.345.000 + Rp10.745.000 = Rp22.090.000. Program ini berdurasi 1-2 semester dan wajib ditempuh setelah lulus S1 Keperawatan untuk memperoleh gelar \"Ners\" dan hak mengikuti Uji Kompetensi Nasional (UKN)."
   },
   {
-    "instruction": "Mengapa biaya semester 1 Profesi Ners lebih tinggi daripada semester 2?",
-    "response": "Karena semester 1 mencakup biaya pendaftaran ulang, orientasi klinis, dan akses penuh ke simulasi praktik lanjutan di laboratorium ICU/ICCU. Biaya sebesar Rp11.345.000 juga mencakup pelatihan keselamatan pasien dan manajemen kasus kritis-yang menjadi fondasi utama praktik keperawatan profesional."
+    "Q": "Mengapa biaya semester 1 Profesi Ners lebih tinggi daripada semester 2?",
+    "A": "Karena semester 1 mencakup biaya pendaftaran ulang, orientasi klinis, dan akses penuh ke simulasi praktik lanjutan di laboratorium ICU/ICCU. Biaya sebesar Rp11.345.000 juga mencakup pelatihan keselamatan pasien dan manajemen kasus kritis-yang menjadi fondasi utama praktik keperawatan profesional."
   },
   {
-    "instruction": "Apakah Profesi Ners memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena program ini bagian dari jenjang akademik berkelanjutan setelah S1 Keperawatan berakreditasi Baik Sekali. Meski biaya semester 1 (Rp11.345.000) mendekati plafon KIP-Kuliah (Rp12.000.000), masih di bawah batas, sehingga 100% biaya ditanggung pemerintah selama calon mendaftar KIP-Kuliah sebelum atau bersamaan dengan pendaftaran program profesi."
+    "Q": "Apakah Profesi Ners memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena program ini bagian dari jenjang akademik berkelanjutan setelah S1 Keperawatan berakreditasi Baik Sekali. Meski biaya semester 1 (Rp11.345.000) mendekati plafon KIP-Kuliah (Rp12.000.000), masih di bawah batas, sehingga 100% biaya ditanggung pemerintah selama calon mendaftar KIP-Kuliah sebelum atau bersamaan dengan pendaftaran program profesi."
   },
   {
-    "instruction": "Apa implikasi biaya semester 2 sebesar Rp10.745.000?",
-    "response": "Biaya ini mencakup magang intensif di rumah sakit mitra, pembimbing klinis, dan uji kinerja akhir-bukan kuliah teori. UNSIQ memastikan mahasiswa tidak dikenai biaya tambahan selama magang, karena biaya ini sudah termasuk dalam struktur semester 2. Ini memudahkan lulusan fokus pada kompetensi klinis tanpa beban finansial tersembunyi."
+    "Q": "Apa implikasi biaya semester 2 sebesar Rp10.745.000?",
+    "A": "Biaya ini mencakup magang intensif di rumah sakit mitra, pembimbing klinis, dan uji kinerja akhir-bukan kuliah teori. UNSIQ memastikan mahasiswa tidak dikenai biaya tambahan selama magang, karena biaya ini sudah termasuk dalam struktur semester 2. Ini memudahkan lulusan fokus pada kompetensi klinis tanpa beban finansial tersembunyi."
   },
   {
-    "instruction": "Jika mahasiswa lulus S1 Keperawatan di kampus lain, apakah bisa mendaftar Profesi Ners di UNSIQ?",
-    "response": "Ya, asalkan lulusan S1 Keperawatan dari prodi terakreditasi Baik Sekali atau Unggul. Mereka wajib menempuh verifikasi akademik dan uji kesetaraan oleh Kaprodi Profesi Ners. Jika diterima, mereka mengikuti struktur biaya yang sama: Rp11.345.000 (sem 1) + Rp10.745.000 (sem 2)-tanpa tambahan biaya transfer."
+    "Q": "Jika mahasiswa lulus S1 Keperawatan di kampus lain, apakah bisa mendaftar Profesi Ners di UNSIQ?",
+    "A": "Ya, asalkan lulusan S1 Keperawatan dari prodi terakreditasi Baik Sekali atau Unggul. Mereka wajib menempuh verifikasi akademik dan uji kesetaraan oleh Kaprodi Profesi Ners. Jika diterima, mereka mengikuti struktur biaya yang sama: Rp11.345.000 (sem 1) + Rp10.745.000 (sem 2)-tanpa tambahan biaya transfer."
   },
   {
-    "instruction": "Apakah KIP-Kuliah menerima pendaftar Profesi Ners melalui jalur mandiri?",
-    "response": "Ya, selama pendaftaran KIP-Kuliah dilakukan antara 4 Februari-31 Oktober 2025, dan pendaftaran Profesi Ners di UNSIQ juga dilakukan dalam periode tersebut. Karena Seleksi Mandiri PTS ditutup pada 31 Oktober 2025 (sumber: kip-kuliah.kemdikbud.go.id), calon yang mendaftar Profesi Ners setelah lulus S1 masih memenuhi syarat untuk mendapatkan bantuan penuh dari KIP-Kuliah. 🔹 Magister Pendidikan Islam (S2) - 6 Dataset"
+    "Q": "Apakah KIP-Kuliah menerima pendaftar Profesi Ners melalui jalur mandiri?",
+    "A": "Ya, selama pendaftaran KIP-Kuliah dilakukan antara 4 Februari-31 Oktober 2025, dan pendaftaran Profesi Ners di UNSIQ juga dilakukan dalam periode tersebut. Karena Seleksi Mandiri PTS ditutup pada 31 Oktober 2025 (sumber: kip-kuliah.kemdikbud.go.id), calon yang mendaftar Profesi Ners setelah lulus S1 masih memenuhi syarat untuk mendapatkan bantuan penuh dari KIP-Kuliah. 🔹 Magister Pendidikan Islam (S2) - 6 Dataset"
   },
   {
-    "instruction": "Berapa total biaya S2 Magister Pendidikan Islam di UNSIQ?",
-    "response": "Total biaya adalah Rp23.130.000, dihitung sebagai: Semester 1: Rp7.695.000 Semester 2: Rp6.245.000 Semester 3-4: 2 × Rp4.595.000 = Rp9.190.000 Jumlah: Rp7.695.000 + Rp6.245.000 + Rp9.190.000 = Rp23.130.000. Prodi ini berakreditasi Baik Sekali, dan biayanya mencerminkan investasi pada riset pendidikan Islam dan pengembangan kurikulum berbasis nilai."
+    "Q": "Berapa total biaya S2 Magister Pendidikan Islam di UNSIQ?",
+    "A": "Total biaya adalah Rp23.130.000, dihitung sebagai: Semester 1: Rp7.695.000 Semester 2: Rp6.245.000 Semester 3-4: 2 × Rp4.595.000 = Rp9.190.000 Jumlah: Rp7.695.000 + Rp6.245.000 + Rp9.190.000 = Rp23.130.000. Prodi ini berakreditasi Baik Sekali, dan biayanya mencerminkan investasi pada riset pendidikan Islam dan pengembangan kurikulum berbasis nilai."
   },
   {
-    "instruction": "Mengapa biaya semester 1 S2 Pendidikan Islam paling tinggi?",
-    "response": "Karena semester 1 mencakup biaya pendaftaran S2, matrikulasi metodologi penelitian, dan akses ke perpustakaan digital nasional. Biaya sebesar Rp7.695.000 juga mencakup pembekalan penulisan proposal tesis-yang menjadi fondasi seluruh studi S2. UNSIQ sengaja mengalokasikan biaya besar di awal untuk memastikan kualitas riset lulusan tetap tinggi."
+    "Q": "Mengapa biaya semester 1 S2 Pendidikan Islam paling tinggi?",
+    "A": "Karena semester 1 mencakup biaya pendaftaran S2, matrikulasi metodologi penelitian, dan akses ke perpustakaan digital nasional. Biaya sebesar Rp7.695.000 juga mencakup pembekalan penulisan proposal tesis-yang menjadi fondasi seluruh studi S2. UNSIQ sengaja mengalokasikan biaya besar di awal untuk memastikan kualitas riset lulusan tetap tinggi."
   },
   {
-    "instruction": "Apakah S2 Pendidikan Islam memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp7.695.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 4 semester. Calon cukup mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ sebagai PT tujuan."
+    "Q": "Apakah S2 Pendidikan Islam memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, karena berakreditasi Baik Sekali dan biaya tertingginya (Rp7.695.000) jauh di bawah plafon KIP-Kuliah (Rp12.000.000/semester). Penerima KIP-Kuliah tidak perlu membayar apa pun selama 4 semester. Calon cukup mendaftar di kip-kuliah.kemdikbud.go.id antara 4 Februari-31 Oktober 2025 dan memilih UNSIQ sebagai PT tujuan."
   },
   {
-    "instruction": "Berapa penghematan antara semester 1 dan semester 4 S2 Pendidikan Islam?",
-    "response": "Penghematan mencapai Rp3.100.000, yaitu selisih antara biaya semester 1 (Rp7.695.000) dan semester 4 (Rp4.595.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyelesaikan tesis dan persiapan ujian komprehensif-dengan beban finansial yang lebih ringan."
+    "Q": "Berapa penghematan antara semester 1 dan semester 4 S2 Pendidikan Islam?",
+    "A": "Penghematan mencapai Rp3.100.000, yaitu selisih antara biaya semester 1 (Rp7.695.000) dan semester 4 (Rp4.595.000). Penurunan ini dirancang untuk mendukung mahasiswa di masa akhir studi-saat sedang menyelesaikan tesis dan persiapan ujian komprehensif-dengan beban finansial yang lebih ringan."
   },
   {
-    "instruction": "Siapa sasaran utama program S2 Pendidikan Islam?",
-    "response": "Sasaran utamanya adalah guru, kepala sekolah, dosen, dan pengelola lembaga pendidikan Islam yang ingin meningkatkan kompetensi akademik dan profesional. Dengan total biaya Rp23.130.000 dan akses KIP-Kuliah, program ini sangat terjangkau bagi pendidik di daerah-mendorong peningkatan kualitas pendidikan Islam secara nasional."
+    "Q": "Siapa sasaran utama program S2 Pendidikan Islam?",
+    "A": "Sasaran utamanya adalah guru, kepala sekolah, dosen, dan pengelola lembaga pendidikan Islam yang ingin meningkatkan kompetensi akademik dan profesional. Dengan total biaya Rp23.130.000 dan akses KIP-Kuliah, program ini sangat terjangkau bagi pendidik di daerah-mendorong peningkatan kualitas pendidikan Islam secara nasional."
   },
   {
-    "instruction": "Apakah biaya S2 Pendidikan Islam bisa dibayar per semester?",
-    "response": "Ya, UNSIQ menerapkan pembayaran per semester sesuai jadwal yang ditetapkan. Tidak ada kewajiban membayar lunas di awal. Ini memudahkan mahasiswa yang bekerja (seperti guru) untuk mengatur anggaran bulanan-terutama karena biaya menurun di semester akhir, sejalan dengan penurunan intensitas kuliah dan fokus pada penulisan tesis. 🔹 Ilmu Al-Qur'an dan Tafsir (S2) - 6 Dataset"
+    "Q": "Apakah biaya S2 Pendidikan Islam bisa dibayar per semester?",
+    "A": "Ya, UNSIQ menerapkan pembayaran per semester sesuai jadwal yang ditetapkan. Tidak ada kewajiban membayar lunas di awal. Ini memudahkan mahasiswa yang bekerja (seperti guru) untuk mengatur anggaran bulanan-terutama karena biaya menurun di semester akhir, sejalan dengan penurunan intensitas kuliah dan fokus pada penulisan tesis. 🔹 Ilmu Al-Qur'an dan Tafsir (S2) - 6 Dataset"
   },
   {
-    "instruction": "Berapa total biaya S2 Ilmu Al-Qur'an dan Tafsir di UNSIQ?",
-    "response": "Total biaya adalah Rp23.130.000, identik dengan S2 Pendidikan Islam: Semester 1: Rp7.695.000 Semester 2: Rp6.245.000 Semester 3-4: 2 × Rp4.595.000 = Rp9.190.000 Jumlah: Rp23.130.000. Prodi ini dirancang untuk calon peneliti, mufassir, atau dosen Al-Qur'an yang ingin menguasai metodologi tafsir modern dan klasik secara komprehensif."
+    "Q": "Berapa total biaya S2 Ilmu Al-Qur'an dan Tafsir di UNSIQ?",
+    "A": "Total biaya adalah Rp23.130.000, identik dengan S2 Pendidikan Islam: Semester 1: Rp7.695.000 Semester 2: Rp6.245.000 Semester 3-4: 2 × Rp4.595.000 = Rp9.190.000 Jumlah: Rp23.130.000. Prodi ini dirancang untuk calon peneliti, mufassir, atau dosen Al-Qur'an yang ingin menguasai metodologi tafsir modern dan klasik secara komprehensif."
   },
   {
-    "instruction": "Apakah S2 Ilmu Al-Qur'an dan Tafsir berbeda biaya dengan S2 Pendidikan Islam?",
-    "response": "Tidak, keduanya memiliki struktur dan nominal biaya identik: Sem 1: Rp7.695.000 Sem 2: Rp6.245.000 Sem 3-4: Rp4.595.000 Ini mencerminkan kebijakan fakultas pascasarjana UNSIQ yang menyamaratakan biaya untuk prodi S2 berakreditasi setara (Baik Sekali)-menghindari diskriminasi finansial antar disiplin ilmu keislaman."
+    "Q": "Apakah S2 Ilmu Al-Qur'an dan Tafsir berbeda biaya dengan S2 Pendidikan Islam?",
+    "A": "Tidak, keduanya memiliki struktur dan nominal biaya identik: Sem 1: Rp7.695.000 Sem 2: Rp6.245.000 Sem 3-4: Rp4.595.000 Ini mencerminkan kebijakan fakultas pascasarjana UNSIQ yang menyamaratakan biaya untuk prodi S2 berakreditasi setara (Baik Sekali)-menghindari diskriminasi finansial antar disiplin ilmu keislaman."
   },
   {
-    "instruction": "Apakah S2 Ilmu Al-Qur'an dan Tafsir memenuhi syarat KIP-Kuliah?",
-    "response": "Ya, meskipun akreditasinya B (berdasarkan data sebelumnya), prodi ini masih memenuhi syarat dengan pertimbangan khusus karena UNSIQ berstatus institusi Unggul. Biaya per semesternya di bawah Rp12.000.000, sehingga memenuhi syarat teknis KIP-Kuliah. Calon disarankan menyertakan surat rekomendasi dari pesantren atau lembaga keagamaan saat mendaftar."
+    "Q": "Apakah S2 Ilmu Al-Qur'an dan Tafsir memenuhi syarat KIP-Kuliah?",
+    "A": "Ya, meskipun akreditasinya B (berdasarkan data sebelumnya), prodi ini masih memenuhi syarat dengan pertimbangan khusus karena UNSIQ berstatus institusi Unggul. Biaya per semesternya di bawah Rp12.000.000, sehingga memenuhi syarat teknis KIP-Kuliah. Calon disarankan menyertakan surat rekomendasi dari pesantren atau lembaga keagamaan saat mendaftar."
   },
   {
-    "instruction": "Apa keunggulan kompetitif lulusan S2 Ilmu Al-Qur'an dan Tafsir?",
-    "response": "Lulusan mampu mengkaji Al-Qur'an dengan pendekatan kontemporer-seperti tafsir lingkungan, gender, atau teknologi-dan siap menjadi dosen, peneliti, atau dai intelektual di era digital. Dengan total biaya Rp23.130.000 dan akses KIP-Kuliah, program ini terjangkau bagi santri berprestasi yang ingin melanjutkan studi tanpa utang."
+    "Q": "Apa keunggulan kompetitif lulusan S2 Ilmu Al-Qur'an dan Tafsir?",
+    "A": "Lulusan mampu mengkaji Al-Qur'an dengan pendekatan kontemporer-seperti tafsir lingkungan, gender, atau teknologi-dan siap menjadi dosen, peneliti, atau dai intelektual di era digital. Dengan total biaya Rp23.130.000 dan akses KIP-Kuliah, program ini terjangkau bagi santri berprestasi yang ingin melanjutkan studi tanpa utang."
   },
   {
-    "instruction": "Jika mahasiswa S2 Ilmu Al-Qur'an mengajukan beasiswa Tahfidz 30 Juz, berapa yang harus dibayar?",
-    "response": "Beasiswa Tahfidz 30 Juz memberikan potongan 50% pada SPP. Karena struktur biaya S2 tidak memisahkan SPP dan biaya lain, potongan diterapkan pada total biaya per semester. Misalnya, semester 1: 50% × Rp7.695.000 = Rp3.847.500. Ini berlaku selama 4 semester, menghemat total Rp11.565.000 selama studi."
+    "Q": "Jika mahasiswa S2 Ilmu Al-Qur'an mengajukan beasiswa Tahfidz 30 Juz, berapa yang harus dibayar?",
+    "A": "Beasiswa Tahfidz 30 Juz memberikan potongan 50% pada SPP. Karena struktur biaya S2 tidak memisahkan SPP dan biaya lain, potongan diterapkan pada total biaya per semester. Misalnya, semester 1: 50% × Rp7.695.000 = Rp3.847.500. Ini berlaku selama 4 semester, menghemat total Rp11.565.000 selama studi."
   },
   {
-    "instruction": "Apakah lulusan S2 Ilmu Al-Qur'an bisa mengajar di perguruan tinggi?",
-    "response": "Ya, karena S2 adalah syarat minimal menjadi dosen tetap di perguruan tinggi (sesuai Permendikbud). Dengan akreditasi B, lulusan tetap memenuhi standar nasional untuk mengajar di STAI, IAI, atau universitas swasta. Banyak lulusan UNSIQ juga diterima sebagai peneliti di Lajnah Pentashihan Mushaf Al-Qur'an (LPMQ) atau lembaga riset Al-Qur'an nasional-karena kualitas riset mereka diakui."
+    "Q": "Apakah lulusan S2 Ilmu Al-Qur'an bisa mengajar di perguruan tinggi?",
+    "A": "Ya, karena S2 adalah syarat minimal menjadi dosen tetap di perguruan tinggi (sesuai Permendikbud). Dengan akreditasi B, lulusan tetap memenuhi standar nasional untuk mengajar di STAI, IAI, atau universitas swasta. Banyak lulusan UNSIQ juga diterima sebagai peneliti di Lajnah Pentashihan Mushaf Al-Qur'an (LPMQ) atau lembaga riset Al-Qur'an nasional-karena kualitas riset mereka diakui."
   }
 ]

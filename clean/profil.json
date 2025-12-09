@@ -1,0 +1,638 @@
+[
+  {
+    "type": "short",
+    "Q": "Kapan UNSIQ berdiri secara resmi?",
+    "A": "10 Juli 2001"
+  },
+  {
+    "type": "medium",
+    "Q": "Kapan Universitas Sains Al-Qur’an (UNSIQ) resmi berdiri?",
+    "A": "10 Juli 2001, berdasarkan SK Mendiknas No. 87/D/O/2001"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Kenapa tanggal 10 Juli 2001 penting bagi UNSIQ?",
+    "A": "Karena itu tanggal berdirinya UNSIQ secara resmi, hasil penggabungan IIQ, Akper, dan STIE-YPIIQ"
+  },
+  {
+    "type": "original",
+    "Q": "Kapan Universitas Sains Al-Qur’an (UNSIQ) secara resmi berdiri?",
+    "A": "UNSIQ secara legal formal berdiri pada 10 Juli 2001, berdasarkan Surat Keputusan Menteri Pendidikan Nasional No. 87/D/O/200: Namun, akar historisnya berasal dari Institut Ilmu Al-Qur’an (IIQ) Wonosobo yang didirikan tahun 1988, yang kemudian berkembang bersama Akademi Keperawatan (1996) dan STIE-YPIIQ (1999). Penggabungan ketiga lembaga inilah yang melahirkan UNSIQ sebagai universitas terpadu berbasis Al-Qur’an di Jawa Tengah."
+  },
+
+  // Entri 2 – Latar belakang IIQ 1988
+  {
+    "type": "short",
+    "Q": "Kapan IIQ Wonosobo didirikan?",
+    "A": "1988"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa tujuan pendirian IIQ Wonosobo tahun 1988?",
+    "A": "Mengintegrasikan ilmu Al-Qur’an dengan sistem pendidikan formal"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa IIQ Wonosobo didirikan pada 1988?",
+    "A": "Sebagai respons kebutuhan pendidikan tinggi Islam yang menggabungkan santri dan akademik modern"
+  },
+  {
+    "type": "original",
+    "Q": "Apa latar belakang pendirian IIQ Wonosobo pada tahun 1988?",
+    "A": "IIQ didirikan sebagai respons terhadap kebutuhan akan lembaga pendidikan tinggi Islam yang mengintegrasikan ilmu-ilmu Al-Qur’an dengan pendidikan formal. Dengan rekomendasi KOPERTAIS Wilayah X Jawa Tengah dan izin Ditjen Bimas Islam (1989), IIQ menjadi wadah bagi santri dan masyarakat untuk mendalami ilmu agama secara akademik—menjawab tantangan modernisasi tanpa kehilangan akar spiritual. Ini menjadi fondasi filosofis UNSIQ sebagai “pesantren universitas”."
+  },
+
+  // Entri 3 – Tokoh utama
+  {
+    "type": "short",
+    "Q": "Siapa pendiri utama UNSIQ?",
+    "A": "K.H. Muntaha Al-Hafidz"
+  },
+  {
+    "type": "medium",
+    "Q": "Siapa tokoh di balik berdirinya UNSIQ?",
+    "A": "K.H. Muntaha Al-Hafidz, didukung Bupati Wonosobo Poedjihardjo"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apa peran K.H. Muntaha dalam pendirian UNSIQ?",
+    "A": "Beliau menyumbangkan pemikiran, dana, dan jaringan sosial untuk membangun IIQ yang menjadi cikal bakal UNSIQ"
+  },
+  {
+    "type": "original",
+    "Q": "Siapa tokoh utama di balik berdirinya UNSIQ?",
+    "A": "K.H. Muntaha Al-Hafidz (1912–2004), seorang tokoh multidimensi: kyai kharismatik, pejuang kemerdekaan, politisi, dan pendidik. Beliau tidak hanya menyumbangkan pemikiran, tetapi juga daya, finansial, dan jaringan sosialnya untuk membangun IIQ yang kelak menjadi UNSIQ. Perannya didukung oleh Drs. H. Poedjihardjo, Bupati Wonosobo 1985–1990, yang membantu mendirikan Yayasan YPIIQ sebagai badan hukum penyelenggara."
+  },
+
+  // Entri 4 – Empat pilar YPIIQ
+  {
+    "type": "short",
+    "Q": "Apa empat pilar YPIIQ?",
+    "A": "Kyai, birokrasi, usaha, akademisi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa peran empat pilar dalam Yayasan YPIIQ?",
+    "A": "Menciptakan ekosistem pendidikan holistik berbasis kolaborasi masyarakat"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana empat pilar mendukung pendirian UNSIQ?",
+    "A": "Kyai beri nilai spiritual, birokrasi beri legalitas, usaha beri dana, akademisi jaga mutu ilmiah"
+  },
+  {
+    "type": "original",
+    "Q": "Apa peran empat pilar dalam pendirian Yayasan YPIIQ?",
+    "A": "Empat pilar—kyai-santri, birokrasi, dunia usaha, dan akademisi—dirancang untuk menciptakan ekosistem pendidikan yang holistik dan berkelanjutan. Kyai memberi nilai spiritual, birokrasi memberi kebijakan dan legalitas, dunia usaha menyediakan pendanaan, dan akademisi menjamin mutu ilmiah. Sinergi ini menjadikan UNSIQ tidak hanya sebagai kampus, tetapi sebagai poros transformasi sosial berbasis Al-Qur’an yang melibatkan seluruh kekuatan masyarakat."
+  },
+
+  // Entri 5 – Prodi pertama IIQ
+  {
+    "type": "short",
+    "Q": "Prodi pertama IIQ apa saja?",
+    "A": "PAI dan PPAI"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa program studi awal di IIQ Wonosobo?",
+    "A": "Pendidikan Agama Islam dan Penerangan Penyiaran Agama Islam"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa IIQ membuka PAI dan PPAI pertama kali?",
+    "A": "Untuk mencetak pendidik agama profesional dan dai yang melek media sejak awal"
+  },
+  {
+    "type": "original",
+    "Q": "Program studi apa saja yang pertama kali dibuka di IIQ?",
+    "A": "IIQ awalnya membuka dua prodi: Pendidikan Agama Islam (PAI) di bawah Fakultas Tarbiyah, dan Penerangan dan Penyiaran Agama Islam (PPAI) di Fakultas Dakwah—yang kini bertransformasi menjadi Komunikasi dan Penyiaran Islam (KPI). Kedua prodi ini mencerminkan misi ganda: mencetak pendidik agama yang profesional dan dai yang melek media, menjawab kebutuhan dakwah kontemporer sejak awal berdirinya lembaga."
+  },
+
+  // Entri 6 – Penggabungan Akper & STIE
+  {
+    "type": "short",
+    "Q": "Mengapa Akper dan STIE digabung ke UNSIQ?",
+    "A": "Untuk integrasikan agama, kesehatan, dan ekonomi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa alasan penggabungan Akper dan STIE ke UNSIQ?",
+    "A": "Mewujudkan visi ilmu Al-Qur’an yang menyentuh kehidupan nyata"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana penggabungan Akper dan STIE perkuat visi UNSIQ?",
+    "A": "Keperawatan layani kesehatan umat, ekonomi syariah jawab kebutuhan keuangan Islam"
+  },
+  {
+    "type": "original",
+    "Q": "Mengapa Akademi Keperawatan dan STIE digabung ke dalam UNSIQ?",
+    "A": "Penggabungan ini mencerminkan visi “ilmu Al-Qur’an yang menyentuh kehidupan nyata”. Keperawatan menjawab kebutuhan layanan kesehatan umat, sementara ekonomi syariah (melalui STIE) merespons tuntutan sistem keuangan Islam. Dengan mengintegrasikan ilmu agama, kesehatan, dan ekonomi, UNSIQ menjadi universitas transformatif yang tidak hanya mengkaji teks, tetapi juga menghadirkan solusi konkret bagi masyarakat."
+  },
+
+  // Entri 7 – Makna transformasi IIQ → UNSIQ
+  {
+    "type": "short",
+    "Q": "Kapan IIQ jadi UNSIQ?",
+    "A": "2001"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa makna transformasi IIQ menjadi UNSIQ?",
+    "A": "Perluasan dari ilmu agama ke sains yang berbasis Al-Qur’an"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apa filosofi di balik nama 'Universitas Sains Al-Qur’an'?",
+    "A": "Sains dan Al-Qur’an tidak bertentangan, tapi saling menguatkan dalam membangun peradaban"
+  },
+  {
+    "type": "original",
+    "Q": "Apa makna transformasi dari IIQ menjadi UNSIQ pada 2001?",
+    "A": "Transformasi ini menandai perluasan cakupan ilmu—dari fokus pada ilmu-ilmu keislaman menjadi ilmu sains yang di-Qur’ani-kan. Nama “Universitas Sains Al-Qur’an” bukan sekadar label, tetapi pernyataan epistemologis: sains dan Al-Qur’an tidak bertentangan, melainkan saling menguatkan. Ini adalah komitmen untuk mengembangkan ilmu pengetahuan yang berakar pada nilai wahyu, relevan dengan zaman, dan bermanfaat bagi peradaban."
+  },
+
+  // Entri 8 – Visi Rektor
+  {
+    "type": "short",
+    "Q": "Apa visi UNSIQ?",
+    "A": "Cetak SDM unggul berakhlak dan berilmu"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa visi pendidikan UNSIQ menurut Rektor?",
+    "A": "Mencetak lulusan unggul yang sehat jasmani, kuat spiritual, dan berintegritas"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana UNSIQ menyeimbangkan ilmu dan akhlak?",
+    "A": "Dengan menolak dikotomi ilmu umum-agama, dan menekankan kompetensi plus nurani"
+  },
+  {
+    "type": "original",
+    "Q": "Apa visi pendidikan UNSIQ menurut Rektor?",
+    "A": "UNSIQ berkomitmen mencetak SDM unggul yang menguasai ilmu, teknologi, budi pekerti, dan nurani—generasi yang sehat jasmani, kuat spiritual, dan siap membangun Indonesia hebat serta peradaban dunia bermartabat. Visi ini menolak dikotomi antara ilmu umum dan agama, melainkan menekankan keseimbangan kompetensi teknis dan kedalaman akhlak, sehingga lulusan tidak hanya pintar, tetapi juga berintegritas dan berempati."
+  },
+
+  // Entri 9 – Kuliah plus ngaji
+  {
+    "type": "short",
+    "Q": "Apa itu kuliah plus ngaji?",
+    "A": "Kuliah + pesantren"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana model 'kuliah plus ngaji' di UNSIQ?",
+    "A": "Mahasiswa kuliah akademik sekaligus mengaji dan salat berjamaah seperti santri"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa UNSIQ menerapkan kuliah plus ngaji?",
+    "A": "Agar ilmu akademik diperkuat oleh nilai agama, mencetak intelektual yang rendah hati"
+  },
+  {
+    "type": "original",
+    "Q": "Apa yang dimaksud dengan “kuliah plus ngaji” di UNSIQ?",
+    "A": "Ini adalah model integrasi akademik formal dan pembinaan spiritual pesantren. Mahasiswa tidak hanya mengikuti kuliah, tetapi juga mengaji kitab kuning, salat berjamaah, dan kegiatan kepesantrenan—menjadikan mereka “mahasiswa plus santri”. Pendekatan ini memastikan bahwa ilmu yang dipelajari tidak menggerus nilai agama, melainkan diperkuat olehnya, sehingga lulusan menjadi intelektual yang tetap rendah hati dan berakhlak mulia."
+  },
+
+  // Entri 10 – MBKM di UNSIQ
+  {
+    "type": "short",
+    "Q": "Bagaimana MBKM di UNSIQ?",
+    "A": "Skema 5-1-2"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa skema MBKM di UNSIQ?",
+    "A": "5 semester kuliah, 1 MBKM, 2 skripsi"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana UNSIQ menerapkan Merdeka Belajar?",
+    "A": "Mahasiswa bebas pilih magang, riset, atau proyek di luar kampus selama 1 semester"
+  },
+  {
+    "type": "original",
+    "Q": "Bagaimana UNSIQ mengimplementasikan Merdeka Belajar Kampus Merdeka (MBKM)?",
+    "A": "UNSIQ menerapkan MBKM melalui skema 5-1-2: 5 semester kuliah reguler, 1 semester kegiatan MBKM (magang, riset, dll), dan 2 semester skripsi. Program MBKM dijalankan secara mandiri, fakultatif, universiter, atau melalui hibah kompetisi dari kementerian. Ini memberi mahasiswa kebebasan memilih pengalaman belajar di luar kampus—menjawab tuntutan dunia kerja yang menilai kompetensi nyata, bukan hanya IPK."
+  },
+  // Entri 1 – Syajarah Al-Qur’an
+  {
+    "type": "short",
+    "Q": "Apa itu Syajarah Al-Qur’an?",
+    "A": "Epistemologi berbasis Al-Qur’an"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa itu “Syajarah Al-Qur’an” di UNSIQ?",
+    "A": "Kerangka ilmu yang menjadikan Al-Qur’an sebagai akar semua disiplin"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana Syajarah Al-Qur’an membentuk ilmu di UNSIQ?",
+    "A": "Semua ilmu—fisika hingga ekonomi—dipelajari dalam cahaya nilai Al-Qur’an untuk ciptakan sains beretika"
+  },
+  {
+    "type": "original",
+    "Q": "Apa itu “Syajarah Al-Qur’an” sebagai epistemologi UNSIQ?",
+    "A": "“Syajarah Al-Qur’an” (Pohon Al-Qur’an) adalah kerangka epistemologi yang menjadikan Al-Qur’an sebagai akar, batang, dan buah ilmu pengetahuan. Segala disiplin ilmu—fisika, ekonomi, hukum, teknik—dipelajari dalam cahaya nilai Al-Qur’an, menciptakan sains yang beretika dan teknologi yang berkeadilan. Ini membedakan UNSIQ dari kampus sekuler sekaligus kampus tradisional: ia adalah sintesis antara pesantren dan universitas modern."
+  },
+
+  // Entri 2 – Transformasi digital & data tunggal
+  {
+    "type": "short",
+    "Q": "Apa dasar transformasi digital UNSIQ?",
+    "A": "Data tunggal"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa UNSIQ pakai sistem data tunggal?",
+    "A": "Agar keputusan akademik dan kebijakan presisi berdasarkan data terpadu"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana data tunggal dukung transformasi digital UNSIQ?",
+    "A": "Data akurat dan terintegrasi memungkinkan penyesuaian kurikulum dan layanan sesuai kebutuhan nyata"
+  },
+  {
+    "type": "original",
+    "Q": "Mengapa UNSIQ menekankan transformasi digital berbasis data tunggal?",
+    "A": "Karena transformasi digital yang efektif memerlukan data akurat, mutakhir, terpadu, dan terkoneksi sebagai dasar pengambilan keputusan. Dengan sistem data tunggal, UNSIQ dapat mengevaluasi kinerja, merancang kebijakan, dan mengembangkan layanan secara presisi—misalnya, menyesuaikan kurikulum berdasarkan tren penyerapan kerja lulusan. Ini memastikan kampus tetap adaptif dan responsif di tengah perubahan yang dinamis."
+  },
+
+  // Entri 3 – Qur’anisasi & saintifikasi
+  {
+    "type": "short",
+    "Q": "Apa itu qur’anisasi sains?",
+    "A": "Sains selaras nilai Al-Qur’an"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa makna qur’anisasi dan saintifikasi Al-Qur’an?",
+    "A": "Sains diarahkan pada nilai Qur’an, Al-Qur’an dikaji dengan metode ilmiah"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana qur’anisasi dan saintifikasi saling melengkapi?",
+    "A": "Ilmu tidak jadi sekuler, agama tidak stagnan—menciptakan peradaban Islam yang dinamis dan global"
+  },
+  {
+    "type": "original",
+    "Q": "Apa makna “qur’anisasi sains dan saintifikasi Al-Qur’an”?",
+    "A": "“Qur’anisasi sains” berarti mengarahkan sains agar selaras dengan nilai Al-Qur’an—misalnya, teknik mesin untuk alat pertanian pesantren. “Saintifikasi Al-Qur’an” berarti mengkaji Al-Qur’an dengan metode ilmiah modern—seperti analisis linguistik atau AI untuk studi tafsir. Dua gerakan ini saling melengkapi: ilmu tidak sekuler, dan agama tidak stagnan, menciptakan peradaban Islam yang dinamis dan berkontribusi global."
+  },
+
+  // Entri 4 – Relevansi tanpa kehilangan identitas
+  {
+    "type": "short",
+    "Q": "Bagaimana UNSIQ tetap relevan?",
+    "A": "Harmonisasi pesantren dan universitas"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana UNSIQ jaga identitas di era modern?",
+    "A": "Teknologi disaring lewat nilai Al-Qur’an dalam kurikulum dan riset"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa UNSIQ tidak tergerus modernitas?",
+    "A": "Karena semua inovasi dikaitkan dengan prinsip maslahah, keadilan, dan rahmatan lil ‘alamin"
+  },
+  {
+    "type": "original",
+    "Q": "Bagaimana UNSIQ menjaga relevansi di era modern tanpa kehilangan identitas?",
+    "A": "Dengan mengharmonikan tradisi pesantren dan keunggulan universitas modern. UNSIQ tidak menolak teknologi, tetapi menyaringnya melalui nilai Al-Qur’an. Kurikulum, riset, dan pengabdian dirancang untuk menjawab isu kontemporer—dari ekonomi digital hingga kesehatan—namun selalu dikaitkan dengan prinsip maslahah, adl (keadilan), dan rahmatan lil ‘alamin. Ini menjadikan UNSIQ tempat di mana modernitas tidak mengikis iman, melainkan memperkuatnya."
+  },
+
+  // Entri 5 – Peran di masyarakat Wonosobo
+  {
+    "type": "short",
+    "Q": "Apa peran UNSIQ di Wonosobo?",
+    "A": "Agen perubahan sosial"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana UNSIQ berkontribusi di Wonosobo?",
+    "A": "Melalui pendidikan, riset, dan pengabdian berbasis nilai Islam"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apa dampak UNSIQ bagi masyarakat lokal?",
+    "A": "Lulusan isi sektor strategis, kampus dorong UMKM syariah dan pelatihan berkelanjutan"
+  },
+  {
+    "type": "original",
+    "Q": "Apa peran UNSIQ dalam pembangunan masyarakat Wonosobo dan sekitarnya?",
+    "A": "UNSIQ berperan sebagai agen perubahan sosial melalui pendidikan, riset, dan pengabdian. Lulusannya mengisi pos-pos strategis di sekolah, puskesmas, BMT, dan pemerintahan daerah. Kampus ini juga menjadi pusat pelatihan, seminar, dan inkubasi UMKM berbasis syariah—mendorong kemandirian ekonomi dan penguatan nilai lokal. Dengan demikian, UNSIQ tidak hanya mencetak sarjana, tetapi juga menggerakkan pembangunan berkelanjutan berbasis nilai Islam."
+  },
+
+  // Entri 6 – Universitas transformatif
+  {
+    "type": "short",
+    "Q": "Mengapa UNSIQ disebut transformatif?",
+    "A": "Ubah cara berpikir dan berkontribusi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa arti “universitas transformatif” bagi UNSIQ?",
+    "A": "Mahasiswa dididik jadi problem solver, bukan hanya pencari kerja"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana UNSIQ wujudkan pendidikan transformatif?",
+    "A": "Lewat MBKM dan riset terapan untuk selesaikan masalah nyata berbasis Al-Qur’an"
+  },
+  {
+    "type": "original",
+    "Q": "Mengapa UNSIQ disebut sebagai “universitas transformatif”?",
+    "A": "Karena UNSIQ tidak hanya mentransfer ilmu, tetapi mentransformasi cara berpikir, bersikap, dan berkontribusi. Mahasiswa didorong untuk menjadi problem solver, bukan sekadar pencari kerja. Melalui MBKM, pengabdian, dan riset terapan, mereka belajar mengidentifikasi masalah nyata—kemiskinan, kesehatan, lingkungan—dan merancang solusi berbasis Al-Qur’an. Ini adalah inti dari pendidikan transformatif: mengubah dunia, bukan hanya memahaminya."
+  },
+
+  // Entri 7 – Harapan Rektor terhadap lulusan
+  {
+    "type": "short",
+    "Q": "Apa harapan Rektor pada lulusan?",
+    "A": "Spesifik, kompetitif, komplementatif"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa tiga keunggulan lulusan UNSIQ?",
+    "A": "Menguasai bidang, siap bersaing global, mampu kolaborasi lintas disiplin"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apa arti tiga keunggulan lulusan UNSIQ menurut Rektor?",
+    "A": "Lulusan harus ahli di bidangnya, unggul di level global, dan mampu kerja sama lintas ilmu"
+  },
+  {
+    "type": "original",
+    "Q": "Apa harapan Rektor terhadap lulusan UNSIQ?",
+    "A": "Lulusan UNSIQ diharapkan memiliki tiga keunggulan: Spesifik (menguasai bidangnya), Kompetitif (siap bersaing global), Komplementatif (mampu berkolaborasi lintas disiplin)."
+  },
+
+  // Entri 8 – Kontribusi pada peradaban dunia
+  {
+    "type": "short",
+    "Q": "Apa kontribusi UNSIQ global?",
+    "A": "Model peradaban Islam modern"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana UNSIQ berkontribusi pada peradaban dunia?",
+    "A": "Menawarkan alternatif peradaban berkeadilan berbasis ilmu dan akhlak"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa UNSIQ penting bagi peradaban global?",
+    "A": "Menunjukkan umat Islam bisa unggul dalam sains tanpa kehilangan jati diri spiritual"
+  },
+  {
+    "type": "original",
+    "Q": "Bagaimana UNSIQ berkontribusi pada peradaban dunia?",
+    "A": "Dengan menghadirkan model peradaban Islam yang modern, inklusif, dan berbasis ilmu. UNSIQ menunjukkan bahwa umat Islam bisa unggul dalam sains dan teknologi tanpa kehilangan jati diri. Melalui riset tentang ekonomi syariah, kesehatan berbasis nilai, atau arsitektur Islam, kampus ini menawarkan alternatif peradaban yang berkeadilan, berkelanjutan, dan berakhlak—menjawab krisis moral peradaban sekuler kontemporer."
+  },
+
+  // Entri 9 – Peran website UNSIQ
+  {
+    "type": "short",
+    "Q": "Apa fungsi website UNSIQ?",
+    "A": "Media komunikasi multipihak"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa peran website UNSIQ menurut Rektor?",
+    "A": "Jadi wajah digital yang transparan untuk mahasiswa, orang tua, dan mitra global"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana website UNSIQ perkuat akuntabilitas?",
+    "A": "Menyediakan akses informasi terbuka untuk semua pemangku kepentingan secara interaktif"
+  },
+  {
+    "type": "original",
+    "Q": "Apa peran website UNSIQ menurut Rektor?",
+    "A": "Website UNSIQ dirancang sebagai media komunikasi multipihak: bagi mahasiswa (akses akademik), orang tua (pemantauan studi), masyarakat (informasi publik), pemerintah (kolaborasi kebijakan), dan dunia internasional (jejaring global). Ini adalah wajah digital UNSIQ yang transparan, informatif, dan interaktif—memperkuat keterbukaan dan akuntabilitas institusi di era digital."
+  },
+
+  // Entri 10 – Makna “Amin 33 Ya Robbal’alamin”
+  {
+    "type": "short",
+    "Q": "Apa makna “Amin 33”?",
+    "A": "Simbol dzikir 33 kali"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa Rektor tulis “Amin 33 Ya Robbal’alamin”?",
+    "A": "Merujuk pada wirid 33 tasbih, tahmid, takbir setelah salat"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apa filosofi di balik penutup surat Rektor dengan Amin 33?",
+    "A": "Mengingatkan bahwa segala usaha akademik harus diakhiri dengan doa dan tawakal kepada Allah"
+  },
+  {
+    "type": "original",
+    "Q": "Mengapa doa penutup surat Rektor menggunakan “Amin 33 Ya Robbal’alamin”?",
+    "A": "Angka 33 merujuk pada jumlah tasbih, tahmid, dan takbir dalam wirid setelah salat—simbol kesempurnaan dzikir dan ketergantungan total kepada Allah. Penggunaan ini mencerminkan jiwa pesantren UNSIQ: setiap usaha, termasuk pembangunan perguruan tinggi, harus diakhiri dengan doa dan tawakal. Ini mengingatkan bahwa keberhasilan akademik dan institusional tidak lepas dari ridha Ilahi, sehingga ilmu harus selalu diiringi spiritualitas."
+  },
+
+  // Entri 11 – Lokasi kantor PMB
+  {
+    "type": "short",
+    "Q": "Di mana kantor PMB UNSIQ?",
+    "A": "Jl. KH. Hasyim Asy’ari km 3, Wonosobo"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa alamat kantor layanan PMB UNSIQ?",
+    "A": "Gedung PMB UNSIQ, Jl. KH. Hasyim Asy’ari km 3, Mojotengah, Wonosobo"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana akses ke kantor PMB UNSIQ?",
+    "A": "Mudah dijangkau dari pusat kota, jadi pusat layanan terpadu untuk calon mahasiswa"
+  },
+  {
+    "type": "original",
+    "Q": "Di mana kantor layanan PMB UNSIQ berada?",
+    "A": "Kantor PMB UNSIQ berlokasi di Gedung PMB UNSIQ, Jl. KH. Hasyim Asy’ari km 3, Mojotengah, Wonosobo, Jawa Tengah. Lokasi ini mudah diakses dari pusat kota Wonosobo dan menjadi pusat layanan terpadu untuk calon mahasiswa—mulai dari konsultasi pendaftaran, verifikasi dokumen, hingga pengajuan beasiswa. Calon disarankan datang pada jam kerja resmi kampus untuk mendapatkan pelayanan optimal dan respons langsung dari tim administrasi."
+  },
+
+  // Entri 12 – Email PMB
+  { "type": "short", "Q": "Email resmi PMB UNSIQ?", "A": "pmb@unsiq.ac.id" },
+  {
+    "type": "medium",
+    "Q": "Apa email resmi PMB UNSIQ?",
+    "A": "pmb@unsiq.ac.id untuk komunikasi formal pendaftaran"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana cara efektif menghubungi PMB via email?",
+    "A": "Gunakan subjek jelas seperti “Pertanyaan Pendaftaran – [Nama]” untuk respons cepat dalam 1–2 hari"
+  },
+  {
+    "type": "original",
+    "Q": "Apa alamat email resmi PMB UNSIQ untuk komunikasi?",
+    "A": "Alamat email resmi PMB UNSIQ adalah pmb@unsiq.ac.id. Email ini digunakan untuk semua komunikasi formal terkait pendaftaran, verifikasi dokumen, pengaduan teknis, atau permohonan informasi tambahan. Calon mahasiswa disarankan menggunakan subjek email yang jelas (misal: “Pertanyaan Pendaftaran – [Nama Lengkap]”) agar pesan cepat ditindaklanjuti. Respons biasanya diberikan dalam 1–2 hari kerja oleh tim PMB yang profesional dan responsif."
+  },
+
+  // Entri 13 – Kontak WhatsApp PMB
+  { "type": "short", "Q": "Nomor WhatsApp PMB UNSIQ?", "A": "0857 7504 7504" },
+  {
+    "type": "medium",
+    "Q": "Bagaimana kontak PMB via WhatsApp?",
+    "A": "0857 7504 7504 untuk konsultasi alur pendaftaran dan status verifikasi"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Apakah WhatsApp PMB bisa untuk kirim dokumen?",
+    "A": "Tidak—WhatsApp hanya untuk konsultasi awal; dokumen resmi harus lewat email atau portal PMB"
+  },
+  {
+    "type": "original",
+    "Q": "Bagaimana cara menghubungi PMB UNSIQ via WhatsApp?",
+    "A": "Calon mahasiswa dapat menghubungi PMB UNSIQ melalui WhatsApp di nomor 0857 7504 7504: Layanan ini memungkinkan komunikasi cepat untuk pertanyaan seputar alur pendaftaran, status verifikasi, jadwal ujian, atau kendala sistem. Namun, untuk dokumen resmi atau pengajuan beasiswa, calon tetap diminta mengunggah melalui laman PMB atau mengirim email—karena WhatsApp tidak dianggap sebagai saluran administratif resmi, melainkan hanya untuk konsultasi awal."
+  },
+  // Entri 14 – PMB di Telegram
+  { "type": "short", "Q": "Apakah PMB ada di Telegram?", "A": "Ya" },
+  {
+    "type": "medium",
+    "Q": "Apakah PMB UNSIQ tersedia di Telegram?",
+    "A": "Ya, di nomor 0857 7504 7504 untuk update real-time"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa Telegram penting untuk calon mahasiswa PMB?",
+    "A": "Karena Telegram digunakan untuk pengumuman cepat seperti perubahan jadwal atau kuota beasiswa"
+  },
+  {
+    "type": "original",
+    "Q": "Apakah PMB UNSIQ tersedia di Telegram?",
+    "A": "Ya, PMB UNSIQ aktif di Telegram dengan nomor yang sama: 0857 7504 7504. Platform ini digunakan untuk menyebarkan pengumuman cepat, jadwal penting, dan update kebijakan secara real-time. Calon mahasiswa disarankan menyimpan dan memblokir nomor ini untuk mencegah spam, sekaligus memastikan tidak ketinggalan informasi kritis seperti perubahan jadwal seleksi atau pembukaan kuota beasiswa—karena Telegram lebih cepat daripada email dalam penyebaran berita mendesak."
+  },
+
+  // Entri 15 – Waktu terbaik menghubungi PMB
+  {
+    "type": "short",
+    "Q": "Kapan waktu terbaik hubungi PMB?",
+    "A": "Senin–Jumat, jam kerja"
+  },
+  {
+    "type": "medium",
+    "Q": "Kapan waktu terbaik menghubungi layanan PMB?",
+    "A": "Senin–Jumat jam kerja, saat staf administrasi bertugas penuh"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa tidak disarankan hubungi PMB di luar jam kerja?",
+    "A": "Karena layanan manual oleh manusia, bukan otomatis, sehingga respons di luar jam kerja tidak langsung"
+  },
+  {
+    "type": "original",
+    "Q": "Kapan waktu terbaik menghubungi layanan PMB?",
+    "A": "Waktu terbaik adalah pada jam kerja kampus, Senin–Jumat pukul 08.00–16.00 WIB, ketika staf administrasi dan CS PMB sedang bertugas penuh. Menghubungi di luar jam tersebut (termasuk akhir pekan) berisiko tidak mendapat respons langsung, karena layanan bersifat manual, bukan chatbot otomatis. Untuk efisiensi, calon disarankan mengumpulkan semua pertanyaan terlebih dahulu, lalu mengirimnya dalam satu sesi komunikasi—baik via email, WA, atau kunjungan langsung."
+  },
+
+  // Entri 16 – Kendala teknis di laman PMB
+  {
+    "type": "short",
+    "Q": "Error di laman PMB? Hubungi siapa?",
+    "A": "WA/Telegram/email PMB"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang dilakukan jika error di laman PMB?",
+    "A": "Hubungi PMB via WA/email dengan nomor pendaftaran dan screenshot error"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Bagaimana cara cepat atasi masalah teknis di PMB online?",
+    "A": "Segera laporkan ke tim teknis dengan data lengkap; jangan tunda hingga dekat deadline"
+  },
+  {
+    "type": "original",
+    "Q": "Apa yang harus dilakukan jika mengalami kendala teknis di laman PMB?",
+    "A": "Jika mengalami error, lupa PIN, atau gagal upload dokumen, calon harus segera menghubungi PMB via WhatsApp/Telegram (0857 7504 7504) atau email (pmb@unsiq.ac.id) dengan menyertakan: nomor pendaftaran, screenshot error, dan deskripsi masalah. Tim teknis PMB akan memverifikasi akun dan memperbaiki gangguan—biasanya dalam 24 jam. Jangan menunggu hingga mendekati tenggat, karena antrean permintaan bisa memakan waktu lebih lama di masa puncak pendaftaran."
+  },
+
+  // Entri 17 – Layanan di hari Sabtu/libur
+  { "type": "short", "Q": "PMB buka di Sabtu?", "A": "Tidak" },
+  {
+    "type": "medium",
+    "Q": "Apakah PMB buka di hari libur nasional?",
+    "A": "Tidak—hanya Senin–Jumat sesuai kalender akademik"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa calon harus hindari proses pendaftaran di hari libur?",
+    "A": "Karena kantor tutup dan respons digital sangat terbatas, berisiko lewat deadline"
+  },
+  {
+    "type": "original",
+    "Q": "Apakah layanan PMB tersedia di hari Sabtu atau libur nasional?",
+    "A": "Tidak secara penuh. Layanan PMB hanya tersedia pada hari kerja Senin–Jumat, sesuai kalender akademik UNSIQ. Di hari Sabtu, Minggu, atau libur nasional, kantor tutup dan respons komunikasi digital sangat terbatas. Oleh karena itu, calon mahasiswa harus merencanakan pendaftaran jauh sebelum tenggat, terutama untuk gelombang awal yang padat. Jika mendekati deadline di hari libur, disarankan menyelesaikan segala proses di hari kerja terakhir sebelumnya."
+  },
+
+  // Entri 18 – Pertanyaan beasiswa via medsos
+  {
+    "type": "short",
+    "Q": "Bisa tanya beasiswa lewat medsos?",
+    "A": "Tidak disarankan"
+  },
+  {
+    "type": "medium",
+    "Q": "Bolehkah tanya beasiswa via media sosial PMB?",
+    "A": "Tidak—medsos hanya untuk info umum, bukan interaksi pribadi"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa pertanyaan beasiswa tidak boleh lewat media sosial?",
+    "A": "Karena berisiko bocor data pribadi dan respons tidak akurat dari pihak tidak berwenang"
+  },
+  {
+    "type": "original",
+    "Q": "Bisakah mengajukan pertanyaan beasiswa via media sosial PMB?",
+    "A": "Tidak disarankan. Meski PMB UNSIQ memiliki akun media sosial, platform tersebut hanya untuk publikasi informasi umum, bukan saluran interaksi pribadi. Pertanyaan spesifik—apalagi yang bersifat sensitif seperti data pendaftaran atau status beasiswa—harus diajukan melalui email atau WhatsApp resmi untuk menjaga privasi dan keakuratan respons. Komentar di media sosial berisiko tidak terpantau atau salah ditafsirkan oleh pihak yang tidak berwenang."
+  },
+
+  // Entri 19 – Persiapan sebelum hubungi PMB
+  {
+    "type": "short",
+    "Q": "Data apa siapkan sebelum hubungi PMB?",
+    "A": "Nama, NIK, nomor pendaftaran"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang harus disiapkan sebelum menghubungi PMB?",
+    "A": "Nama lengkap, NIK, nomor pendaftaran, dan detail masalah spesifik"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa data identitas penting saat hubungi PMB?",
+    "A": "Agar tim bisa proses cepat—tanpa NIK, permintaan bisa tertunda terutama untuk nama umum"
+  },
+  {
+    "type": "original",
+    "Q": "Apa yang harus disiapkan sebelum menghubungi PMB?",
+    "A": "Sebelum menghubungi, calon harus menyiapkan: nama lengkap, nomor pendaftaran (jika sudah ada), NIK, dan detail masalah secara spesifik. Jika terkait dokumen, siapkan file atau screenshot yang relevan. Persiapan ini mempercepat proses identifikasi dan penyelesaian—karena tim PMB menangani ratusan permintaan harian. Tanpa data identitas, permintaan bisa tertunda atau salah arah, terutama jika nama calon umum (misal: “Ahmad” tanpa NIK)."
+  },
+
+  // Entri 20 – Respons oleh staf manusia
+  { "type": "short", "Q": "Apakah PMB pakai chatbot?", "A": "Tidak" },
+  {
+    "type": "medium",
+    "Q": "Apakah semua respons PMB dari manusia?",
+    "A": "Ya—semua ditangani staf administrasi terlatih, bukan otomatis"
+  },
+  {
+    "type": "explanatory",
+    "Q": "Mengapa respons PMB tidak instan di masa pendaftaran puncak?",
+    "A": "Karena semua layanan manual oleh manusia; kapasitas terbatas saat permintaan membludak"
+  },
+  {
+    "type": "original",
+    "Q": "Apakah semua pertanyaan direspons oleh staf manusia?",
+    "A": "Ya, semua respons dari PMB UNSIQ diberikan oleh staf administrasi dan customer service yang terlatih, bukan chatbot otomatis. Ini memastikan akurasi dan empati dalam menangani kendala—terutama yang kompleks seperti verifikasi dokumen ganda atau konflik beasiswa. Namun, karena kapasitas manusia terbatas, calon diminta bersabar jika respons tidak instan, terutama di masa pendaftaran puncak (November–Desember dan Mei–Agustus)."
+  }
+]

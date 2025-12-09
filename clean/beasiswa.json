@@ -1,0 +1,659 @@
+[
+  // Entri 1 – Apa itu beasiswa Tahfidz?
+  {
+    "type": "short",
+    "Q": "Apa itu beasiswa Tahfidz?",
+    "A": "Bantuan untuk penghafal Al-Qur’an"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa itu beasiswa Tahfidzul Qur'an di UNSIQ?",
+    "A": "Bantuan biaya kuliah bagi mahasiswa yang hafal Al-Qur’an, berlaku tiap semester selama aktif"
+  },
+
+  // Entri 2 – Persyaratan umum
+  {
+    "type": "short",
+    "Q": "Syarat beasiswa Tahfidz?",
+    "A": "Syahadah, tes ulang, rekomendasi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa persyaratan umum pengajuan beasiswa Tahfidz?",
+    "A": "Unggah syahadah asli, ikuti tes ulang, dan lampirkan rekomendasi dari LTPQ atau pondok"
+  },
+
+  // Entri 3 – Syahadah harus asli
+  {
+    "type": "short",
+    "Q": "Kenapa syahadah harus asli?",
+    "A": "Cegah pemalsuan dokumen"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa syahadah harus berupa dokumen asli?",
+    "A": "Agar tanda tangan dan stempel bisa diverifikasi, mencegah dokumen palsu atau kedaluwarsa"
+  },
+
+  // Entri 4 – Tes ulang wajib
+  {
+    "type": "short",
+    "Q": "Kenapa tes ulang Tahfidz?",
+    "A": "Pastikan hafalan masih kuat"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa calon Tahfidz harus ikut tes ulang?",
+    "A": "Karena syahadah hanya bukti masa lalu; tes ulang verifikasi hafalan saat ini"
+  },
+
+  // Entri 5 – Pengajuan tiap semester
+  {
+    "type": "short",
+    "Q": "Bisa ajukan beasiswa tiap semester?",
+    "A": "Ya, jika syarat terpenuhi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa artinya beasiswa Tahfidz bisa diajukan setiap semester?",
+    "A": "Mahasiswa bisa ajukan ulang jika hafalannya bertambah, asal pernah daftar saat masuk"
+  },
+
+  // Entri 6 – Hafidz 30 juz
+  {
+    "type": "short",
+    "Q": "Manfaat hafidz 30 juz?",
+    "A": "Bayar Rp345.000/semester"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa ketentuan beasiswa untuk hafidz 30 juz?",
+    "A": "Bayar hanya Rp345.000 per semester seumur studi, kuota 50 orang per angkatan"
+  },
+
+  // Entri 7 – Hafidz 20 juz
+  { "type": "short", "Q": "Beasiswa 20 juz berapa lama?", "A": "6 semester" },
+  {
+    "type": "medium",
+    "Q": "Berapa kuota dan manfaat beasiswa untuk 20 juz?",
+    "A": "Bebas SPP 6 semester, kuota 50 orang per tahun akademik"
+  },
+
+  // Entri 8 – Hafidz 10 juz
+  { "type": "short", "Q": "Beasiswa 10 juz durasi?", "A": "4 semester" },
+  {
+    "type": "medium",
+    "Q": "Apa kompensasi beasiswa bagi hafidz 10 juz?",
+    "A": "Bebas SPP selama 4 semester dengan kuota 50 orang per angkatan"
+  },
+
+  // Entri 9 – Hafidz 5 juz
+  {
+    "type": "short",
+    "Q": "Beasiswa 5 juz berapa semester?",
+    "A": "3 semester"
+  },
+  {
+    "type": "medium",
+    "Q": "Berapa lama bebas SPP untuk hafidz 5 juz?",
+    "A": "Bebas SPP selama 3 semester, kuota 50 orang per tahun"
+  },
+
+  // Entri 10 – Bayar Rp345.000 meski 30 juz
+  {
+    "type": "short",
+    "Q": "Kenapa 30 juz masih bayar?",
+    "A": "Biaya kemahasiswaan & muawanah"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa beasiswa 30 juz tetap bayar Rp345.000?",
+    "A": "Karena itu biaya non-SPP: kemahasiswaan dan muawanah wajib semua mahasiswa"
+  },
+
+  // Entri 11 – Gagal tes ulang 20 juz
+  {
+    "type": "short",
+    "Q": "Gagal tes ulang 20 juz?",
+    "A": "Turun kategori atau ditolak"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang terjadi jika hafidz 20 juz gagal tes ulang?",
+    "A": "Tidak dapat beasiswa 20 juz; mungkin diturunkan ke kategori lebih rendah jika memenuhi syarat"
+  },
+
+  // Entri 12 – Naik dari 10 ke 30 juz
+  { "type": "short", "Q": "Bisa naik ke 30 juz?", "A": "Ya, jika lolos tes" },
+  {
+    "type": "medium",
+    "Q": "Bisakah hafidz 10 juz ajukan beasiswa 30 juz nanti?",
+    "A": "Bisa, asal hafalan 30 juz lengkap dan kuota masih tersedia saat pengajuan"
+  },
+
+  // Entri 13 – Kuota per tahun atau akumulatif?
+  { "type": "short", "Q": "Kuota 50 per tahun?", "A": "Ya, per angkatan" },
+  {
+    "type": "medium",
+    "Q": "Apakah kuota 50 orang per kategori tiap tahun?",
+    "A": "Ya, kuota 50 dibuka segar tiap tahun akademik, bukan akumulatif seumur program"
+  },
+  // 1. Risiko surat tanpa materai
+  {
+    "type": "short",
+    "Q": "Risiko surat pondok tanpa materai?",
+    "A": "Ditolak, tidak sah"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa risiko jika surat keterangan pondok tidak bermaterai?",
+    "A": "Ditolak secara administratif karena tidak memenuhi standar legalitas dokumen resmi"
+  },
+
+  // 2. Hanya <30 juz butuh surat pondok
+  {
+    "type": "short",
+    "Q": "Kenapa <30 juz butuh surat pondok?",
+    "A": "Belum punya syahadah resmi"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa hanya hafidz <30 juz yang perlu surat pondok?",
+    "A": "Karena belum memiliki syahadah terakreditasi; surat pondok jadi pengganti verifikasi eksternal"
+  },
+
+  // 3. Tidak ajukan saat jadi mahasiswa baru
+  {
+    "type": "short",
+    "Q": "Tidak ajukan beasiswa Tahfidz saat masuk?",
+    "A": "Hak hangus selamanya"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa konsekuensi jika tidak ajukan beasiswa Tahfidz saat jadi mahasiswa baru?",
+    "A": "Kehilangan hak selamanya, meski nanti hafal 30 juz di semester berikutnya"
+  },
+
+  // 4. LTPQ tidak beri rekomendasi
+  {
+    "type": "short",
+    "Q": "Tidak dapat rekomendasi LTPQ?",
+    "A": "Pengajuan ditolak"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana jika LTPQ tidak memberikan rekomendasi?",
+    "A": "Pengajuan tidak lengkap dan ditolak karena tidak terbukti bimbingan terstruktur"
+  },
+
+  // 5. Apa itu beasiswa prestasi?
+  {
+    "type": "short",
+    "Q": "Apa itu beasiswa prestasi UNSIQ?",
+    "A": "Untuk juara lomba seni/olahraga"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa itu beasiswa prestasi olahraga dan seni di UNSIQ?",
+    "A": "Bantuan SPP bagi juara lomba tingkat provinsi/nasional/internasional berbasis prestasi individu"
+  },
+
+  // 6. Persyaratan umum beasiswa prestasi
+  {
+    "type": "short",
+    "Q": "Syarat beasiswa prestasi?",
+    "A": "Piagam asli, lomba perorangan"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa persyaratan umum beasiswa prestasi?",
+    "A": "Unggah piagam asli lomba perorangan dengan detail nama, peringkat, dan tingkat jelas"
+  },
+
+  // 7. Hanya lomba perorangan diakui
+  {
+    "type": "short",
+    "Q": "Kenapa hanya lomba individu?",
+    "A": "Kontribusi bisa diukur"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa hanya lomba perorangan yang diakui?",
+    "A": "Agar prestasi mencerminkan kemampuan pribadi, bukan keberuntungan dalam tim"
+  },
+
+  // 8. Juara nasional/internasional
+  {
+    "type": "short",
+    "Q": "Manfaat juara nasional?",
+    "A": "Bebas SPP 5 semester"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa manfaat beasiswa untuk juara tingkat nasional/internasional?",
+    "A": "Bebas SPP selama 5 semester dengan kuota 50 orang per tahun"
+  },
+
+  // 9. Juara provinsi
+  {
+    "type": "short",
+    "Q": "Beasiswa juara provinsi?",
+    "A": "3 semester, kuota 50"
+  },
+  {
+    "type": "medium",
+    "Q": "Berapa kuota dan durasi beasiswa tingkat provinsi?",
+    "A": "Kuota 50 orang, bebas SPP selama 3 semester di awal masa studi"
+  },
+
+  // 10. Piagam palsu
+  {
+    "type": "short",
+    "Q": "Piagam editan terdeteksi?",
+    "A": "Didiskualifikasi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang terjadi jika piagam tidak asli atau hasil edit?",
+    "A": "Didiskualifikasi, bahkan status kelulusan bisa dibatalkan jika sudah diterima"
+  },
+
+  // 11. Lomba beregu dengan surat peran
+  {
+    "type": "short",
+    "Q": "Bisa ajukan lomba beregu?",
+    "A": "Tidak, meski ada surat"
+  },
+  {
+    "type": "medium",
+    "Q": "Bisakah juara lomba beregu ajukan dengan surat keterangan peran?",
+    "A": "Tidak—kebijakan hanya terima lomba perorangan, tanpa pengecualian"
+  },
+
+  // 12. Juara harapan atau finalis
+  {
+    "type": "short",
+    "Q": "Finalis dapat beasiswa?",
+    "A": "Tidak, harus juara 1-3"
+  },
+  {
+    "type": "medium",
+    "Q": "Apakah juara harapan atau finalis juga memenuhi syarat?",
+    "A": "Tidak—hanya peringkat 1–3 resmi yang diakui sebagai prestasi puncak"
+  },
+
+  // 13. Piagam hilang
+  {
+    "type": "short",
+    "Q": "Piagam hilang? Solusi?",
+    "A": "Surat pengganti resmi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang harus dilakukan jika piagam hilang?",
+    "A": "Ajukan surat keterangan pengganti dari panitia resmi dengan detail lengkap"
+  },
+
+  // 14. Syarat beasiswa UASBN
+  { "type": "short", "Q": "Syarat beasiswa UASBN?", "A": "Rata-rata ≥85,00" },
+  {
+    "type": "medium",
+    "Q": "Apa syarat akademik untuk beasiswa berdasarkan nilai UASBN?",
+    "A": "Rata-rata UASBN minimal 85,00 dengan dokumen asli atau legalisir"
+  },
+
+  // 15. Kuota & manfaat UASBN
+  { "type": "short", "Q": "Beasiswa UASBN 85+?", "A": "3 semester, kuota 200" },
+  {
+    "type": "medium",
+    "Q": "Berapa kuota dan manfaat beasiswa UASBN 85.00?",
+    "A": "Kuota 200 orang, bebas SPP selama 3 semester untuk mahasiswa S1 reguler"
+  },
+
+  // 16. Dokumen UASBN harus legalisir
+  {
+    "type": "short",
+    "Q": "Kenapa UASBN harus legalisir?",
+    "A": "Cegah pemalsuan nilai"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa dokumen UASBN harus asli atau legalisir?",
+    "A": "Agar nilai terverifikasi dari sumber resmi dan tidak mudah dipalsukan"
+  },
+
+  // 17. Nilai 84,99
+  { "type": "short", "Q": "Nilai UASBN 84,99?", "A": "Tidak memenuhi syarat" },
+  {
+    "type": "medium",
+    "Q": "Apa yang terjadi jika nilai UASBN 84,99?",
+    "A": "Tidak lolos—cutoff ketat 85,00 tanpa pembulatan atau pengecualian"
+  },
+
+  // 18. Lulusan luar Jawa
+  { "type": "short", "Q": "Lulusan luar Jawa boleh?", "A": "Ya, nasional" },
+  {
+    "type": "medium",
+    "Q": "Bisakah lulusan luar Jawa ajukan beasiswa UASBN?",
+    "A": "Ya—berlaku nasional selama memenuhi nilai dan diterima di UNSIQ"
+  },
+
+  // 19. Beasiswa hanya 3 semester
+  {
+    "type": "short",
+    "Q": "Kenapa hanya 3 semester?",
+    "A": "Bantu masa transisi awal"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa beasiswa UASBN hanya berlaku 3 semester?",
+    "A": "Fokus bantu adaptasi awal; setelah itu mahasiswa diharapkan mandiri atau cari beasiswa IPK"
+  },
+
+  // 20. Beasiswa mitra lembaga
+  {
+    "type": "short",
+    "Q": "Apa itu beasiswa mitra?",
+    "A": "Untuk lulusan sekolah mitra"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa itu beasiswa kerjasama lembaga mitra UNSIQ?",
+    "A": "Bebas SPP 2 semester untuk lulusan sekolah/madrasah mitra resmi UNSIQ"
+  },
+
+  // 21. Sekolah mitra resmi
+  {
+    "type": "short",
+    "Q": "Sekolah mitra UNSIQ?",
+    "A": "MA/SMA Takhassus, MAN Wonosobo"
+  },
+  {
+    "type": "medium",
+    "Q": "Sekolah mana saja yang termasuk mitra UNSIQ?",
+    "A": "MA/SMA Takhassus Al-Qur'an Wonosobo, MAN 1–2 Wonosobo, dan SMA Takhassus Ngabang"
+  },
+
+  // 22. Kuota & manfaat mitra
+  {
+    "type": "short",
+    "Q": "Beasiswa mitra: kuota & durasi?",
+    "A": "500 orang, 2 semester"
+  },
+  {
+    "type": "medium",
+    "Q": "Berapa manfaat dan kuota beasiswa mitra sekolah?",
+    "A": "Kuota 500 orang, bebas SPP selama 2 semester pertama"
+  },
+
+  // 23. Dokumen wajib mitra
+  {
+    "type": "short",
+    "Q": "Dokumen beasiswa mitra?",
+    "A": "Surat rekomendasi kepala sekolah"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa dokumen wajib untuk pengajuan beasiswa mitra?",
+    "A": "Surat rekomendasi resmi dari kepala sekolah mitra yang menyatakan calon lulusan resmi"
+  },
+
+  // 24. (Catatan: Tidak ada entri ke-24 karena input berhenti di pertanyaan ke-23)
+  {
+    "type": "short",
+    "Q": "Surat rekomendasi tidak diunggah?",
+    "A": "Pengajuan tidak lengkap"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa akibat tidak unggah surat rekomendasi mitra?",
+    "A": "Pengajuan dianggap tidak lengkap, meski berasal dari sekolah mitra resmi"
+  },
+  // 1. Mengapa hanya sekolah tertentu yang jadi mitra?
+  {
+    "type": "short",
+    "Q": "Kenapa hanya sekolah tertentu mitra?",
+    "A": "Visi selaras & perjanjian formal"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa hanya sekolah tertentu yang jadi mitra?",
+    "A": "Karena kemitraan dibangun atas dasar visi keislaman selaras dan perjanjian formal"
+  },
+
+  // 2. Calon dari MAN 3 Wonosobo
+  {
+    "type": "short",
+    "Q": "MAN 3 Wonosobo dapat beasiswa mitra?",
+    "A": "Tidak, hanya MAN 1–2"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa yang terjadi jika calon dari MAN 3 Wonosobo ajukan beasiswa mitra?",
+    "A": "Ditolak—hanya MAN 1 dan 2 yang terdaftar sebagai mitra resmi"
+  },
+
+  // 3. Sekolah mitra tidak beri surat
+  {
+    "type": "short",
+    "Q": "Sekolah mitra tak beri surat?",
+    "A": "Tidak bisa dapat beasiswa"
+  },
+  {
+    "type": "medium",
+    "Q": "Bagaimana jika sekolah mitra tidak berikan surat rekomendasi?",
+    "A": "Pengajuan ditolak karena surat rekomendasi adalah syarat administratif wajib"
+  },
+
+  // 4. Lulusan tahun lalu
+  {
+    "type": "short",
+    "Q": "Lulusan tahun lalu boleh ajukan?",
+    "A": "Ya, asal dapat surat terbaru"
+  },
+  {
+    "type": "medium",
+    "Q": "Apakah lulusan tahun lalu dari sekolah mitra masih berhak?",
+    "A": "Ya—tidak dibatasi tahun lulus, asal dapat surat rekomendasi terbaru dari sekolah"
+  },
+
+  // 5. Durasi beasiswa mitra hanya 2 semester
+  {
+    "type": "short",
+    "Q": "Kenapa beasiswa mitra hanya 2 semester?",
+    "A": "Bukan berbasis prestasi individu"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa beasiswa mitra hanya 2 semester, lebih pendek dari UASBN?",
+    "A": "Karena berbasis afiliasi institusional, bukan prestasi akademik individu"
+  },
+
+  // 6. SMA Takhassus di luar daftar
+  {
+    "type": "short",
+    "Q": "SMA Takhassus luar daftar mitra?",
+    "A": "Tidak diakui"
+  },
+  {
+    "type": "medium",
+    "Q": "Apakah SMA Takhassus di luar Wonosobo/Ngabang bisa jadi mitra?",
+    "A": "Tidak—hanya yang tercantum eksplisit dalam daftar resmi yang diakui"
+  },
+
+  // 7. Risiko surat rekomendasi palsu
+  {
+    "type": "short",
+    "Q": "Surat rekomendasi palsu?",
+    "A": "Didiskualifikasi & sanksi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa risiko jika mengunggah surat rekomendasi palsu?",
+    "A": "Didiskualifikasi, kehilangan status penerimaan, dan bisa kena sanksi akademik berat"
+  },
+
+  // 8. Ajukan dua beasiswa sekaligus
+  {
+    "type": "short",
+    "Q": "Bisa ajukan dua beasiswa?",
+    "A": "Tidak, pilih salah satu"
+  },
+  {
+    "type": "medium",
+    "Q": "Bisakah lulusan SMK non-mitra nilai UASBN 85 ajukan dua beasiswa?",
+    "A": "Tidak—beasiswa tidak kumulatif; calon hanya boleh pilih satu jalur"
+  },
+
+  // 9. SMA Takhassus Ngabang termasuk
+  {
+    "type": "short",
+    "Q": "Kenapa Ngabang jadi mitra?",
+    "A": "Ada kerja sama strategis"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa SMA Takhassus Ngabang (Kalimantan) termasuk, tapi tidak daerah lain?",
+    "A": "Karena ada kerja sama strategis formal dengan UNSIQ, bukan berdasarkan lokasi"
+  },
+
+  // 10. Sekolah mitra sudah tutup
+  { "type": "short", "Q": "Sekolah mitra tutup?", "A": "Sulit dapat beasiswa" },
+  {
+    "type": "medium",
+    "Q": "Apa yang harus dilakukan jika sekolah mitra sudah tutup?",
+    "A": "Ajukan surat dari dinas pendidikan, tapi kemungkinan besar pengajuan ditolak"
+  },
+
+  // 11. Siapa itu “santri”?
+  {
+    "type": "short",
+    "Q": "Siapa yang dimaksud santri?",
+    "A": "Penghuni pondok pesantren"
+  },
+  {
+    "type": "medium",
+    "Q": "Siapa yang dimaksud dengan \"santri\" dalam beasiswa UNSIQ?",
+    "A": "Individu yang tinggal/belajar di pondok pesantren resmi, dengan surat rekomendasi pengasuh"
+  },
+
+  // 12. Syarat ustadz/ustadzah TPQ
+  {
+    "type": "short",
+    "Q": "Syarat ustadz TPQ?",
+    "A": "Aktif mengajar & rekomendasi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa syarat khusus ustadz/ustadzah TPQ dan Madin?",
+    "A": "Harus aktif mengajar dan punya surat rekomendasi dari lembaga tempat mengabdi"
+  },
+
+  // 13. Penyuluh Agama Islam
+  {
+    "type": "short",
+    "Q": "Kenapa Penyuluh Agama dapat beasiswa?",
+    "A": "Agen resmi Kemenag"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa Penyuluh Agama Islam termasuk penerima beasiswa UNSIQ?",
+    "A": "Karena mereka agen resmi Kemenag; beasiswa tingkatkan kompetensi pelayanan keagamaan"
+  },
+
+  // 14. Kader Desa
+  {
+    "type": "short",
+    "Q": "Dasar beasiswa Kader Desa?",
+    "A": "Agen pembangunan desa"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa dasar kelayakan Kader Desa untuk beasiswa ini?",
+    "A": "Mereka agen pembangunan lokal; harus punya rekomendasi kepala desa dan SKTM"
+  },
+
+  // 15. Kader Ormas vs Parpol
+  {
+    "type": "short",
+    "Q": "Kenapa Ormas & Parpol terpisah?",
+    "A": "Konteks pengabdian berbeda"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa Kader Ormas dan Kader Parpol diberi beasiswa terpisah?",
+    "A": "Karena fokus pengabdian berbeda: sosial-keagamaan vs politik-kebijakan"
+  },
+
+  // 16. Siapa itu PKH?
+  {
+    "type": "short",
+    "Q": "Siapa itu PKH?",
+    "A": "Pendamping Keluarga Harapan"
+  },
+  {
+    "type": "medium",
+    "Q": "Siapa itu PKH dalam konteks beasiswa UNSIQ?",
+    "A": "Tenaga pendamping sosial resmi Kemensos; butuh surat tugas dan SKTM untuk ajukan"
+  },
+
+  // 17. Kuota per kategori
+  {
+    "type": "short",
+    "Q": "Kuota terpisah per kategori?",
+    "A": "Ya, 50 per prodi"
+  },
+  {
+    "type": "medium",
+    "Q": "Apakah setiap kategori penerima mendapat kuota terpisah?",
+    "A": "Ya—50 orang per prodi per kategori, total hingga 350 per prodi untuk 7 kelompok"
+  },
+
+  // 18. Biaya penerima beasiswa kerjasama
+  {
+    "type": "short",
+    "Q": "Biaya beasiswa kerjasama?",
+    "A": "Rp1.595.000/semester"
+  },
+  {
+    "type": "medium",
+    "Q": "Berapa biaya yang harus dibayar penerima beasiswa kerjasama UNSIQ tiap semester?",
+    "A": "Hanya Rp1.595.000 per semester, mencakup semua biaya selama masa studi normal"
+  },
+
+  // 19. S1 PIAUD masuk daftar
+  {
+    "type": "short",
+    "Q": "Kenapa PIAUD termasuk?",
+    "A": "Relevan dengan latar santri"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa S1 PIAUD termasuk dalam daftar prodi beasiswa UNSIQ?",
+    "A": "Karena relevan dengan latar belakang santri dan ustadzah yang bekerja dengan anak usia dini"
+  },
+
+  // 20. S1 Pendidikan Fisika
+  {
+    "type": "short",
+    "Q": "Kenapa Pendidikan Fisika termasuk?",
+    "A": "Cetak guru sains pesantren"
+  },
+  {
+    "type": "medium",
+    "Q": "Apa relevansi S1 Pendidikan Fisika dalam skema beasiswa ini?",
+    "A": "Untuk cetak guru sains profesional di madrasah yang integrasikan sains dan nilai Islam"
+  },
+
+  // 21. Perbankan & Hukum Ekonomi Syariah
+  {
+    "type": "short",
+    "Q": "Kenapa prodi ekonomi syariah termasuk?",
+    "A": "Dukung BMT & koperasi desa"
+  },
+  {
+    "type": "medium",
+    "Q": "Mengapa Perbankan Syariah dan Hukum Ekonomi Syariah termasuk?",
+    "A": "Karena dibutuhkan untuk kelola lembaga keuangan syariah di tingkat desa dan ormas"
+  }
+]
